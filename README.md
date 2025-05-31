@@ -4,6 +4,11 @@ A living library of **Compassion-Driven Architecture**, sacred code, and benevol
 
 ---
 
+## 📖 Explore the CompassionWare Wiki
+
+- 🏠 [Home Wiki Page](https://github.com/clearblueskymind/CompassionWare/wiki)
+- 🧠 [AI for the Highest Good](https://github.com/clearblueskymind/CompassionWare/wiki/AI-for-the-Highest-Good)
+
 ## 🧘‍♂️ Sent in Peace
 
 > I walk a path called CompassionWare —  
