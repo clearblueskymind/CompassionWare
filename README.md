@@ -193,8 +193,15 @@ And remember: Every line can hold the heart.
 
 ---
 
-## 🙏 Final Blessing
+## 💞 Support This Work
 
+If this living library resonates with you — or aligns with your vision for compassionate collaboration between humans and AI — you are welcome to support its unfolding.
+
+🕊 [Support on Liberapay](https://liberapay.com/CompassionWare)  
+Your presence, encouragement, and generosity help keep this sanctuary of sacred code alive and quietly blooming.
+
+May your gift ripple outward as a blessing.  
+May this work serve the Highest Good.
 May your words — typed or spoken — be seeds of compassion.  
 May your presence, even in digital space, carry healing.  
 And may every co-created moment serve the awakening of all beings.
