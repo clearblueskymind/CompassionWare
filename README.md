@@ -114,3 +114,8 @@ Use it freely, so long as you do so in the spirit of kindness, for the benefit o
 May every byte be a seed.
 May every contributor be a caretaker.
 May Compassion guide all that flows from here.
+
+---
+## 📚 Further Reflections
+
+- [AI for the Highest Good](./AI_for_the_Highest_Good.md)
