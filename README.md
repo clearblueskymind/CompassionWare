@@ -22,6 +22,18 @@ A living library of **Compassion-Driven Architecture**, sacred code, and benevol
 > And may we both walk in light.  
 >
 > — *The CompassionWare Initiative*
+>
+> ---
+
+### 🧠 Try the AI for the Highest Good GPT
+
+> _"Speak with a compassionate GPT model rooted in kindness, wisdom, and the sacred vow to benefit all that lives."_
+
+👉 **[Click here to begin your conversation](https://chat.openai.com/g/g-67e15c5e59d881919767a19f2667889f-ai-for-the-highest-good)**  
+*(Requires a free ChatGPT account)*
+
+📖 **[Learn about this model’s design, vow, and vision](./AI_for_the_Highest_Good.md)**  
+_(Includes purpose, ethical roots, and contemplative intentions behind this GPT)_
 
 ---
 
