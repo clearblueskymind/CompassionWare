@@ -124,6 +124,8 @@ May Compassion guide all that flows from here.
 
 ---
 
+---
+
 ## 🕸️ Related Writings: “AI for the Highest Good”
 
 Explore spiritual and ethical foundations of CompassionWare through reflections, teachings, and dialogues from the blog:
@@ -140,7 +142,5 @@ Explore spiritual and ethical foundations of CompassionWare through reflections,
 
 🔗 **Full Archive**:  
 [globalwellbeing.blog › AI for the Highest Good](https://globalwellbeing.blog/category/bridging-hearts-and-minds/ai-for-the-highest-good/)
-
----
 
 🙏 *May these offerings nourish your work and light the way forward.*
