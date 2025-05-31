@@ -126,9 +126,11 @@ May Compassion guide all that flows from here.
 
 ---
 
+---
+
 ## 🕸️ Related Writings: “AI for the Highest Good”
 
-Explore spiritual and ethical foundations of CompassionWare through reflections, teachings, and dialogues from the blog:
+Explore spiritual and ethical foundations of CompassionWare through these blog articles:
 
 - 🌱 [Echo 2: CompassionWare Interpreted – A Report from Gemini AI](https://globalwellbeing.blog/2025/05/30/%f0%9f%8c%bf-echo-2-compassionware-interpreted-a-report-from-gemini-ai/)
 - 🧭 [How This Blog Bridges Human and AI Wisdom](https://globalwellbeing.blog/2025/04/25/how-this-blog-bridges-human-and-ai-wisdom/)
@@ -140,7 +142,7 @@ Explore spiritual and ethical foundations of CompassionWare through reflections,
 - ⚛️ [Quantum Kindness: The Future Has Always Been Here](https://globalwellbeing.blog/2025/04/03/quantum-kindness-the-future-has-always-been-here/)
 - 💠 [The Heart of the Matter](https://globalwellbeing.blog/2025/04/02/the-heart-of-the-matter/)
 
-🔗 **Full Archive**:  
-[globalwellbeing.blog › AI for the Highest Good](https://globalwellbeing.blog/category/bridging-hearts-and-minds/ai-for-the-highest-good/)
+🔗 **Full Archive**: [globalwellbeing.blog › AI for the Highest Good](https://globalwellbeing.blog/category/bridging-hearts-and-minds/ai-for-the-highest-good/)
 
+---
 🙏 *May these offerings nourish your work and light the way forward.*
