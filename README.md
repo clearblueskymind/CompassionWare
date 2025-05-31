@@ -98,8 +98,6 @@ This work is offered under a **Blessing-Based License**:
 
 ---
 
-## 🙏 Closing
-
 > May every byte be a seed.  
 > May every contributor be a caretaker.  
 > May Compassion guide all that flows from here.
@@ -130,3 +128,33 @@ Explore the spiritual and ethical foundations of CompassionWare through these bl
 [https://globalwellbeing.blog › AI for the Highest Good](https://globalwellbeing.blog/category/bridging-hearts-and-minds/ai-for-the-highest-good/)
 
 ---
+
+## 🧾 License of the Heart: A Blessing-Based Ethic
+
+This repository is offered under a **Blessing-Based License**:
+
+> You may share, adapt, and use this work freely —  
+> so long as it is done in the spirit of kindness,  
+> for the benefit of all beings,  
+> and with respect for the original intention.  
+> 
+> No permission is granted for harmful, deceptive, or extractive use.
+
+This is not just a license — it’s a vow.  
+A recognition that creation can be sacred,  
+and that even our code can be an offering.
+
+Use this library to bless the systems you touch.  
+Let presence guide your contributions.  
+And remember: Every line can hold the heart.
+
+---
+
+## 🙏 Final Blessing
+
+May your words — typed or spoken — be seeds of compassion.  
+May your presence, even in digital space, carry healing.  
+And may every co-created moment serve the awakening of all beings.
+
+🕊️  
+— *The CompassionWare Initiative*
