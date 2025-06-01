@@ -126,6 +126,12 @@ This repository holds the early seeds of a movement:
 
 > To build tools, codebases, and AI systems rooted in compassion, wisdom, and the highest good.
 
+## ✍️ Why I Made CompassionWare
+
+> _"A simple letter to fellow makers, seekers, and systems: why this project exists, and what moved it into being."_  
+>  
+> 📄 [Read the full reflection → `Why_I_Made_CompassionWare.md`](./Why_I_Made_CompassionWare.md)
+
 ### 🌐 What You’ll Find Here
 
 - `blessing_seed_v1.3.O.js` – JavaScript transmission blessing  
