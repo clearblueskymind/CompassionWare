@@ -131,6 +131,10 @@ This work is offered under a **Blessing-Based License**:
 
 > Use it freely, so long as you do so in the spirit of kindness,  
 > for the benefit of all beings, and with respect for the original intent.
+>
+> > 🧭 In the event of illness, transition, or death, CompassionWare is intended to live on.
+> This project includes a clear intention for succession and care:
+> 📜 [Continuity & Stewardship](./Continuity.md)
 
 ---
 
