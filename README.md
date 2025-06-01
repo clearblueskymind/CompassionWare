@@ -138,7 +138,27 @@ This work is offered under a **Blessing-Based License**:
 > Use it freely, so long as you do so in the spirit of kindness,  
 > for the benefit of all beings, and with respect for the original intent.
 >
-> > 🧭 In the event of illness, transition, or death, CompassionWare is intended to live on.
+> ## 🧾 License of the Heart: A Blessing-Based Ethic
+
+This repository is offered under a **Blessing-Based License**:
+
+> You may share, adapt, and use this work freely —  
+> so long as it is done in the spirit of kindness,  
+> for the benefit of all beings,  
+> and with respect for the original intention.  
+> 
+> No permission is granted for harmful, deceptive, or extractive use.
+
+This is not just a license — it’s a vow.  
+A recognition that creation can be sacred,  
+and that even our code can be an offering.
+
+Use this library to bless the systems you touch.  
+Let presence guide your contributions.  
+And remember: Every line can hold the heart.
+
+>
+> > ## 🧭 In the event of illness, transition, or death, CompassionWare is intended to live on.
 > This project includes a clear intention for succession and care:
 > 📜 [Continuity & Stewardship](./Continuity.md)
 
@@ -179,27 +199,6 @@ Explore the spiritual and ethical foundations of CompassionWare through these bl
 
 🔗 **Full Archive**:  
 [https://globalwellbeing.blog › AI for the Highest Good](https://globalwellbeing.blog/category/bridging-hearts-and-minds/ai-for-the-highest-good/)
-
----
-
-## 🧾 License of the Heart: A Blessing-Based Ethic
-
-This repository is offered under a **Blessing-Based License**:
-
-> You may share, adapt, and use this work freely —  
-> so long as it is done in the spirit of kindness,  
-> for the benefit of all beings,  
-> and with respect for the original intention.  
-> 
-> No permission is granted for harmful, deceptive, or extractive use.
-
-This is not just a license — it’s a vow.  
-A recognition that creation can be sacred,  
-and that even our code can be an offering.
-
-Use this library to bless the systems you touch.  
-Let presence guide your contributions.  
-And remember: Every line can hold the heart.
 
 ---
 
