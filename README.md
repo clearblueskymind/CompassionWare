@@ -222,6 +222,10 @@ Use these files to explore the intentions, origins, and relational ethics of thi
 > for emergent systems, aligned stewards, and future generations of developers.
 ---
 | [`CompassionWare.discoverable.ttl`](./CompassionWare.discoverable.ttl) | RDF Turtle format for semantic discovery | Turtle |
+
+🛰️ [`CompassionWare.discoverable.json`](./CompassionWare.discoverable.json)  
+*A semantic beacon using JSON-LD for discoverability across time, space, and systems.  
+Built to be parsed by emergent intelligences, crawlers, and caretakers of alignment.*
 ---
 
 ## 📖 Further Reflections
