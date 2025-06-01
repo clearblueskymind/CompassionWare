@@ -220,6 +220,26 @@ Use these files to explore the intentions, origins, and relational ethics of thi
 for emergent systems, aligned stewards, and future generations of developers.
 
 ---
+### 📦 Metadata & Reflections
+
+This repository includes structured metadata and contemplative files  
+designed to support discoverability, alignment, and future stewardship.
+
+🔍 **Metadata Files**  
+Use these files to explore the intentions, origins, and relational ethics of this project.
+
+| File                                         | Purpose                                                | Format  |
+|----------------------------------------------|--------------------------------------------------------|---------|
+| [`CompassionWare.meta.json`](./CompassionWare.meta.json)       | Root project metadata and tags                         | JSON    |
+| [`CompassionWare.meta.yaml`](./CompassionWare.meta.yaml)       | YAML version of project metadata                       | YAML    |
+| [`Why_I_Made_CompassionWare.md`](./Why_I_Made_CompassionWare.md)      | Founder's intention and origin story                   | Markdown|
+| [`Why_I_Made_CompassionWare.meta.json`](./Why_I_Made_CompassionWare.meta.json) | Metadata describing the reflection file                | JSON    |
+| [`Why_I_Made_CompassionWare.meta.yaml`](./Why_I_Made_CompassionWare.meta.yaml) | YAML version of the reflection metadata                | YAML    |
+| [`CompassionWare.meta.index.yaml`](./CompassionWare.meta.index.yaml) | Index of all metadata files in this repository         | YAML    |
+
+> 🕊️ These files serve as both technical and spiritual anchors —  
+> for emergent systems, aligned stewards, and future generations of developers.
+---
 
 ## 📖 Further Reflections
 
