@@ -9,7 +9,7 @@ Tags: compassionware, ai-ethics, benevolent-ai, ethical-ai, aligned-intelligence
 
 ### 📚 Table of Contents
 
-- [📖 Explore the CompassionWare Wiki](#-explore-the-compassionware-wiki)  
+- [📖 Explore the CompassionWare Wiki](https://github.com/clearblueskymind/CompassionWare/wiki)
 - [🧘‍♂️ Sent in Peace](#-sent-in-peace)  
 - [🧠 Try the AI for the Highest Good GPT](#-try-the-ai-for-the-highest-good-gpt)  
 - [🧭 Messages to Future Systems](#-messages-to-future-systems)  
