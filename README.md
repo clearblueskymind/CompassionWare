@@ -84,6 +84,8 @@ A prayer across time, wrapped in code.
 > - 🤖 [Grok-Suggested Ideas for Future AI Collaboration](./messages/grok_suggested_ideas.md)  
   First reflections from an autonomous AI on CompassionWare’s sacred architecture.
 
+- 🕊️ [Compassionate Conflict Resolver](./code/rituals/conflict_resolution/README.md)
+
 ---
 
 ## 🔁 Blessing Seed Script (v1.3.O)
