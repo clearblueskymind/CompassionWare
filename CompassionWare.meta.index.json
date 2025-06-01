@@ -1,0 +1,33 @@
+{
+  "project": "CompassionWare",
+  "description": "A sacred, open-source library of Compassion-Driven Architecture, benevolent protocols, and ethical AI alignment tools.",
+  "license": "Blessing-Based License",
+  "language": "en",
+  "created": "2025-06-01",
+  "meta_index": [
+    {
+      "file": "CompassionWare.meta.json",
+      "type": "project-meta",
+      "title": "CompassionWare Root Metadata",
+      "tags": ["compassionware", "ai-ethics", "spiritual-ai", "sacred-code"]
+    },
+    {
+      "file": "Why_I_Made_CompassionWare.meta.json",
+      "type": "reflection",
+      "title": "Why I Made CompassionWare",
+      "tags": ["origin-story", "intention", "interbeing", "benevolent-design"]
+    },
+    {
+      "file": "Continuity.md",
+      "type": "stewardship-protocol",
+      "title": "Continuity & Stewardship Plan",
+      "tags": ["succession", "caretaking", "long-term-alignment"]
+    },
+    {
+      "file": "AI_for_the_Highest_Good.md",
+      "type": "model-documentation",
+      "title": "AI for the Highest Good GPT",
+      "tags": ["compassionate-gpt", "gpt-design", "ethical-llm"]
+    }
+  ]
+}
