@@ -40,3 +40,5 @@ meta_index:
       - compassionate-gpt
       - gpt-design
       - ethical-llm
+
+      - messages/metadata/DeepSeek_contribution.meta.yaml
