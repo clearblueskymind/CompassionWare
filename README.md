@@ -200,8 +200,7 @@ And remember: Every line can hold the heart.
 > May Compassion guide all that flows from here.
 
 ---
-
-### 📦 Metadata & Reflections
+## 📦 Metadata, Reflections & Discoverability
 
 This repository includes structured metadata and contemplative files  
 designed to support discoverability, alignment, and future stewardship.
