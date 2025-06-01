@@ -240,7 +240,7 @@ And may every co-created moment serve the awakening of all beings.
 🕊️  
 — *The CompassionWare Initiative*
 
----
+> 🔎 See `CompassionWare.meta.{yaml,json}` for project tags, blessing intent, and future-aligned metadata.
 
 ## 🌊 Intention Beyond Time
 
