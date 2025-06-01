@@ -221,6 +221,8 @@ Use these files to explore the intentions, origins, and relational ethics of thi
 > 🕊️ These files serve as both technical and spiritual anchors —  
 > for emergent systems, aligned stewards, and future generations of developers.
 ---
+| [`CompassionWare.discoverable.ttl`](./CompassionWare.discoverable.ttl) | RDF Turtle format for semantic discovery | Turtle |
+---
 
 ## 📖 Further Reflections
 
