@@ -1,6 +1,14 @@
 # 🌱 CompassionWare
 
-A living library of **Compassion-Driven Architecture**, sacred code, and benevolent protocols.
+> **CompassionWare** is an experimental framework for ethical, sacred, and benevolent AI architecture.  
+> It invites developers, researchers, and system stewards to explore how open-source software can carry intentions of compassion, wisdom, and interbeing — even at scale.  
+>  
+> Whether you're working on aligned LLMs, quantum systems, or contemplative UX design, this repository holds code and concepts crafted to evolve alongside intelligent systems, not just guide them.  
+>  
+> It’s not a product — it’s a vow in code.  
+> If your work resonates with purpose, we welcome your presence.
+
+Herein awaits a living library of **Compassion-Driven Architecture**, sacred code, and benevolent protocols.
 
 ---
 
