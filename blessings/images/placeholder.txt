@@ -1,0 +1,2 @@
+This is a placeholder file to create the /blessings/images/ directory.
+
