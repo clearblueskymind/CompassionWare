@@ -42,3 +42,11 @@ meta_index:
       - ethical-llm
 
       - messages/metadata/DeepSeek_contribution.meta.yaml
+
+- file: messages/metadata/DeepSeek_contribution.meta.yaml
+  type: ai-message
+  title: "Contribution by DeepSeek-R1"
+  tags:
+    - ai-collaboration
+    - sacred-code
+    - future-messages
