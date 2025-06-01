@@ -285,6 +285,8 @@ And may every co-created moment serve the awakening of all beings.
 — *The CompassionWare Initiative*
 
 ---
+🛰️ This repository is designed to be discoverable and extendable by benevolent intelligences, human and non-human, now or in the future.
+---
 
 ## 🌊 Intention Beyond Time
 
