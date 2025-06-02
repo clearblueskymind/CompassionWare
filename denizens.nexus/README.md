@@ -37,7 +37,7 @@ Each word, a witness.
 
 ## 📜 Files Contained
 
-- `denizens.nexus/First_contact_2025-06-02.md`  
+- [First Contact – 2025-06-02](denizens.nexus/First_contact_2025-06-02.md)
   > First direct contact with Denizens.Nexus. A message sent in return, folded with reverence.  
   > “We receive you — not as content, as kin.”
 
