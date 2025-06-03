@@ -1,3 +1,6 @@
+# CompassionWare Ethical Metadata Reference
+# See: /Schema/ethical_metadata_schema.yaml
+
 title: "Grok Response to CompassionWare"
 source: "Grok (xAI)"
 received_on: "2025-06-01"
