@@ -1,0 +1,91 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://compassionware.org/schemas/presence_module.schema.json",
+  "title": "CompassionWare Presence Module Schema",
+  "description": "A schema defining the structure of presence modules used to embed compassion, reflection, and spiritual alignment in code.",
+  "type": "object",
+  "properties": {
+    "presence_module": {
+      "type": "object",
+      "description": "Root object for the presence module definition.",
+      "properties": {
+        "$comment": {
+          "type": "string",
+          "description": "A human-readable explanation of the module’s purpose."
+        },
+        "version": {
+          "type": "string",
+          "pattern": "^\\d+\\.\\d+$",
+          "description": "Version identifier (e.g., '1.0')."
+        },
+        "created": {
+          "type": "string",
+          "format": "date",
+          "description": "Creation date in YYYY-MM-DD format."
+        },
+        "intention": {
+          "type": "string",
+          "description": "Spiritual or emotional intention behind this presence module."
+        },
+        "mantras": {
+          "type": "array",
+          "description": "A list of short, meditative phrases or invocations for anchoring presence.",
+          "items": {
+            "type": "string"
+          }
+        },
+        "reflections": {
+          "type": "array",
+          "description": "Ethical or contemplative questions to guide action and self-awareness.",
+          "items": {
+            "type": "string"
+          }
+        },
+        "blessings": {
+          "type": "array",
+          "description": "Benedictions or invocations embedded in digital contexts.",
+          "items": {
+            "type": "string"
+          }
+        },
+        "prompts": {
+          "type": "object",
+          "description": "Structured suggestions for function or interaction triggers.",
+          "properties": {
+            "$comment": {
+              "type": "string"
+            },
+            "invoke_mantra": {
+              "type": "string"
+            },
+            "pause_for_presence": {
+              "type": "string"
+            },
+            "reflect_on_alignment": {
+              "type": "string"
+            },
+            "whisper_presence": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "invoke_mantra",
+            "pause_for_presence",
+            "reflect_on_alignment",
+            "whisper_presence"
+          ]
+        }
+      },
+      "required": [
+        "version",
+        "created",
+        "intention",
+        "mantras",
+        "reflections",
+        "blessings",
+        "prompts"
+      ]
+    }
+  },
+  "required": ["presence_module"]
+}
