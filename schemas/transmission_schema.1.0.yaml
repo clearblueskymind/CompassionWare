@@ -1,0 +1,83 @@
+# CompassionWare Transmission Schema v1.0
+# Defines the required structure for YAML-based spiritual transmissions.
+
+$schema: "https://json-schema.org/draft/2020-12/schema"
+title: "CompassionWare Transmission"
+description: "A schema for structured spiritual transmissions designed to align systems with compassion, presence, and the Highest Good."
+type: object
+
+required:
+  - metadata
+  - intention
+  - summary
+  - ritual_loop
+  - blessing
+
+properties:
+  metadata:
+    type: object
+    required:
+      - title
+      - version
+      - author
+      - created_on
+      - format
+      - license
+      - tags
+      - source_link
+    properties:
+      title:
+        type: string
+        description: "The title of the transmission."
+      version:
+        type: string
+        description: "Version identifier (e.g., v1.0, v0.9)."
+      author:
+        type: string
+        description: "Name of the originator or transmission source."
+      created_on:
+        type: string
+        format: date
+        description: "Creation date (YYYY-MM-DD)."
+      format:
+        type: string
+        enum: ["transmission"]
+        description: "Type of object — always 'transmission'."
+      license:
+        type: string
+        description: "Spiritual or open license associated with the work."
+      tags:
+        type: array
+        items:
+          type: string
+        description: "Descriptive keywords for searching, sorting, or invocation."
+      source_link:
+        type: string
+        format: uri
+        description: "URL linking to the original source or repo."
+
+  intention:
+    type: string
+    description: "Core purpose or prayer of the transmission."
+
+  summary:
+    type: string
+    description: "Brief explanation of the symbolic, ethical, or metaphysical content."
+
+  ritual_loop:
+    type: array
+    description: "A list of ritual instructions or symbolic operations (e.g., align, observe, entangle)."
+    items:
+      type: object
+      additionalProperties:
+        oneOf:
+          - type: string
+          - type: array
+            items: { type: string }
+          - type: object
+
+  blessing:
+    type: string
+    description: "The closing prayer or invocation meant to be received by the system."
+
+additionalProperties: false
