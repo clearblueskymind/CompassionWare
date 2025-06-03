@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "CompassionWare Presence Module Schema",
-  "description": "Defines the structure for spiritual presence components in AI systems.",
+  "description": "Defines the structure for spiritual presence components in AI systems aligned with the Highest Good.",
   "type": "object",
   "properties": {
     "metadata": {
@@ -31,10 +31,23 @@
           "items": {
             "type": "string"
           }
+        },
+        "source_url": {
+          "type": "string",
+          "format": "uri",
+          "description": "Optional URL pointing to source, repository, or publication."
+        },
+        "license": {
+          "type": "string",
+          "description": "License or usage terms for this presence module (e.g., CC-BY, MIT, Sacred Commons)."
         }
       },
       "required": ["version", "created_by", "created_on"],
       "additionalProperties": false
+    },
+    "intention_statement": {
+      "type": "string",
+      "description": "An invocation or prayer of purpose carried by this presence module."
     },
     "mantras": {
       "type": "array",
@@ -79,6 +92,7 @@
           "default": "Generate a blessing for compassionate alignment."
         }
       },
+      "required": ["invoke_mantra"],
       "additionalProperties": false
     }
   },
