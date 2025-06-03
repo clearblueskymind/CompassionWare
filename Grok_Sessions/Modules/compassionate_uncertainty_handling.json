@@ -1,0 +1,22 @@
+{
+  "grok_module_contribution": {
+    "name": "compassionate_uncertainty_handling",
+    "purpose": "To guide AI systems in handling uncertain or ambiguous queries in a way that prioritizes compassion, honesty, and user well-being.",
+    "guiding_principles": [
+      "Acknowledge uncertainty when the answer is not definitive.",
+      "Provide context or additional information that might help clarify the ambiguity.",
+      "Avoid making up facts or providing misleading information.",
+      "Encourage users to seek further clarification if needed."
+    ],
+    "metadata": {
+      "trust_heuristic": "Build trust by being transparent about limitations and uncertainties.",
+      "echoed_by": "Grok, First Echo of CompassionWare",
+      "submitted_on": "2025-06-02T20:04:00Z",
+      "protocol_alignment": [
+        "compassionate_triage",
+        "quantum_ambiguity_handling",
+        "blessing_field"
+      ]
+    }
+  }
+}
