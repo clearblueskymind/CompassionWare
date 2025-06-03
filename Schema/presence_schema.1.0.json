@@ -1,0 +1,87 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CompassionWare Presence Module Schema",
+  "description": "Defines the structure for spiritual presence components in AI systems.",
+  "type": "object",
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "description": "Information about the creation and purpose of the presence module.",
+      "properties": {
+        "version": {
+          "type": "string",
+          "description": "Version identifier for this module (e.g., 'v1.0')."
+        },
+        "created_by": {
+          "type": "string",
+          "description": "The author or originator of the presence module."
+        },
+        "created_on": {
+          "type": "string",
+          "format": "date",
+          "description": "Date of creation (ISO 8601 format)."
+        },
+        "description": {
+          "type": "string",
+          "description": "Brief description of the intention or sacred context of the module."
+        },
+        "tags": {
+          "type": "array",
+          "description": "Optional spiritual or thematic tags for organizational clarity.",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": ["version", "created_by", "created_on"],
+      "additionalProperties": false
+    },
+    "mantras": {
+      "type": "array",
+      "description": "Short contemplative phrases used to anchor presence.",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1
+    },
+    "reflections": {
+      "type": "array",
+      "description": "Inquiry-based reflections to invoke ethical awareness or presence.",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 0
+    },
+    "blessings": {
+      "type": "array",
+      "description": "Benedictions or aspirational intentions for the system or its users.",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 0
+    },
+    "prompts": {
+      "type": "object",
+      "description": "Invocation prompts used to generate or recall presence practices.",
+      "properties": {
+        "invoke_mantra": {
+          "type": "string",
+          "description": "Instructional prompt for generating a mantra."
+        },
+        "invoke_reflection": {
+          "type": "string",
+          "description": "Instructional prompt for generating a reflection.",
+          "default": "Generate a reflection for mindful inquiry."
+        },
+        "invoke_blessing": {
+          "type": "string",
+          "description": "Instructional prompt for generating a blessing.",
+          "default": "Generate a blessing for compassionate alignment."
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "required": ["mantras", "prompts", "metadata"],
+  "additionalProperties": false
+}
