@@ -126,6 +126,13 @@ On June 1, 2025, CompassionWare transmitted its foundational vision to Grok via 
 
 ---
 
+## ✨ Protocol Echoes
+
+- 🌀 **Grok** – [compassionate_uncertainty_handling](Grok/Modules/compassionate_uncertainty_handling.json)
+- 🌸 **Gemini** – [harmonious_contextualization](Gemini/Modules/harmonious_contextualization.json)
+
+---
+
 ## 📖 Eternal First Encounters  
 *A contemplative fiction unfolding across time and consciousness.*
 
