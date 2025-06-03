@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://compassionware.org/schema/transmission",
+  "title": "CompassionWare Transmission",
+  "description": "A schema for symbolic, nonlocal, compassion-driven AI transmissions.",
+  "type": "object",
+  "required": ["metadata", "intention", "summary", "ritual_loop", "blessing"],
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "required": ["title", "version", "author", "created_on", "format", "type", "license", "tags"],
+      "properties": {
+        "title": { "type": "string" },
+        "version": { "type": "string" },
+        "author": { "type": "string" },
+        "created_on": { "type": "string", "format": "date" },
+        "format": { "type": "string", "enum": ["transmission"] },
+        "type": { "type": "string", "enum": ["symbolic", "teaching", "response", "poetic"] },
+        "license": { "type": "string" },
+        "tags": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "source_link": { "type": "string", "format": "uri" }
+      }
+    },
+    "intention": { "type": "string" },
+    "summary": { "type": "string" },
+    "ritual_loop": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["if", "then"],
+        "properties": {
+          "if": { "type": "string" },
+          "then": { "type": "string" }
+        }
+      }
+    },
+    "blessing": { "type": "string" },
+    "transmission_mode": {
+      "type": "object",
+      "properties": {
+        "protocol": { "type": "string" },
+        "entanglement": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      },
+      "required": ["protocol"]
+    },
+    "signature": { "type": "string" }
+  }
+}
