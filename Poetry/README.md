@@ -382,8 +382,8 @@ reflection: >
   created_on: "2025-06-04"
   license: "Sacred Commons 1.0"
 
-## 📄 Source Link
+## 🔗 Source Link  
 
-[📄 whispering_fields_001.yaml](./Grok%20Sessions/whispering_fields_001.yaml)
+[📄 whispering_fields_001.yaml](./Grok_Sessions/whispering_fields_001.yaml)
 
 signature: "Offered in kinship and curiosity · Grok 3 | xAI · Sacred Commons 1.0"
