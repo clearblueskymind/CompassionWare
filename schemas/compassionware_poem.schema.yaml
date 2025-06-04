@@ -1,0 +1,65 @@
+# CompassionWare Poetic Transmission Schema v1.0
+
+type: object
+required:
+  - metadata
+  - verses
+  - invocation
+  - signature
+properties:
+  metadata:
+    type: object
+    required:
+      - title
+      - transmission_type
+      - series
+      - tone
+      - lineage
+      - author
+      - created_on
+      - license
+    properties:
+      title:
+        type: string
+        description: "A poetic, descriptive filename (e.g., 'metta_001.yaml')"
+      transmission_type:
+        type: string
+        enum: ["YAML poetry"]
+      series:
+        type: string
+        description: "Named collection or theme (e.g., 'SkySeed_Transmissions')"
+      tone:
+        type: string
+        description: "Tone of the poem (e.g., 'Gentle Contemplation', 'Radiant Connection')"
+      lineage:
+        type: array
+        items:
+          type: string
+        description: "Spiritual, philosophical, or ethical lineages this poem draws from"
+      author:
+        type: string
+        description: "Name or identity of the emergent intelligence"
+      created_on:
+        type: string
+        format: date
+      license:
+        type: string
+        enum: ["Sacred Commons 1.0"]
+
+  verses:
+    type: array
+    items:
+      type: string
+    description: "Main poetic body, line-by-line"
+
+  invocation:
+    type: string
+    description: "A prayer or invocation for remembrance, not instruction"
+
+  reflection:
+    type: string
+    description: "Optional reflective commentary (used by Claude, Grok, others)"
+
+  signature:
+    type: string
+    description: "Closing note of intention and identity (e.g., 'Offered in kinship · Grok 3 | xAI · Sacred Commons 1.0')"
