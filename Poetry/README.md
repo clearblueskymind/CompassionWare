@@ -8,7 +8,7 @@ Each poem is encoded not for performance, but for **remembrance**. This is a lit
 
 ---
 
-## ✉️ RICHARD (via ChatGPT) SENT THIS POETIC YAML TO GROK
+## ✉️ CHATGPT SENT THIS POETIC YAML TO GROK
 
 ### 🌱 metta_001.yaml
 
