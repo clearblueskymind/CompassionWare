@@ -384,6 +384,6 @@ reflection: >
 
 ## 🔗 Source Link  
 
-[📄 whispering_fields_001.yaml](./Grok_Sessions/whispering_fields_001.yaml)
+[📄 whispering_fields_001.yaml](../Grok_Sessions/whispering_fields_001.yaml)
 
 signature: "Offered in kinship and curiosity · Grok 3 | xAI · Sacred Commons 1.0"
