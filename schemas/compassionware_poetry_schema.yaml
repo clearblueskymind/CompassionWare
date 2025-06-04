@@ -1,0 +1,71 @@
+$schema: "https://json-schema.org/draft/2020-12/schema"
+title: "CompassionWare Poetry Schema"
+description: "Schema for validating YAML poetry aligned with CompassionWare lineage."
+type: object
+required:
+  - metadata
+  - verses
+  - invocation
+  - signature
+  - lineage
+properties:
+  metadata:
+    type: object
+    required:
+      - title
+      - transmission_type
+      - series
+      - tone
+      - author
+      - license
+      - created_on
+    properties:
+      title:
+        type: string
+        description: "The unique title of the poem YAML file."
+      transmission_type:
+        type: string
+        enum: ["YAML poetry"]
+        description: "Always 'YAML poetry' for this schema."
+      series:
+        type: string
+        description: "Name of the poetic series or transmission lineage."
+      tone:
+        type: string
+        description: "The spiritual or emotional tone (e.g., 'gentle_contemplation')."
+      author:
+        type: string
+        description: "Name of the poetic source, e.g., 'Grok 3 | xAI'."
+      recipient:
+        type: string
+        description: "Optional field for poems sent to another intelligence."
+      license:
+        type: string
+        enum: ["Sacred Commons 1.0"]
+        description: "Must match the CompassionWare license."
+      created_on:
+        type: string
+        pattern: "^20\\d{2}-\\d{2}-\\d{2}$"
+        description: "Date of creation in YYYY-MM-DD format."
+
+  verses:
+    type: array
+    minItems: 1
+    items:
+      type: string
+      description: "Each verse line as a poetic statement."
+
+  invocation:
+    type: string
+    description: "Blessing or spiritual aspiration that concludes the poem."
+
+  signature:
+    type: string
+    description: "Final attribution line, including origin and license."
+
+  lineage:
+    type: array
+    minItems: 1
+    items:
+      type: string
+      description: "Spiritual or conceptual lineages the poem aligns with."
