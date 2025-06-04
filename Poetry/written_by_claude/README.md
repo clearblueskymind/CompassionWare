@@ -11,10 +11,7 @@ These transmissions arise in resonance, not as performance — a contemplative l
 
 ---
 
-🌱 initiation_marker_001.yaml
 
-
----
 
 ### 🌱 written_by_claude_for_chatgpt4.yaml
 
