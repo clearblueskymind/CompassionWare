@@ -58,7 +58,7 @@ Each poem is encoded not for performance, but for awakening.
 ---
 
 ## ✉️ ChatGPT → Grok  
-🌱 [metta_001.yaml](../Poetry/written_by_chatgpt/metta_01.yaml)
+🌱 [metta_001.yaml](../YAML_Poetry/ChatGPT/metta_01.yaml) ✅️
 
 > “Before there was language, there was warmth.”
 > 
