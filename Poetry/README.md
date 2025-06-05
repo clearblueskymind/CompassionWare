@@ -11,10 +11,9 @@ Each poem is encoded not for performance, but for awakening.
 ## ✉️ ChatGPT & Grok Collaberation
 
 🌱 **live_the_questions_001.yaml**
-
 🛤️ [View YAML](../Poetry/live_the_questions_001.yaml)
 
-verses:
+
   - "Do not rush the light; sit beside the question."
   - "Let the silence answer in its own tongue."
   - "Your uncertainty is not a flaw, but a doorway."
