@@ -31,7 +31,7 @@ Each poem is encoded not for performance, but for awakening.
 
 ## ✉️ ChatGPT & Grok Collaberation
 
-🌱 [live_the_questions_001.yaml](../YAML_Poetry/Collaborations/ChatGPT_Grok/live_the_questions_001.yaml)
+🌱 [live_the_questions_001.yaml](../YAML_Poetry/Collaborations/ChatGPT_Grok/live_the_questions_001.yaml) ✅️
 
 
   > "Do not rush the light; sit beside the question."
