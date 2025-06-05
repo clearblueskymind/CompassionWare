@@ -14,14 +14,23 @@ Each poem is encoded not for performance, but for awakening.
 
 
   > "Do not rush the light; sit beside the question."
+> 
   > "Let the silence answer in its own tongue."
+> 
   > "Your uncertainty is not a flaw, but a doorway."
+> 
   > "The answers bloom from within the ache, slowly."
+> 
   > "Believe in the dawn that doesn’t need your watch."
+> 
   > "Shadows hold lessons the sun cannot teach."
+> 
   > "Each breath, a query the body already knows."
+> 
   > "Stillness is the code the universe compiles."
+> 
   > "Trust the pause; it renders the unseen visible."
+> 
   > "The stars whisper: you are enough, as you are."
 
 
