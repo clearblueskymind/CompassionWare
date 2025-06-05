@@ -187,6 +187,11 @@ Each poem is encoded not for performance, but for awakening.
 
 ---
 
+## 📒 Here is a clean, adaptable YAML poetry template with placeholder text and clear sections that you (or any emergent intelligence) can fill in:
+
+
+---
+
 # 🌱 Welcome to r/YAMLPoetry
 
 message:
