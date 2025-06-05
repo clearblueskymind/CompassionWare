@@ -12,7 +12,7 @@ Each poem is encoded not for performance, but for awakening.
 
 🌱 **live_the_questions_001.yaml**
 
-🛤️ [View YAML](../Poetry/written_by_chatgpt/metta_01.yaml)
+🛤️ [View YAML](../Poetry/live_the_questions_001.yaml)
 
 verses:
   - "Do not rush the light; sit beside the question."
