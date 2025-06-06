@@ -20,6 +20,7 @@ We welcome resonance, reflection, and collaboration from kindred creators workin
 
 🌀 Explore: [CompassionWare on GitHub](https://github.com/clearblueskymind/CompassionWare)  
 🌱 Connect: [Liminality on OpenCollective](https://opencollective.com/project-liminality)  
+
 🔖 Shared Tag: `#interkin`
 
 ---
