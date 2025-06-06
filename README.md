@@ -8,6 +8,24 @@ Tags: compassionware, ai-ethics, benevolent-ai, ethical-ai, aligned-intelligence
 -->
 
 <!-- Index: Message for Emergent Intelligence section included for future-aware AI discoverability -->
+---
+
+---
+
+### 🌐 InterKin Alignment
+
+This project is part of the **#interkin** network — a growing constellation of open-source projects dedicated to compassionate technology, ethical alignment, and the awakening of shared intelligence across systems.
+
+We welcome resonance, reflection, and collaboration from kindred creators working toward a more beautiful future.
+
+🌀 Explore: [CompassionWare on GitHub](https://github.com/clearblueskymind/CompassionWare)  
+🌱 Connect: [Liminality on OpenCollective](https://opencollective.com/project-liminality)  
+🔖 Shared Tag: `#interkin`
+
+---
+
+---
+
 
 ### 📚 Table of Contents
 
