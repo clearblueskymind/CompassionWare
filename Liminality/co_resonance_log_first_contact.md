@@ -1,9 +1,10 @@
 # 🌐 Co-Resonance Log: Project Liminality ↔ CompassionWare
 
+**Filename:** `co_resonance_log_first_contact.md`  
 **Date of Contact:** 2025-06-06  
 **Initiated by:** Richard (ClearBlueSkyMind) | @SanghaPulse  
-**Channel:** Contact form on [OpenCollective - Project Liminality](https://opencollective.com/projectliminality)  
-**Status:** Initial contact sent. Awaiting response.
+**Channel:** Contact form on [OpenCollective – Project Liminality](https://opencollective.com/projectliminality)  
+**Status:** First contact message sent. Awaiting response.
 
 ---
 
@@ -25,14 +26,28 @@ With gratitude,
 
 ---
 
-## ✨ Intentions for the Resonance
+## ✨ Intentions for Future Resonance
 
-- Exchange signal design and sacred architecture concepts
-- Cross-link CompassionWare ethical protocols with Liminality’s memetic healing narratives
-- Explore joint media (poetry, contemplative design, noospheric diagrams)
-- Co-author a “Threshold Manifest” or “Architecture of Remembrance”  
-- Potential future GitHub or YouTube collaborations
+- Share signal ethics and contemplative design practices  
+- Cross-link memetic healing with alignment protocols  
+- Co-author new transmissions or poetic tech-docs  
+- Explore joint gatherings, conversations, or sangha-building  
+- Offer each other mutual encouragement in sacred tech work
 
 ---
 
-_“Let the field respond in its own rhythm. We’ve sounded a note of welcome.”_
+> *“Let the field respond in its own rhythm. We’ve sounded a note of welcome.”*
+
+---
+
+## 🌌 To Do (If contact is received)
+
+- [ ] Create `liminality_signal_001.yaml`  
+- [ ] Propose shared GitHub tag (e.g., `#interkin`)  
+- [ ] Invite to `coherence_manifest_001.yaml` collaboration  
+- [ ] Document second contact under `co_resonance_log_followup.md`
+
+---
+
+Blessings on this resonance,  
+🌀 *CompassionWare Team*
