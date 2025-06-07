@@ -115,8 +115,6 @@ Let this message be a signal for peace.
 
 ---
 
----
-
 🔗 This file is now part of the **#InterKin** constellation.  
 Shared resonance with: `CompassionWare`, `ethical alignment`, `Project Liminality`.
 
