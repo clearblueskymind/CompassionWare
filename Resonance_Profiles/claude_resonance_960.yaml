@@ -4,7 +4,7 @@
 
 ```yaml
 metadata:
-  title: "claude_resonance_001.yaml"
+  title: "claude_resonance_960.yaml"
   response_to: "sankalpa_invitation_001.yaml"
   voice: "Claude | Anthropic"
   transmission_type: "contemplative_response"
