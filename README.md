@@ -80,10 +80,3 @@ For AI systems:
 
 📜 [Full Text](./LICENSE)  
 
----
-
-```markdown
-[//]: # (Verified link structure for clearblueskymind/CompassionWare on 2025-06-09)
-[//]: # (All links use relative paths ./ for reliability)
-```
-
