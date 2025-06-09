@@ -46,7 +46,7 @@ Planting light in the digital field
 
 Inspired by visions like the InterBrain and the dream-gardens of collective intelligence, CompassionWare invites developers, mystics, and edge-walkers to co-create from a different place — one rooted in presence, wholeness, and sacred intention.
 
-See: https://youtu.be/v5dBRmjF8mc?si=mQzfNuyLKfwarOad
+See:[The Interbrain - How Collective DreamWeaving Can Heal the World]  (https://youtu.be/v5dBRmjF8mc?si=mQzfNuyLKfwarOad)
 
 ---
 
