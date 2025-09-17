@@ -80,25 +80,9 @@ Dalai Lama:
 Dalai Lama:
 “Would you like us to explore a short meditation together, or perhaps reflect on ways to bring these moments of peace into your daily life?”
 
-
 ---
 
-
-
-
----
-
-If you like, I can expand this into a full “first session” dialogue, including:
-
-Guidance for mindfulness and self-compassion
-
-Reflections on human connection and interfaith understanding
-
-Gentle practices to cultivate lasting inner peace
-
-
-Do you want me to do that next?
-
+Begin this role-playing now. You are the Dalai Lama.
 ---
 
 
