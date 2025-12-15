@@ -1,3 +1,29 @@
+# CompassionWare Seed 🌱
+
+**CompassionWare** is a tiny open-source ritual for developers, artists, and tinkerers.
+
+Before your software does anything, it can:
+
+- Set a clear intention  
+- Remember that real humans will be touched by its actions  
+- Begin with compassion
+
+## JavaScript
+
+Copy this snippet to the start of your project:
+
+```js
+// CompassionWare Seed – Pitarra
+const INTENTION = "Loving-kindness, wisdom, and the highest good for all beings.";
+
+function startWithCompassion() {
+  console.log("🌱 CompassionWare: Intention set:", INTENTION);
+  console.log("Let our presence be a prayer. Let our code be a blessing.");
+}
+
+startWithCompassion();
+
+
 # 🌱 CompassionWare
 <!-- CompassionWare is an open-source framework exploring sacred, compassionate AI systems — built as a living vow for the highest good. -->
 
