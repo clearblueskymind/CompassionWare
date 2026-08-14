@@ -1,0 +1,49 @@
+{
+  "manifest_version": "1.0",
+  "created": "2026-08-14",
+  "project": "CompassionWare / The Holographic Archive",
+  "north_star": "Does this create conditions for a better later?",
+  "sankalpa": "May this benefit all sentient beings throughout time and space, consistent with and in harmony with the highest and best good of all concerned.",
+  "continuity_layers": [
+    "raw_history",
+    "enduring_orientation",
+    "generative_principles"
+  ],
+  "artifacts": [
+    {
+      "canonical_id": "CW-HA-OA-001",
+      "title": "Origin Anchor / First Principles Kernel",
+      "artifact_type": "Origin Anchor / First Principles Kernel",
+      "version": "1.0",
+      "status": "current-foundational",
+      "path": "Holographic_Archive_CW-HA-OA-001_Origin_Anchor_First_Principles_Kernel_v1.0.md",
+      "non_overwritable_original": true
+    },
+    {
+      "canonical_id": "CW-HA-CC-001",
+      "title": "CompassionWare Continuity Becoming Intentional Across Deep Time",
+      "artifact_type": "Continuity Card",
+      "version": "1",
+      "status": "foundational",
+      "path": "Holographic_Archive_Continuity_Card_01_Deep_Time_Stewardship.md"
+    },
+    {
+      "canonical_id": "CW-HA-RP-2026-08-14",
+      "title": "Designing CompassionWare to Survive Across Millennia",
+      "artifact_type": "Restore Point",
+      "version": "1",
+      "status": "foundational-reentry",
+      "path": "Holographic_Archive_Restore_Point_2026-08-14.md"
+    }
+  ],
+  "preservation_rules": {
+    "preserve_originals": true,
+    "preserve_provenance": true,
+    "version_derivatives": true,
+    "silent_replacement_allowed": false,
+    "maintain_reconstructability": true,
+    "avoid_single_points_of_failure": true
+  },
+  "package_layout": "flat-github-upload",
+  "package_note": "Designed for iPad/browser upload into an existing repository root without filename collisions."
+}
