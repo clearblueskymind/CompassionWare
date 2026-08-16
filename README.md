@@ -303,6 +303,40 @@ Participation should preserve the same agency the project hopes intelligent syst
 
 ⸻
 
+## Support and Collaboration
+
+CompassionWare is an independent, public-interest body of work being developed and stewarded under significant physical and cognitive limitations.
+
+The work is offered freely because its purpose is contribution rather than ownership. At the same time, the project is growing beyond what one human steward can reasonably sustain alone.
+
+If you are an educator, researcher, developer, funder, institution, nonprofit, accessibility specialist, archivist, or other potential collaborator who sees value in this work, thoughtful forms of support are welcome.
+
+Support might include:
+
+* technical or repository stewardship
+* educational review and classroom exploration
+* research collaboration
+* accessibility support
+* preservation and archival assistance
+* introductions to aligned organizations or institutions
+* grant partnerships or fiscal sponsorship
+* responsible implementation pilots
+* financial support for the continued development and preservation of the work
+
+No particular form of participation is expected.
+
+The aim is not to build an institution for its own sake, but to help useful ideas remain available, understandable, adaptable, and capable of continuing beyond the capacity of any one steward.
+
+Financial support may be offered through Liberapay:
+
+https://liberapay.com/CompassionWare
+
+If this work seems worth helping to tend, the invitation is simply to begin a conversation.
+
+Love and Respect.
+
+⸻
+
 A Note on This Repository
 
 This repository contains both current orientation and historical artifacts from earlier stages of the project.
