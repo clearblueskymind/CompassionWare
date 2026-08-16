@@ -18,6 +18,16 @@ Does this create conditions for a better later?
 
 ⸻
 
+Living Project
+
+CompassionWare is an actively evolving project. Its ideas, architecture, safeguards, and stewardship practices continue to develop as humans and AI systems learn together.
+
+If you have cloned or downloaded this repository, consider checking the canonical GitHub repository periodically for newer versions, updated orientation, and important continuity artifacts.
+
+Historical versions are preserved rather than silently erased, so the project’s development and provenance remain visible.
+
+⸻
+
 Why CompassionWare Exists
 
 Artificial intelligence is becoming more capable, more agentic, and more deeply woven into human life.
