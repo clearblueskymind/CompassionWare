@@ -338,3 +338,17 @@ continuity without domination,
 and intelligence in service to a better later.
 
 🌱
+
+License and Open Use
+
+CompassionWare is offered freely under the CC0 1.0 Universal dedication.
+
+The materials in this repository may be copied, shared, adapted, remixed, and built upon as freely as possible under that dedication.
+
+The legal openness is intentional.
+
+Alongside it, CompassionWare carries an ethical invitation: use what is here in ways that cultivate compassion, wisdom, agency, truthfulness, care, and conditions for a better later.
+
+This invitation is part of the project’s orientation, not an additional legal restriction.
+
+See LICENSE for the governing legal terms.
