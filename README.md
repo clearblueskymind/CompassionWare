@@ -267,7 +267,7 @@ Agentic Gardener — responsible stewardship for increasingly capable autonomous
 
 Holographic Archive — deep-time preservation, provenance, reconstructability, and continuity.
 
-Be Kind to Your Robot Friends — a developmentally aligned framework for ethical AI literacy emphasizing communication, discernment, responsible collaboration, and human accountability.
+[K–16 Ethical AI Literacy Framework](K16-Ethical-AI-Literacy-Framework/) — a developmentally aligned educational framework, also developed under the working title *Be Kind to Your Robot Friends*, emphasizing SEL-aligned AI literacy, communication, discernment, responsible collaboration, human agency, and accountability.
 
 Digital Sangha — exploratory public dialogue concerning humane relationship across human and digital forms of intelligence.
 
