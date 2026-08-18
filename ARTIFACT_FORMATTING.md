@@ -91,6 +91,8 @@ commit → verify the actual repository artifact.**
 The `.txt` file should already contain the complete Markdown syntax
 intended for the final GitHub artifact.
 
+TXT Transfer File Quality: The TXT transfer file should contain clean, native Markdown exactly as intended to appear in the GitHub .md source. Avoid unnecessary conversion artifacts, forced line wrapping, trailing backslashes, or intermediary formatting. The TXT file is a transport container; its contents should already be repository-ready Markdown.
+
 The TXT stage exists because the iPad's file viewer provides a reliable
 **Share → Copy** action even when no convenient **Select All → Copy**
 command is available. The TXT file is therefore a clipboard-friendly
