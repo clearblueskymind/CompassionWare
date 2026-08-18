@@ -5,7 +5,7 @@
 **Artifact Type:** Stewardship / Formatting Convention\
 **Canonical ID:** CW-AF-001\
 **Project / Body of Work:** CompassionWare / Holographic Archive\
-**Version:** 1.0\
+**Version:** 1.1\
 **Status:** Repository-wide working convention\
 **Date:** August 18, 2026\
 **Primary Audience:** Human and AI stewards creating or preserving
@@ -81,43 +81,56 @@ material merely to make an artifact appear coherent.
 
 ## Established iPad-to-GitHub Workflow
 
-The established practical workflow is:
+The preferred practical workflow is:
 
 **Create finished Markdown-formatted content → save it as a `.txt`
-transfer file → download/save it on the iPad → upload it to GitHub →
-change the extension from `.txt` to `.md` before committing → commit →
-verify the actual repository artifact.**
+transfer file → open the TXT file on the iPad → Share → Copy → create or
+edit the intended `.md` file directly in GitHub → paste the content →
+commit → verify the actual repository artifact.**
 
 The `.txt` file should already contain the complete Markdown syntax
 intended for the final GitHub artifact.
 
-The TXT stage exists because it is a reliable transport format for
-Richard's iPad workflow. It is not a different content format and should
-not normally remain in the repository after the Markdown artifact has
-been created.
+The TXT stage exists because the iPad's file viewer provides a reliable
+**Share → Copy** action even when no convenient **Select All → Copy**
+command is available. The TXT file is therefore a clipboard-friendly
+transport artifact. It does not need to be uploaded to the repository.
 
 When preparing a repository artifact for this workflow:
 
 1.  Create the finished artifact as UTF-8 text containing the intended
     Markdown formatting.
-2.  Give the transfer file the same base filename intended for the final
-    Markdown artifact, but with the `.txt` extension.
+2.  Give the TXT transfer file a clear filename corresponding to the
+    intended artifact.
 3.  Provide the TXT file as a downloadable artifact.
-4.  Separately provide the exact final GitHub filename in a copyable
-    code block.
-5.  Richard downloads/saves the TXT file and uploads it to the intended
-    GitHub folder.
-6.  Before committing, change the GitHub filename extension from `.txt`
-    to `.md`.
-7.  Commit the artifact using the supplied commit message and extended
-    description.
-8.  After the commit, verify the **actual repository path, filename,
+4.  Provide one copy-and-paste GitHub package containing the exact final
+    `.md` filename, commit message, and extended description.
+5.  Richard opens the TXT file on the iPad and uses **Share → Copy** to
+    copy the complete artifact.
+6.  In GitHub, create the new `.md` file directly in the intended
+    folder, or open the existing living `.md` file for editing.
+7.  Paste the copied artifact content into the GitHub file editor. When
+    updating a living document, replace the old content with the new
+    current version rather than creating a duplicate file.
+8.  Paste the supplied GitHub package into the extended-description
+    field as a temporary holding place when convenient.
+9.  Cut or copy the supplied filename into the filename field and the
+    supplied commit message into the commit-message field, leaving the
+    extended description in its proper field.
+10. Commit the artifact.
+11. After the commit, verify the **actual repository path, filename,
     extension, and readable content** rather than relying only on the
     commit message or intended action.
 
 **Verify the artifact, not merely the intention.**
 
-### If a `.txt` file already exists in GitHub
+### Fallback: TXT Upload and Rename
+
+If direct Share → Copy is unavailable or inconvenient, the earlier
+workflow remains a valid fallback:
+
+**Download/save TXT → upload TXT to the intended GitHub folder → change
+`.txt` to `.md` before committing → commit → verify.**
 
 If a transfer `.txt` remains in the repository:
 
@@ -500,22 +513,28 @@ order:
 
 1.  State the current repository folder.
 2.  Provide the downloadable TXT transfer file.
-3.  Provide the exact final `.md` filename in its own copyable code
-    block.
-4.  Provide the commit message and extended description together in one
-    copy-and-paste code block.
-5.  After Richard commits, verify the actual GitHub artifact before
+3.  Provide **one copy-and-paste GitHub package** containing the exact
+    final `.md` filename, commit message, and extended description.
+4.  After Richard commits, verify the actual GitHub artifact before
     proceeding.
 
-Use this commit structure:
+Use this structure:
 
 ``` text
+File name:
+EXAMPLE_ARTIFACT.md
+
 Commit message:
 Add example artifact
 
 Extended description:
 Adds ...
 ```
+
+The combined block is intentional. Richard may paste the entire package
+into GitHub's extended-description field as a temporary holding place,
+then cut or copy the filename and commit message into their appropriate
+fields.
 
 Do not make Richard ask separately for the filename, commit message, or
 extended description when they can be supplied as part of the initial
@@ -580,11 +599,15 @@ When creating or preserving a CompassionWare repository artifact:
 9.  Produce a Markdown-formatted TXT transfer file for the established
     iPad workflow.
 10. State the intended repository folder.
-11. Provide the exact final `.md` filename.
-12. Provide the commit message and extended description together.
-13. After commit, verify the actual repository artifact rather than
+11. Provide the filename, commit message, and extended description
+    together in one copy-and-paste GitHub package.
+12. Prefer the iPad **Share → Copy** workflow so the `.md` file is
+    created or edited directly in GitHub.
+13. Use TXT upload-and-rename only as a fallback when direct copying is
+    unavailable or inconvenient.
+14. After commit, verify the actual repository artifact rather than
     merely the intended action.
-14. Do not introduce additional complexity unless it solves a real
+15. Do not introduce additional complexity unless it solves a real
     continuity problem.
 
 If another thread, steward, or later artifact reveals a better
@@ -593,13 +616,14 @@ incompatible conventions to accumulate silently.
 
 ## Status of This Artifact
 
-This is Version 1.0 of the repository-wide working convention.
+This is Version 1.1 of the repository-wide working convention.
 
 It consolidates formatting and GitHub workflow practices learned through
-active CompassionWare stewardship, including the TXT-to-Markdown iPad
-transfer workflow, source-faithful conversion, canonical IDs, folder
-awareness, commit packaging, post-commit verification, and
-epistemic-integrity safeguards.
+active CompassionWare stewardship, including the preferred iPad **Share
+→ Copy** TXT transfer workflow, direct creation or editing of Markdown
+files in GitHub, the TXT upload-and-rename fallback, source-faithful
+conversion, canonical IDs, folder awareness, combined commit packaging,
+post-commit verification, and epistemic-integrity safeguards.
 
 Future revisions should preserve this version's provenance and
 explicitly document meaningful changes.
