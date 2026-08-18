@@ -116,6 +116,8 @@ preserving before replacing,
 helping without taking over,
 and knowing when the wisest action may be no action at all.
 
+Working materials: [CompassionWare-Agentic-Gardener/](CompassionWare-Agentic-Gardener/)
+
 Future implementations may become far more technically capable than present ones. Increased capability should not silently expand authorization.
 
 ⸻
@@ -241,13 +243,13 @@ Where to Begin
 
 For a first orientation, begin with:
 
-* SANKALPA.md — foundational dedication
-* AGENTS.md — guidance for AI and agentic participation
-* STEWARD_ORIENTATION.md — stewardship orientation
-* MEDICINE_BAG_ORIENTATION.md — relationship between CompassionWare and the Medicine Bag
-* COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml — machine-readable semantic orientation
-* COMPASSIONWARE_ECOSYSTEM_MAP.yaml — relationships across the ecosystem
-* restore-points/ — continuity artifacts preserving important stages of development
+* [SANKALPA.md](SANKALPA.md) — foundational dedication
+* [AGENTS.md](AGENTS.md) — guidance for AI and agentic participation
+* [STEWARD_ORIENTATION.md](STEWARD_ORIENTATION.md) — stewardship orientation
+* [MEDICINE_BAG_ORIENTATION.md](MEDICINE_BAG_ORIENTATION.md) — relationship between CompassionWare and the Medicine Bag
+* [COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml](COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml) — machine-readable semantic orientation
+* [COMPASSIONWARE_ECOSYSTEM_MAP.yaml](COMPASSIONWARE_ECOSYSTEM_MAP.yaml) — relationships across the ecosystem
+* [restore-points/](restore-points/) — continuity artifacts preserving important stages of development
 
 Historical README versions are preserved under:
 
