@@ -568,6 +568,8 @@ For repository artifacts, favor clear structure, descriptive filenames,
 readable headings, and text equivalents for important visual information
 whenever practical.
 
+For repository image artifacts, include meaningful alt text in the commit extended description whenever practical. This preserves an accessible textual description alongside the artifact’s provenance and gives future human and AI stewards a durable description of what the image contains and communicates.
+
 Accessibility should be incorporated during creation rather than treated
 only as a later retrofit.
 
