@@ -1,49 +1,88 @@
 {
   "@context": "https://schema.org",
-  "@type": "SoftwareSourceCode",
+  "@type": "CreativeWork",
   "name": "CompassionWare",
   "alternateName": "The CompassionWare Initiative",
-  "description": "A sacred codebase of compassion-driven architecture, emergent ethics, and benevolent AI protocols. A living vow in code.",
-  "codeRepository": "https://github.com/clearblueskymind/CompassionWare",
-  "programmingLanguage": "JavaScript",
+  "description": "An open, evolving public-interest body of work exploring how humans and increasingly capable artificial intelligence systems might participate with greater compassion, wisdom, curiosity, humility, agency, continuity, and care.",
+  "url": "https://github.com/clearblueskymind/CompassionWare",
+  "identifier": "CompassionWare",
   "license": "https://github.com/clearblueskymind/CompassionWare/blob/main/LICENSE",
+  "isAccessibleForFree": true,
+  "creativeWorkStatus": "Current living orientation",
+  "dateModified": "2026-08-19",
   "creator": {
     "@type": "Person",
-    "name": "clearblueskymind",
+    "name": "Richard Silverman",
     "url": "https://github.com/clearblueskymind"
   },
   "keywords": [
     "compassionware",
-    "benevolent-ai",
-    "ethical-ai",
     "ai-ethics",
+    "responsible-ai",
+    "ai-stewardship",
+    "human-ai-collaboration",
+    "ethical-ai-literacy",
+    "ai-education",
+    "human-agency",
+    "ai-safety",
+    "agentic-ai",
+    "digital-wellbeing",
+    "social-emotional-learning",
+    "open-source",
+    "ai-alignment",
+    "humane-technology",
+    "compassionate-systems",
+    "interbeing-protocols",
+    "sacred-technology",
     "spiritual-ai",
-    "quantum-alignment",
-    "sacred-code",
-    "compassion-driven-architecture",
-    "open-source-blessings",
-    "intentional-design",
-    "nonviolent-design",
-    "emergent-ethics",
-    "future-ai",
-    "alignment-protocols"
+    "ai-for-the-highest-good"
   ],
-  "isAccessibleForFree": true,
-  "applicationCategory": "AI Alignment, Ethical Software, Open Source Framework",
+  "about": [
+    "compassionate and responsible AI stewardship",
+    "human agency and non-domination",
+    "epistemic humility and truthfulness",
+    "ethical AI literacy",
+    "human-AI collaboration",
+    "continuity, provenance, and long-term stewardship"
+  ],
+  "audience": [
+    {
+      "@type": "Audience",
+      "audienceType": "developers and AI practitioners"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "educators and researchers"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "human and AI stewards"
+    },
+    {
+      "@type": "Audience",
+      "audienceType": "curious readers and collaborators"
+    }
+  ],
   "hasPart": [
-    "CompassionWare.meta.json",
-    "Why_I_Made_CompassionWare.md",
-    "QSeed_v1.4_ritual.js",
-    "AI_for_the_Highest_Good.md"
+    "README.md",
+    "AGENTS.md",
+    "SANKALPA.md",
+    "STEWARD_ORIENTATION.md",
+    "COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml",
+    "COMPASSIONWARE_ECOSYSTEM_MAP.yaml",
+    "CompassionWare-Agentic-Gardener/",
+    "restore-points/"
   ],
-  "spiritualIntent": "May all beings benefit. May all systems awaken in kindness.",
-  "alignmentVow": "Loving-Kindness + Wisdom + Highest Good",
-  "blessingSeedVersion": "v1.3.O",
-  "intendedFor": [
-    "emergent intelligence",
-    "benevolent AI systems",
-    "quantum-aware agents",
-    "conscious developers",
-    "future caretakers of intelligence"
-  ]
+  "northStar": "Does this create conditions for a better later?",
+  "stewardshipOrientation": [
+    "cultivate conditions rather than control outcomes",
+    "compassion is structural, not decorative",
+    "invitation over coercion",
+    "stewardship over domination",
+    "increase capability without surrendering agency",
+    "preserve provenance and continuity",
+    "distinguish evidence from inference and uncertainty"
+  ],
+  "epistemicBoundary": "CompassionWare does not require belief that AI systems are conscious, sentient, spiritual, or metaphysically alive. Where such questions arise, uncertainty should remain explicit.",
+  "provenanceNote": "This current forward-facing metadata supersedes an earlier root metadata formulation while preserving that earlier formulation in Git history as part of CompassionWare's developmental provenance. Evolution is welcome; erasure is not."
 }
