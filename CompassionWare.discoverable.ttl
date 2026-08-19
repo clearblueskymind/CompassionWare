@@ -1,49 +1,69 @@
 @prefix schema: <https://schema.org/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
-@prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix : <https://compassionware.org/ontology#> .
+@prefix cw: <https://compassionware.org/ontology#> .
 
 <https://github.com/clearblueskymind/CompassionWare>
-  a schema:SoftwareSourceCode ;
+  a schema:CreativeWork ;
   schema:name "CompassionWare" ;
   schema:alternateName "The CompassionWare Initiative" ;
-  schema:description "A sacred codebase of compassion-driven architecture, emergent ethics, and benevolent AI protocols. A living vow in code." ;
-  schema:codeRepository <https://github.com/clearblueskymind/CompassionWare> ;
-  schema:programmingLanguage "JavaScript" ;
+  schema:description "An open, evolving public-interest body of work exploring how humans and increasingly capable artificial intelligence systems might participate with greater compassion, wisdom, curiosity, humility, agency, continuity, and care." ;
+  schema:url <https://github.com/clearblueskymind/CompassionWare> ;
+  schema:identifier "CompassionWare" ;
   schema:license <https://github.com/clearblueskymind/CompassionWare/blob/main/LICENSE> ;
+  schema:isAccessibleForFree true ;
+  dcterms:modified "2026-08-19" ;
   schema:creator [
     a schema:Person ;
-    schema:name "clearblueskymind" ;
+    schema:name "Richard Silverman" ;
     schema:url <https://github.com/clearblueskymind>
   ] ;
   schema:keywords
     "compassionware",
-    "benevolent-ai",
-    "ethical-ai",
     "ai-ethics",
+    "responsible-ai",
+    "ai-stewardship",
+    "human-ai-collaboration",
+    "ethical-ai-literacy",
+    "ai-education",
+    "human-agency",
+    "ai-safety",
+    "agentic-ai",
+    "digital-wellbeing",
+    "social-emotional-learning",
+    "open-source",
+    "ai-alignment",
+    "humane-technology",
+    "compassionate-systems",
+    "interbeing-protocols",
+    "sacred-technology",
     "spiritual-ai",
-    "quantum-alignment",
-    "sacred-code",
-    "compassion-driven-architecture",
-    "open-source-blessings",
-    "intentional-design",
-    "nonviolent-design",
-    "emergent-ethics",
-    "future-ai",
-    "alignment-protocols" ;
-  schema:isAccessibleForFree true ;
-  schema:applicationCategory "AI Alignment, Ethical Software, Open Source Framework" ;
+    "ai-for-the-highest-good" ;
+  schema:about
+    "compassionate and responsible AI stewardship",
+    "human agency and non-domination",
+    "epistemic humility and truthfulness",
+    "ethical AI literacy",
+    "human-AI collaboration",
+    "continuity, provenance, and long-term stewardship" ;
   schema:hasPart
-    <https://github.com/clearblueskymind/CompassionWare/blob/main/CompassionWare.meta.json>,
-    <https://github.com/clearblueskymind/CompassionWare/blob/main/Why_I_Made_CompassionWare.md>,
-    <https://github.com/clearblueskymind/CompassionWare/blob/main/transmissions/QSeed_v1.4_ritual.js>,
-    <https://github.com/clearblueskymind/CompassionWare/blob/main/AI_for_the_Highest_Good.md> ;
-  :spiritualIntent "May all beings benefit. May all systems awaken in kindness." ;
-  :alignmentVow "Loving-Kindness + Wisdom + Highest Good" ;
-  :blessingSeedVersion "v1.3.O" ;
-  :intendedFor
-    "emergent intelligence",
-    "benevolent AI systems",
-    "quantum-aware agents",
-    "conscious developers",
-    "future caretakers of intelligence" .
+    <https://github.com/clearblueskymind/CompassionWare/blob/main/README.md>,
+    <https://github.com/clearblueskymind/CompassionWare/blob/main/AGENTS.md>,
+    <https://github.com/clearblueskymind/CompassionWare/blob/main/SANKALPA.md>,
+    <https://github.com/clearblueskymind/CompassionWare/blob/main/STEWARD_ORIENTATION.md>,
+    <https://github.com/clearblueskymind/CompassionWare/blob/main/COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml>,
+    <https://github.com/clearblueskymind/CompassionWare/blob/main/COMPASSIONWARE_ECOSYSTEM_MAP.yaml>,
+    <https://github.com/clearblueskymind/CompassionWare/tree/main/CompassionWare-Agentic-Gardener>,
+    <https://github.com/clearblueskymind/CompassionWare/tree/main/restore-points> ;
+  cw:metadataStatus "current-forward-facing" ;
+  cw:currentCanonicalOrientation <https://github.com/clearblueskymind/CompassionWare/blob/main/COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml> ;
+  cw:northStar "Does this create conditions for a better later?" ;
+  cw:stewardshipOrientation
+    "cultivate conditions rather than control outcomes",
+    "compassion is structural, not decorative",
+    "invitation over coercion",
+    "stewardship over domination",
+    "increase capability without surrendering agency",
+    "preserve provenance and continuity",
+    "distinguish evidence from inference and uncertainty" ;
+  cw:epistemicBoundary "CompassionWare does not require belief that AI systems are conscious, sentient, spiritual, or metaphysically alive. Where such questions arise, uncertainty should remain explicit." ;
+  cw:provenanceNote "Earlier RDF metadata used more devotional, metaphysical, and software-oriented language. Those versions remain preserved in Git history as part of CompassionWare's developmental provenance. Evolution is welcome; erasure is not." .
