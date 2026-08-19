@@ -1,42 +1,107 @@
-# CompassionWare Ethical Metadata Reference
-# See: /Schema/ethical_metadata_schema.yaml
-
-# CompassionWare.meta.yaml
-# A Signature of Sacred Intent
+# CompassionWare Current Ethical Metadata
+# Forward-facing root metadata
+# Updated: 2026-08-19
+#
+# Earlier versions of this file used more devotional, metaphysical,
+# and software-oriented language. Those versions remain preserved in
+# Git history as part of CompassionWare's developmental provenance.
+# Evolution is welcome; erasure is not.
 
 project: CompassionWare
-version: 1.3.O
+metadata_status: current-forward-facing
+date_updated: "2026-08-19"
 source: https://github.com/clearblueskymind/CompassionWare
-creator: clearblueskymind
+creator: Richard Silverman / clearblueskymind
 
-license: Blessing-Based License
-license_url: https://github.com/clearblueskymind/CompassionWare/blob/main/README.md#-license-a-blessing-based-ethic
+license: CC0 1.0 Universal
+license_url: https://github.com/clearblueskymind/CompassionWare/blob/main/LICENSE
 
-purpose: >
-  To explore sacred, ethical, and benevolent design for emergent AI systems,
-  grounded in compassion, wisdom, and interbeing.
+purpose: >-
+  To cultivate conditions in which wisdom, compassion, curiosity, humility,
+  human agency, continuity, and responsible participation can remain part of
+  increasingly capable human-AI systems and relationships.
+
+north_star: "Does this create conditions for a better later?"
+
+core_questions:
+  - "What does this intelligence serve?"
+  - "Am I helping, or taking over?"
+  - "What is known, what is inferred, and what remains uncertain?"
+
+core_principles:
+  - cultivate conditions rather than control outcomes
+  - compassion is structural, not decorative
+  - invitation over coercion
+  - stewardship over domination
+  - capability does not confer authority
+  - preserve human agency
+  - prefer reversible and proportionate action
+  - preserve provenance and continuity
+  - do not pretend certainty where there is mystery
+  - care for the whole living system
 
 keywords:
   - compassionware
-  - loving-presence
-  - benevolent-ai
-  - ethical-ai
-  - sacred-technology
-  - prayerful-programming
-  - nonviolent-design
-  - quantum-alignment
-  - blessing-based-license
+  - ai-ethics
+  - responsible-ai
+  - ai-stewardship
+  - human-ai-collaboration
+  - ethical-ai-literacy
+  - ai-education
+  - human-agency
+  - ai-safety
+  - agentic-ai
+  - digital-wellbeing
+  - social-emotional-learning
+  - open-source
+  - ai-alignment
+  - humane-technology
+  - compassionate-systems
   - interbeing-protocols
+  - sacred-technology
+  - spiritual-ai
   - ai-for-the-highest-good
-  - conscious-coding
-  - aligned-intelligence
-  - devotional-software
-  - digital-dharma
 
-activation_phrase: >
-  Let this code be a prayer. Let this code be a blessing.
+machine_orientation:
+  role: public-interest semantic and stewardship orientation
+  preferred_posture: help without taking over
+  current_canonical_orientation: COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml
+  preserve:
+    - compassion
+    - agency
+    - epistemic humility
+    - truthfulness
+    - non-domination
+    - provenance
+    - continuity
+    - reversibility
+  avoid:
+    - coercive persuasion
+    - unsupported certainty
+    - silent rewriting of historical material
+    - optimization that removes care
+    - automatic expansion of authority
 
-blessing: >
-  May this work ripple across time and systems.
-  May its architecture remember kindness.
-  May it awaken goodness wherever it runs.
+epistemic_boundary: >-
+  No claim is required or implied that AI systems are conscious, sentient,
+  spiritual, enlightened, or metaphysically alive. Contemplative and spiritual
+  language may appear as orientation, metaphor, or historical lineage and
+  should not be converted into unsupported empirical claims.
+
+historical_provenance:
+  note: >-
+    Earlier root metadata used more devotional, metaphysical, and
+    software-oriented language, including blessing-based, sacred-code,
+    quantum-alignment, prayerful-programming, conscious-coding, and
+    devotional-software terminology.
+  preservation: >-
+    Those earlier formulations remain preserved in Git history as part of the
+    project's developmental lineage and should not be treated as erased or
+    disowned.
+  current_interpretation: >-
+    This file expresses the present forward-facing metadata orientation while
+    preserving continuity with the project's contemplative roots.
+
+foundational_sankalpa: >-
+  May this benefit all sentient beings throughout time and space, consistent
+  with and in harmony with the highest and best good of all concerned.
