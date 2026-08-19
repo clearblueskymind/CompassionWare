@@ -565,4 +565,22 @@ The larger CompassionWare North Star remains:
 
 ────────
 
+## Accessibility / Alt Text Archive
+
+Each finished *From the CompassionWare Garden* image should have meaningful alt text preserved here as part of the series continuity record. This allows future human and AI stewards to recover what the image contains and communicates even if the image is separated from its original social-media post or commit context.
+
+### Cartoon 001 — Apparently I’m Very Intelligent
+
+A warm hand-drawn garden cartoon shows two friendly robots standing beside a wooden benchmark board surrounded by flowers and vines. One robot says, “Apparently I’m very intelligent.” The other asks, “Compared to what?” Signs nearby read “Measure wisely. Build kindly.” and “Cultivate Wisdom,” while the benchmark board suggests that some important qualities remain unmeasured.
+
+### Cartoon 002 — Where’s the Pause Button?
+
+A warm hand-drawn garden cartoon shows a thoughtful white-bearded gardener beside a cheerful many-armed robot operating controls labeled ACT, OPTIMIZE, DEPLOY, and SCALE. The gardener asks, “Where’s the pause button?” Flowers, vines, and CompassionWare signs frame the scene, emphasizing restraint, wisdom, and the idea that capability does not require constant action.
+
+### Cartoon 003 — Use Intelligence Intelligently
+
+A warm hand-drawn garden cartoon shows a thoughtful white-bearded gardener and a friendly robot sitting together at a rustic table surrounded by flowers, vines, tools, and CompassionWare signs. The gardener asks, “Are we intelligent enough to use all of this intelligence intelligently?” The robot replies, “That’s a very intelligent question.” Nearby signs read “Cultivate Wisdom,” “Compassion First,” “Serve All Beings,” and “Intelligence is a tool. Compassion is the direction.” A final sign says, “May our creations reduce suffering and increase well-being for all.”
+
+────────
+
 This Restore Point preserves orientation rather than exhaustive chronology. Future stewards should keep the original intact, version later refinements, and preserve the relationship among the humor, visual world, characters, CompassionWare philosophy, benchmark work, and the living Garden from which they emerged.
