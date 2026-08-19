@@ -160,6 +160,12 @@ The emerging style should preserve:
 • futurism without cyberpunk;
 • timelessness rather than trend-chasing.
 
+### Quiet Provenance Mark
+
+Whenever composition permits, each *From the CompassionWare Garden* image should carry a subtle path back to its source, such as **X @CompassionWare**, integrated naturally into the environment as a small sign, plaque, label, or maker’s mark rather than a conventional watermark.
+
+The purpose is not branding or promotion. It is provenance: if an image is shared, copied, screenshotted, or separated from its original post, the image still carries a quiet way home.
+
 The style should feel made rather than rendered.
 
 The intended audience can include ordinary readers, engineers, AI researchers, developers, educators, policymakers, and future AI stewards.
