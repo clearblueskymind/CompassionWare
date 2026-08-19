@@ -1,3 +1,6 @@
+Historical / Developmental Artifact
+This document is preserved as part of CompassionWare’s developmental lineage and is not the current canonical stewardship or legal orientation. References below to the Blessing-Based License and non-commercial requirements are historical. The repository’s sole current legal license is CC0 1.0 Universal; see LICENSE and LICENSE.md. For current stewardship orientation, see README.md, AGENTS.md, and STEWARD_ORIENTATION.md.
+
 # 🌱 Continuity & Stewardship
 
 If I, the current steward of CompassionWare, become unable to continue this work — due to illness, death, or any life transition —  
