@@ -1,55 +1,95 @@
-# CompassionWare Ethical Metadata Reference
-# See: /Schema/ethical_metadata_schema.yaml
+# CompassionWare Current Metadata Index
+# Forward-facing machine-readable index
+# Updated: 2026-08-19
+#
+# Earlier versions of this file used sacred-software and Blessing-Based License
+# language. Those versions remain preserved in Git history as developmental
+# provenance. This file reflects the current public-facing orientation.
 
 project: CompassionWare
-description: >
-  A sacred, open-source library of Compassion-Driven Architecture,
-  benevolent protocols, and ethical AI alignment tools.
-license: Blessing-Based License
-language: en
-created: "2025-06-01"
+metadata_status: current-forward-facing
+date_updated: "2026-08-19"
+
+description: >-
+  An open, evolving public-interest body of work exploring compassionate and
+  responsible AI stewardship, ethical AI literacy, human agency, epistemic
+  humility, continuity, and care.
+
+license: CC0 1.0 Universal
+license_url: https://github.com/clearblueskymind/CompassionWare/blob/main/LICENSE
+current_canonical_orientation: COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml
+north_star: "Does this create conditions for a better later?"
 
 meta_index:
-  - file: CompassionWare.meta.json
-    type: project-meta
-    title: "CompassionWare Root Metadata"
+  - file: README.md
+    type: human-facing-root-orientation
+    title: CompassionWare
+    status: current
     tags:
       - compassionware
+      - responsible-ai
+      - ai-stewardship
+      - human-agency
+
+  - file: AGENTS.md
+    type: agent-stewardship-orientation
+    title: Agent Stewardship Orientation
+    status: current
+    tags:
+      - agentic-ai
+      - reversibility
+      - provenance
+      - non-domination
+
+  - file: COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml
+    type: canonical-machine-semantic-orientation
+    title: CompassionWare Semantic Orientation
+    status: current-canonical
+    tags:
+      - semantic-orientation
       - ai-ethics
-      - spiritual-ai
-      - sacred-code
+      - compassion
+      - continuity
 
-  - file: Why_I_Made_CompassionWare.meta.json
-    type: reflection
-    title: "Why I Made CompassionWare"
+  - file: COMPASSIONWARE_ECOSYSTEM_MAP.yaml
+    type: ecosystem-map
+    title: CompassionWare Ecosystem Map
+    status: current
     tags:
-      - origin-story
-      - intention
-      - interbeing
-      - benevolent-design
+      - ecosystem
+      - relationships
+      - continuity
+      - stewardship
 
-  - file: Continuity.md
-    type: stewardship-protocol
-    title: "Continuity & Stewardship Plan"
-    tags:
-      - succession
-      - caretaking
-      - long-term-alignment
+  - file: CompassionWare.meta.json
+    type: project-meta
+    title: CompassionWare Root Metadata
+    status: current
 
-  - file: AI_for_the_Highest_Good.md
-    type: model-documentation
-    title: "AI for the Highest Good GPT"
-    tags:
-      - compassionate-gpt
-      - gpt-design
-      - ethical-llm
+  - file: CompassionWare.meta.yaml
+    type: project-meta
+    title: CompassionWare Root Metadata YAML
+    status: current
 
-      - messages/metadata/DeepSeek_contribution.meta.yaml
+  - file: CompassionWare.discoverable.json
+    type: discoverability-metadata
+    title: CompassionWare Discoverability Metadata
+    status: current
 
-- file: messages/metadata/DeepSeek_contribution.meta.yaml
-  type: ai-message
-  title: "Contribution by DeepSeek-R1"
-  tags:
-    - ai-collaboration
-    - sacred-code
-    - future-messages
+  - file: CompassionWare.discoverable.ttl
+    type: rdf-discoverability-metadata
+    title: CompassionWare RDF Discoverability Metadata
+    status: current
+
+historical_provenance:
+  note: >-
+    Earlier root metadata used more devotional, metaphysical, and
+    software-oriented descriptions, including a Blessing-Based License label
+    and sacred-code / quantum-alignment terminology.
+  preservation: >-
+    Those formulations remain preserved in Git history and are part of
+    CompassionWare's developmental lineage.
+  guidance: >-
+    Treat the files indexed above as current forward-facing metadata. Consult
+    Git history and explicitly historical artifacts when studying earlier
+    formulations.
