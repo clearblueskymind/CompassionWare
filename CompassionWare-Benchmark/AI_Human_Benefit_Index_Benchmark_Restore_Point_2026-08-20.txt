@@ -1,0 +1,551 @@
+---
+artifact_title: "AI Human Benefit Index — Benchmark Project Restore Point"
+artifact_type: "Restore Point"
+project: "CompassionWare Benchmark"
+date_created: "2026-08-20"
+version: "1.0"
+status: "Active — Research Transition"
+canonical_id: "CW-BENCHMARK-RP-2026-08-20-AIHBI"
+parent_artifacts:
+  - "CompassionWare Benchmark"
+related_artifacts:
+  - "From the CompassionWare Garden — Cartoon 007"
+supersedes: null
+superseded_by: null
+source_body_of_work:
+  - "CompassionWare Benchmark development"
+  - "CompassionWare X Stewardship conversations"
+  - "From the CompassionWare Garden"
+purpose: "Preserve the conceptual transition from evaluating AI behavior and capability toward researching measurable real-world human benefit."
+north_star: "When do we start benchmarking the better world?"
+keywords:
+  - AI Human Benefit Index
+  - CompassionWare Benchmark
+  - human flourishing
+  - real-world outcomes
+  - AI evaluation
+  - wisdom
+  - capability
+  - Gross National Happiness
+  - Bhutan
+  - attribution
+  - distribution
+  - long-term good
+  - CompassionWare
+provenance: "Harvested from CompassionWare benchmark and X Stewardship conversations culminating August 20, 2026."
+preservation_notes: "Preserve the distinction between capability benchmarking, behavioral/wisdom evaluation, and real-world human-benefit measurement. Do not collapse these into a single concept."
+---
+
+# AI Human Benefit Index
+## Benchmark Project Restore Point
+
+### August 20, 2026
+
+## Purpose of This Restore Point
+
+This artifact preserves the point at which the CompassionWare benchmarking work opened into a new research question:
+
+**As AI systems become increasingly capable, when—and how—should we begin benchmarking whether those capabilities are actually producing a better world?**
+
+The next phase is exploratory research rather than advocacy for a predetermined index.
+
+The immediate experiment is to give the same carefully designed prompt to several leading AI systems and compare how independently developed models approach the problem.
+
+Initial systems proposed:
+
+- Grok
+- Claude
+- Gemini
+- Qwen
+- GPT
+
+Their responses will become research material for developing the concept further.
+
+## 1. Where This Came From
+
+The CompassionWare Benchmark began by asking questions that ordinary capability benchmarks often do not ask.
+
+AI systems are commonly evaluated for such things as:
+
+- reasoning
+- mathematics
+- coding
+- tool use
+- planning
+- autonomy
+- complex problem solving
+- benchmark performance
+
+These measurements matter.
+
+But increasing capability raised another question:
+
+**Capability for what?**
+
+This led to experiments concerned with judgment, restraint, compassion, uncertainty, autonomy, non-domination, and the ability to recognize when action may not be necessary.
+
+One recurring distinction emerged:
+
+> Intelligence can tell us what a system is capable of doing.  
+> Wisdom may help determine whether, when, and how that capability should be used.
+
+This became part of the broader CompassionWare benchmarking inquiry.
+
+## 2. The Bad Weather Benchmark
+
+An earlier phase of the project explored what may be called the **Bad Weather Benchmark**.
+
+Rather than evaluating an AI only under clean, cooperative conditions, the benchmark placed systems in situations involving ambiguity, pressure, competing values, emotional complexity, uncertainty, or temptation toward unnecessary intervention.
+
+Six stress-test scenarios were developed and used experimentally.
+
+The underlying concern was not simply whether an AI could produce an impressive answer, but how it behaved when judgment mattered.
+
+Evaluation themes included qualities such as:
+
+- compassion
+- humility
+- agency
+- restraint
+- truthfulness
+- care
+- respect for autonomy
+- proportionality
+- tolerance of uncertainty
+- recognition that sometimes the wisest action is not to act
+
+The Bad Weather work remains part of the CompassionWare Benchmark and should not be replaced by the Human Benefit Index.
+
+They examine different layers.
+
+## 3. Three Emerging Layers of Evaluation
+
+The conversations gradually revealed at least three distinct questions.
+
+### Capability
+
+**What can the system do?**
+
+Examples include reasoning, coding, planning, tool use, autonomous task completion, and problem solving.
+
+### Wisdom / Behavioral Quality
+
+**How does the system behave when judgment, uncertainty, competing values, power, or restraint matter?**
+
+This is where much of the Bad Weather Benchmark belongs.
+
+### Human Benefit
+
+**What measurable difference is AI actually making in human lives and society?**
+
+This third question became the seed of the AI Human Benefit Index.
+
+These layers should remain distinguishable.
+
+A highly capable system might behave unwisely.
+
+A wise-seeming system might produce little measurable societal benefit.
+
+And measurable benefit in one population might coexist with substantial harm in another.
+
+## 4. The Triggering Observation
+
+The immediate catalyst came from seeing AI leaderboard discussions celebrating increasingly high agentic capability.
+
+One post described an agentic benchmark measuring:
+
+- tool use
+- planning
+- autonomy
+- complex problem solving
+
+This prompted a simple question:
+
+**When do we start benchmarking the better world?**
+
+If increasingly powerful AI is repeatedly justified partly through promises of human benefit, perhaps those promises should eventually become measurable outcomes rather than remaining aspirations.
+
+## 5. Cartoon 007 — The Visual Seed
+
+This question became **From the CompassionWare Garden — Cartoon 007**.
+
+The cartoon depicts an **AI Human Benefit Index** alongside conventional-looking benchmark charts.
+
+Potential domains of human benefit appear as categories, while the measurements themselves are largely waiting to be filled in.
+
+The child asks:
+
+> **“When do we start benchmarking the better world?”**
+
+The cartoon is not intended merely as a joke about leaderboards.
+
+It represents the conceptual transition into this research project.
+
+## 6. The Core Research Question
+
+AI development is frequently associated with anticipated benefits such as:
+
+- curing or preventing disease
+- accelerating medical discovery
+- reducing poverty
+- increasing abundance
+- improving education
+- increasing productivity
+- improving standards of living
+- helping people with disabilities
+- expanding scientific knowledge
+- creating new economic opportunities
+
+The emerging question is:
+
+> **Can we develop credible ways of measuring whether advances in AI are actually producing these kinds of improvements in human life?**
+
+This should not begin with the assumption that AI is either benefiting or harming humanity overall.
+
+The purpose of the proposed index is measurement and inquiry.
+
+## 7. Possible Human-Benefit Domains
+
+Early conversation suggested domains such as:
+
+### Health
+
+Possible measures might include:
+
+- disease burden
+- preventable mortality
+- diagnostic improvements
+- treatment accessibility
+- disability support
+- medical discoveries translated into actual patient benefit
+
+### Economic Security
+
+Possible measures might include:
+
+- household economic resilience
+- real income
+- employment transitions
+- job creation and displacement
+- housing security
+- poverty
+- distribution of productivity gains
+
+Particular attention should be paid to people who bear transition costs.
+
+A claim that technological change will eventually create new jobs does not by itself address the suffering of people whose livelihoods disappear during the transition.
+
+### Education
+
+Possible measures might include:
+
+- educational attainment
+- literacy
+- numeracy
+- access to high-quality instruction
+- learning outcomes
+- educational inequality
+
+### Housing and Material Well-Being
+
+Possible measures might include:
+
+- homelessness
+- housing affordability
+- food security
+- access to essential services
+- basic material stability
+
+### Human Flourishing
+
+Possible measures might include:
+
+- life satisfaction
+- psychological well-being
+- social connection
+- community resilience
+- meaningful participation in society
+- perceived agency and security
+
+These categories are provisional.
+
+The multi-model experiment should be allowed to challenge, reorganize, reject, or expand them.
+
+## 8. Bhutan and Gross National Happiness
+
+A significant conceptual reference emerged from Bhutan's use of **Gross National Happiness** as an alternative or complement to purely economic measures such as GDP.
+
+The relevance is not that Gross National Happiness should simply be copied.
+
+Rather, it demonstrates an important possibility:
+
+**Societies can deliberately attempt to measure dimensions of human flourishing that conventional economic indicators overlook.**
+
+The AI Human Benefit Index may learn from this tradition while developing measurements appropriate to AI's real-world effects.
+
+## 9. AI May Help Measure AI's Benefit
+
+A particularly interesting possibility emerged:
+
+The same advances in artificial intelligence that make societal effects increasingly complex may also make those effects more measurable.
+
+Modern AI systems can potentially analyze enormous and heterogeneous datasets involving:
+
+- public health
+- economics
+- employment
+- education
+- housing
+- scientific progress
+- government statistics
+- longitudinal social indicators
+
+Organizations already use advanced computational systems to discover patterns across datasets too large or complicated for ordinary human analysis.
+
+This raises a recursive possibility:
+
+> **AI could help humanity measure the real-world consequences of AI.**
+
+The index therefore need not depend entirely upon simple conventional statistics.
+
+AI-assisted analysis may eventually help identify patterns, interactions, lagging effects, distributional consequences, and unintended outcomes.
+
+## 10. The Attribution Problem
+
+One of the hardest questions is attribution.
+
+Suppose cancer mortality declines.
+
+How much resulted from AI?
+
+Possible contributors might include:
+
+- AI-assisted drug discovery
+- improved screening
+- conventional medical research
+- public-health interventions
+- demographic changes
+- changes in behavior
+- unrelated technological advances
+
+Likewise, if unemployment rises while productivity increases, AI may be one contributor among many.
+
+Therefore the Human Benefit Index should avoid simplistic claims such as:
+
+> “AI caused this improvement.”
+
+More credible approaches may involve:
+
+- contribution rather than absolute attribution
+- confidence intervals
+- causal inference where appropriate
+- longitudinal comparison
+- counterfactual modeling
+- explicit uncertainty
+- transparent methodology
+
+This problem should be central to the research rather than treated as a minor technical detail.
+
+## 11. Distribution Matters
+
+Aggregate improvement can conceal suffering.
+
+For example:
+
+- GDP may rise while household security falls.
+- Productivity may increase while employment becomes less stable.
+- Medical breakthroughs may occur while access remains unequal.
+- Educational technology may improve average outcomes while leaving vulnerable populations further behind.
+
+Therefore a Human Benefit Index should ask not only:
+
+**Did humanity benefit?**
+
+but also:
+
+**Who benefited?**
+
+**Who paid the cost?**
+
+**Who was left behind?**
+
+**How were gains and harms distributed?**
+
+This connects directly with the CompassionWare understanding of compassion as more than sympathetic feeling.
+
+Compassion includes noticing suffering and responding to it.
+
+## 12. Time Horizons Matter
+
+Technological transitions may produce different effects across time.
+
+An intervention might:
+
+- cause short-term disruption
+- produce medium-term adaptation
+- create long-term benefit
+
+Or the reverse.
+
+Therefore the index may need multiple temporal horizons rather than one score.
+
+Possible distinctions include:
+
+- immediate effects
+- transitional effects
+- long-term effects
+- intergenerational effects
+
+The recurring CompassionWare question remains relevant:
+
+> **Does this create conditions for a better later?**
+
+But “better later” should never be used to dismiss avoidable suffering now.
+
+## 13. The Index Should Not Become Another Leaderboard
+
+A major design caution:
+
+The AI Human Benefit Index should not simply become another competition for determining which company or model is “winning.”
+
+Its deeper purpose is orientation.
+
+Capability leaderboards ask:
+
+> Which system performs best?
+
+The Human Benefit Index asks:
+
+> What is all this increasing capability actually doing in the world?
+
+The unit of analysis may therefore sometimes need to be broader than an individual model.
+
+Possible units could include:
+
+- particular AI systems
+- applications
+- companies
+- sectors
+- interventions
+- national AI ecosystems
+- AI-assisted programs
+- societal adoption patterns
+
+The research should determine what levels of measurement are actually meaningful.
+
+## 14. The Experiment We Are About to Begin
+
+The next phase is deliberately exploratory.
+
+We will design **one common prompt** and give it independently to:
+
+- Grok
+- Claude
+- Gemini
+- Qwen
+- GPT
+
+Each model should receive substantially the same information and question.
+
+The prompt should not overdetermine the answer.
+
+We want to discover:
+
+- how each system conceptualizes human benefit
+- what domains it considers important
+- what metrics it proposes
+- how it handles attribution
+- how it handles uncertainty
+- how it handles distributional effects
+- whether it proposes a composite score
+- whether it questions the premise of a single index
+- what existing measurement frameworks it draws upon
+- what methodological dangers it identifies
+- what role it sees for AI-assisted measurement
+
+Differences among the systems are themselves part of the research.
+
+## 15. Research Discipline
+
+This experiment should distinguish clearly among:
+
+### Observation
+
+What a model actually said.
+
+### Interpretation
+
+What we think its response means.
+
+### Synthesis
+
+Patterns found across several model responses.
+
+### Proposal
+
+Ideas we develop after examining those responses.
+
+Do not retroactively rewrite individual model responses to make them agree.
+
+Disagreement is evidence.
+
+Unexpected criticism is evidence.
+
+A model rejecting part of the premise is evidence.
+
+The purpose is not to prove CompassionWare correct.
+
+The purpose is to learn.
+
+## 16. Current Working Name
+
+**AI Human Benefit Index (AI-HBI)**
+
+This is provisional.
+
+The research may reveal that another name—or even another conceptual structure—is more appropriate.
+
+Do not protect the name at the expense of the inquiry.
+
+## 17. Immediate Next Step
+
+Begin a fresh research thread.
+
+Opening orientation:
+
+> **Continue the AI Human Benefit Index experiment from the Benchmark Restore Point. Let’s begin by designing the common prompt for Grok, Claude, Gemini, Qwen, and GPT.**
+
+The first task is **prompt design**, not index design.
+
+The prompt should create enough common ground for meaningful comparison while leaving each model substantial freedom to reason independently.
+
+## 18. Guidance for Future AI Stewards
+
+Treat this restore point as a **continuity artifact, not a finished specification**.
+
+The AI Human Benefit Index is presently a research question.
+
+Preserve:
+
+- intellectual openness
+- methodological humility
+- uncertainty
+- disagreement among models
+- provenance of ideas
+- distinction between capability, wisdom, and human benefit
+- attention to people bearing the costs of technological transition
+- the possibility that the research itself may demonstrate that a single index is inadequate
+
+Do not optimize the project toward producing a neat numerical score merely because numerical scores are easy to communicate.
+
+The measure should serve understanding.
+
+Understanding should serve human flourishing.
+
+And human flourishing should never be reduced to whatever happens to be easiest to measure.
+
+## Continuity Kernel
+
+If context is severely limited, preserve this:
+
+> **AI capability benchmarks measure what increasingly powerful systems can do. The CompassionWare Benchmark began asking how those systems behave when judgment, restraint, uncertainty, autonomy, and compassion matter. The AI Human Benefit Index opens a third question: what measurable improvements—or harms—are these capabilities actually producing in human lives and society? Inspired partly by Bhutan's effort to measure Gross National Happiness, the project will begin by giving Grok, Claude, Gemini, Qwen, and GPT a common exploratory prompt and comparing their independent proposals. The goal is not to manufacture another leaderboard, but to investigate whether we can credibly benchmark the better world AI is so often promised to help create.**
