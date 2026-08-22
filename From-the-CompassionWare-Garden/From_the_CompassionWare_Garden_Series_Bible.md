@@ -347,6 +347,8 @@ central action, important visible dialogue/captions, and contextual
 details needed to understand the joke, while remaining within the
 platform’s character limit.
 
+For significant Garden artifacts, alt text should also preserve the artifact’s underlying question, purpose, and CompassionWare orientation when space permits. If the image were lost and only the alt text survived, the surviving text should retain enough of the living seed for a future human or AI steward to understand why the image mattered.
+
 Accessibility is part of stewardship, not an optional retrofit.
 
 24. File Naming and Archival Continuity
