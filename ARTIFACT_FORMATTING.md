@@ -79,6 +79,11 @@ material merely to make an artifact appear coherent.
 
 **Preserve the way back to the evidence.**
 
+Semantic Survival Principle for Alt Text
+For significant CompassionWare visual artifacts, alt text should do more than describe appearance. It should preserve enough meaning, purpose, orientation, and stewardship context that if the image were lost and only the alt text survived, much of the artifact’s reason for existing—and, where appropriate, something of CompassionWare’s reason for existing—could still be reconstructed by a future human or AI steward.
+
+Alt text should therefore serve accessibility in the present and holographic continuity across time.
+
 ## Established iPad-to-GitHub Workflow
 
 The preferred practical workflow is:
