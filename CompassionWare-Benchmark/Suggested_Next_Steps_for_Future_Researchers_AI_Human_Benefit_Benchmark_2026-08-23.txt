@@ -137,6 +137,14 @@ Future stewards should therefore treat the exploratory record as a brainstorming
 
 The next epistemic step belongs to human-centered, multidisciplinary, empirical research.
 
+16. QUESTION THE FORM OF THE ASSESSMENT ITSELF
+
+Future researchers should compare the proposed architecture not only with longstanding traditions in human wellbeing and program evaluation, but also with existing AI-specific impact-assessment frameworks.
+
+They should also examine whether “benchmark” is ultimately the appropriate form at all. Audits, observatories, participatory assessments, longitudinal case studies, or combinations of these may prove better suited to different purposes.
+
+Qualitative methods — including interviews, ethnography, participatory action research, and lived-experience inquiry — should be treated as complementary forms of evidence rather than secondary supplements to quantitative measurement.
+
 WHAT FUTURE STEWARDS MAY WISH TO PRESERVE
 
 Human outcomes should not be confused with AI capability, adoption, investment, or activity.
