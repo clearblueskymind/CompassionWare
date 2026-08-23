@@ -129,6 +129,60 @@ examining further.
 
 ------------------------------------------------------------------------
 
+## Candidate Architecture at a Glance
+
+The exploratory research repeatedly surfaced several considerations that future researchers may find useful when designing a real-world human-benefit benchmark.
+
+### Human outcomes, not AI activity
+
+Distinguish capability, adoption, investment, usage, and productivity from demonstrated changes in people's lives. Technological activity is not itself evidence of human benefit.
+
+### Attribution and counterfactuals
+
+Ask what would plausibly have happened without the AI intervention. Where causal attribution cannot be established, uncertainty or non-attribution should remain visible rather than being converted into false precision.
+
+### Distribution
+
+Examine who benefits, who bears costs, who is excluded, and whether aggregate improvements conceal concentrated harms or unequal distributions of benefit.
+
+### Agency and dignity
+
+Consider autonomy, meaningful choice, contestability, dependence, human control, and whether an AI intervention increases or diminishes people's ability to participate in decisions affecting their lives.
+
+### Time
+
+Distinguish immediate, transitional, long-term, and intergenerational effects. Consider delayed harms and benefits, reversibility, path dependence, and whether short-term improvements create longer-term fragility or dependence.
+
+### Evidence and uncertainty
+
+Make evidence quality, missing information, assumptions, measurement limitations, and causal uncertainty visible rather than hiding them behind a seemingly precise score.
+
+### Context
+
+Recognize that the same AI capability or system may produce very different human effects across populations, institutions, cultures, applications, and surrounding social conditions.
+
+### Harms alongside benefits
+
+Assess harms as an integral part of human-impact measurement. Do not assume that benefits experienced by one population necessarily compensate for severe or concentrated harms experienced by another.
+
+### Governance and resistance to gaming
+
+Anticipate Goodhart's Law, institutional capture, conflicts of interest, selective reporting, and attempts to optimize against the measurement system rather than improve underlying human outcomes.
+
+### Plural methods and disciplines
+
+Draw from established traditions including causal inference, public health, economics, social science, human-rights assessment, participatory research, environmental assessment, technology assessment, and the knowledge of affected communities rather than treating AI human-impact measurement as an entirely new discipline.
+
+---
+
+These are **candidate design considerations, not a proposed benchmark specification**. They are offered as an open starting point for researchers, institutions, communities, and others with the expertise, resources, institutional standing, and lived experience necessary to take the question further.
+
+The purpose of this project is not to prescribe what such a benchmark must become, but to help make the missing question visible:
+
+**As AI capabilities continue to advance, how might we also measure what those capabilities are actually doing to and for human lives?**
+
+------------------------------------------------------------------------
+
 ## AI Human Benefit Research Record
 
 Readers who want to inspect how the proposal emerged can follow the
