@@ -371,6 +371,16 @@ The **Human Benefit exploration** concerns the real-world effects of AI on peopl
 
 The **Stewardship Benchmark** concerns the behavior of AI systems when making or assisting consequential decisions.
 
+### Different purposes, different trajectories
+
+These two branches should not be interpreted as stages of a single benchmark-development program.
+
+The Human Benefit branch is an exploratory research handoff. CompassionWare is not proposing itself as the developer, validator, certifier, auditor, or governing institution for any future human-benefit assessment system.
+
+The Stewardship Benchmark is a separate CompassionWare-native inquiry into whether qualities such as compassion, agency-respect, restraint, and stewardship can become visible in consequential AI decisions rather than merely in language or tone.
+
+Its continued exploration does not imply that CompassionWare is developing the Human Benefit proposal into an institutional benchmark or standard.
+
 ### Core stewardship documents
 
 - [Concept Seed v0.1](CompassionWare_Stewardship_Benchmark_Concept_Seed_v0.1.md)
