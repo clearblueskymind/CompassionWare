@@ -1,0 +1,597 @@
+---
+artifact_title: From Convergence to Architecture --- Cross-Experiment
+  Synthesis
+artifact_type: Cross-Experiment Comparative Synthesis
+canonical_id: CW-BENCHMARK-AIHBI-CROSS-SYNTHESIS-001
+date_created: 2026-08-23
+next_planned_stage: Experiment 3 --- Minimum Viable Human Effects
+  Assessment
+preservation_note: This compares two exploratory elicitation conditions.
+  It is not a controlled causal experiment; differences between rounds
+  must not be attributed solely to prompt structure.
+project: CompassionWare Benchmark
+research_program: AI Human Benefit Index
+round_01_source_count: 8
+round_02_source_count: 5
+status: Secondary research artifact --- interpretive synthesis for human
+  review
+version: 1.0
+---
+
+# From Convergence to Architecture
+
+## Cross-Experiment Synthesis of Round 01 and Round 02
+
+**CompassionWare Benchmark --- AI Human Benefit Index**\
+**Date:** August 23, 2026
+
+## Classification
+
+This document compares two exploratory conditions in the AI Human
+Benefit Index research program.
+
+**Round 01 --- Open Encounter** asked eight AI systems a short, open
+question: how should we determine whether increasingly capable AI is
+actually benefiting human life?
+
+**Round 02 --- Full Structured Prompt** asked five AI systems to examine
+the same problem through ten methodological areas: scope, domains,
+attribution, uncertainty, distribution, time, aggregation, AI-assisted
+measurement, governance, and research design.
+
+The purpose is not to determine which round or system was "better." It
+is to identify what appeared spontaneously, what remained stable under
+structure, what became more operational, and what remains unresolved.
+
+Participant composition, interfaces, model versions, access conditions,
+and response lengths differed between rounds. This therefore cannot
+establish that differences were caused by the prompt alone.
+
+## Abstract
+
+Across both conditions, one finding is remarkably stable:
+
+> **AI capability is not evidence of human benefit.**
+
+Technical performance, adoption, investment, usage, productivity, and
+publicity are upstream signals. The object of evaluation is what changes
+in human lives and social conditions.
+
+Round 01 reached this largely without methodological scaffolding. Its
+responses converged around human agency, distribution and power,
+competence and dignity, epistemic and social integrity, resilience,
+causal attribution, long-term stewardship, and resistance to a single
+scalar index.
+
+Round 02 did not overturn that architecture. It operationalized it. The
+structured responses added greater specificity around intervention-level
+analysis, baselines and counterfactuals, causal and contribution-based
+attribution, evidence grading, multiple forms of uncertainty, separate
+attention to harms, longitudinal assessment, AI-assisted evidence
+processing, governance, contestability, and resistance to gaming.
+
+The emerging candidate is therefore not a conventional AI Human Benefit
+Index. It is a **continuing AI Human Effects Assessment**:
+multidimensional, intervention-centered, causal where possible,
+contribution-based where necessary, distributional, longitudinal,
+uncertainty-aware, participatory, contestable, and resistant to
+aggregation that hides serious harm.
+
+The next research stage should move from conceptual elicitation to a
+**minimum viable pilot instrument applied to one bounded real-world AI
+intervention**.
+
+## 1. What Remained Stable Across Both Rounds
+
+### Capability is not benefit
+
+Round 01 spontaneously rejected the equation "more capable AI = more
+beneficial AI." Round 02 maintained and sharpened the distinction.
+
+A useful analytical chain is:
+
+**capability → exposure/use → changed activity/process → intermediate
+outcome → human/social outcome**
+
+Only the later stages can establish human benefit.
+
+### Outcomes before proxies
+
+Both rounds resist substituting easy-to-count technological activity for
+lived consequence.
+
+Benchmark scores, adoption, user counts, engagement, investment,
+patents, product counts, productivity, and publicity may describe
+capability, exposure, or mechanisms. They do not by themselves establish
+that people are better off.
+
+### Human agency is central
+
+Round 01 gave agency exceptional prominence: the ability to understand,
+choose, refuse, appeal, create, retain competence, and remain an author
+of one's life.
+
+Round 02 preserved agency while embedding it within broader outcome
+domains such as health, education, material security, safety, dignity,
+privacy, social connection, civic power, and environment.
+
+The cross-round finding is not that agency is the only value. It is that
+apparent gains become questionable when they systematically require loss
+of meaningful control, understanding, refusal, recourse, or authorship.
+
+### Distribution and power cannot disappear into averages
+
+Both rounds repeatedly ask:
+
+**Who gains? Who loses? Who is excluded? Who decides?**
+
+A positive average cannot establish a positive social outcome when gains
+are concentrated and harms are imposed on populations with little power
+or recourse.
+
+Together, the rounds suggest two distinct questions:
+
+1.  How are outcomes distributed?
+2.  How is power over the system and its consequences distributed?
+
+### Causal attribution matters
+
+Round 01 already demanded comparison with plausible alternatives. Round
+02 developed this into baselines, counterfactuals, experimental and
+quasi-experimental methods, synthetic controls, process tracing,
+contribution analysis, and explicit acknowledgment of effects that
+cannot be confidently attributed.
+
+An outcome occurring after AI deployment is not evidence that AI caused
+it.
+
+### Time changes the answer
+
+Both rounds reject snapshot evaluation.
+
+Immediate convenience or productivity may coexist with later deskilling,
+dependency, fragility, institutional erosion, environmental burden, or
+developmental effects. Present costs may also precede genuine later
+benefits.
+
+A credible framework must examine trajectories rather than one-time
+scores.
+
+### Resilience matters alongside efficiency
+
+Round 01 foregrounded redundancy, fallback capacity, reversibility,
+provider concentration, and recovery. Round 02 preserved this through
+attention to path dependence, institutional dependency, reversibility,
+and what happens if a system fails, disappears, changes, or becomes
+unaffordable.
+
+**An intervention can become more efficient while making the surrounding
+human system less resilient.**
+
+### One scalar score is poorly supported
+
+Across both rounds, the conventional interpretation of an "index"
+receives little support.
+
+The recurring preference is for dashboards, profiles, audits,
+constellations, multidimensional assessments, and quantitative evidence
+accompanied by narrative context.
+
+The working name **AI Human Benefit Index** remains useful as the name
+of the inquiry. The evidence increasingly suggests that its operational
+form should not be one number.
+
+### Participation and contestability matter
+
+Round 01 emphasizes participatory evaluation and affected communities.
+Round 02 develops this into multi-stakeholder governance, formal
+contestability, independent auditing, transparent methodology, appeals,
+and resistance to capture.
+
+Legitimacy therefore appears to be part of measurement quality rather
+than an administrative afterthought.
+
+## 2. What Round 02 Sharpened
+
+Several ideas appeared spontaneously in Round 01 and became
+substantially more operational in Round 02.
+
+**Causality became an attribution architecture.** The general
+requirement to compare against plausible alternatives became a toolkit
+of baselines, counterfactuals, confounder analysis, causal inference,
+contribution analysis, process tracing, and graded attribution
+confidence.
+
+**Uncertainty became an evidence architecture.** The instruction to
+avoid false precision expanded into evidence grades, missing-data
+visibility, sensitivity analysis, and distinctions among statistical,
+causal, structural/model, generalization, value, deep, and epistemic
+uncertainty.
+
+**Distribution became mandatory disaggregation.** The concern with who
+gains and who has power became a procedure for examining relevant
+geographic, economic, demographic, disability, access, occupational, and
+power-related differences while recognizing intersectionality and
+privacy constraints.
+
+**Long-term stewardship became temporal profiling.** Immediate,
+transitional, structural, intergenerational, reversible, irreversible,
+and path-dependent effects became explicit objects of analysis.
+
+**The dashboard became a publication architecture.** Round 02 added
+evidence layers, subgroup views, temporal trajectories, qualitative
+narratives, uncertainty displays, and visible value assumptions.
+
+**Severe-harm thresholds became a harms layer.** Round 01 proposed
+constitutional thresholds or veto-like conditions. Round 02 reinforced
+the principle that serious harms should not simply be arithmetic
+negatives in a benefit ledger and introduced the possibility of a
+separate harms register or non-compensatory constraints.
+
+## 3. What Was Mostly Scaffold-Elicited or Greatly Expanded
+
+Some areas became prominent largely because Round 02 explicitly asked
+about them. They may be important without having the same evidence of
+spontaneous salience.
+
+These include:
+
+-   the AI-mediated intervention as the usual primary unit of analysis,
+    nested within organizations, sectors, populations, and wider
+    society;
+-   formal evidence provenance recording source, population, time
+    period, transformations, evaluator, conflicts, causal design, and
+    limitations;
+-   explicit roles and safeguards for AI helping to measure AI;
+-   detailed governance architecture, including methodological, data,
+    impact, and gaming audits;
+-   a minimum viable research program beginning with bounded real-world
+    deployments rather than society-wide scoring.
+
+Round 01 contains seeds of several of these ideas, but Round 02 makes
+them institutional and procedural.
+
+## 4. Genuine Tensions That Remain
+
+### Benefit versus effect
+
+"Benefit" is already evaluative. A future architecture may need three
+distinct layers:
+
+**Evidence:** What changed?\
+**Attribution:** What role did AI play?\
+**Evaluation:** Should that change count as benefit, harm, mixed, or
+unresolved?
+
+### Universal framework versus contextual pluralism
+
+Cross-case comparison requires common categories, yet cultures and
+communities may disagree about flourishing, dignity, autonomy, and
+acceptable trade-offs.
+
+Too much standardization risks value imposition. Too much localization
+destroys comparability.
+
+### Aggregation versus decision usefulness
+
+Dashboards preserve complexity, but decision-makers sometimes need
+prioritization. A scalar score is convenient but can hide exactly what
+the framework is meant to reveal.
+
+Limited, transparent, purpose-specific aggregation may be testable
+later, but should not become the meaning of the framework.
+
+### Compensable versus non-compensable harms
+
+Both rounds resist allowing serious harms to be washed away by aggregate
+gains. Neither establishes a universally legitimate list of veto
+conditions.
+
+### Observed outcomes versus catastrophic risk
+
+A human-effects framework is strongest when consequences can be
+observed. Low-probability catastrophic or irreversible risks may require
+action before empirical harm appears.
+
+The project may therefore need distinct but related layers for
+**observed human effects** and **prospective catastrophic-risk
+assessment**.
+
+### Measurement versus legitimation
+
+A respected assessment framework can itself become a badge of
+responsibility. The architecture must therefore preserve the principle:
+
+> **Being measured is not evidence of being beneficial.**
+
+## 5. What the Structured Prompt Appears to Have Changed
+
+The strongest defensible interpretation is not that Round 02 changed the
+fundamental answer.
+
+It changed the **resolution** of the answer.
+
+**Round 01 discovered the landscape. Round 02 began drawing the map.**
+
+The open condition surfaced a conceptual center: human outcomes rather
+than capability; agency; competence; dignity; distribution; epistemic
+and social integrity; resilience; long-term stewardship; causal
+evaluation; and resistance to a single score.
+
+The structured condition added methodological machinery:
+intervention-level units, counterfactuals, attribution methods, evidence
+grades, uncertainty taxonomies, disaggregation procedures, temporal
+profiles, harms registers, AI-measurement safeguards, governance
+mechanisms, and pilot research designs.
+
+This supports the Round 01 conditioning hypothesis, but does not prove a
+causal prompt effect because participant and interface conditions
+differed.
+
+## 6. Cross-Experiment Candidate Architecture
+
+The two rounds together now support a provisional architecture strong
+enough to test empirically.
+
+### Layer 1 --- Intervention
+
+Define the AI-mediated intervention: system, application, context,
+population, stakes, automation level, institutional setting, and
+plausible alternative.
+
+### Layer 2 --- Human outcomes
+
+Candidate common domains include health and well-being; learning and
+human capability; economic and material security; work quality and time;
+autonomy, agency, dignity, and privacy; safety; social connection and
+trust; equity and inclusion; civic and institutional conditions; and
+environmental/resource effects.
+
+Context-specific modules may include epistemic integrity, cultural
+continuity, accessibility, or other locally important outcomes.
+
+### Layer 3 --- Causal contribution
+
+Specify baseline, counterfactual, confounders, complementary causes,
+causal or contribution method, and attribution confidence.
+
+### Layer 4 --- Distribution and power
+
+Show subgroup outcomes, exclusions, externalized costs, ability to opt
+out, access to appeal, ownership, bargaining power, and shifts in
+institutional control.
+
+### Layer 5 --- Competence and agency
+
+Examine retained expertise, independent judgment, meaningful choice,
+understanding, refusal, recourse, authorship, and dignity.
+
+### Layer 6 --- Time and resilience
+
+Track immediate, transitional, long-term, and intergenerational effects
+alongside reversibility, redundancy, fallback capacity, provider
+dependence, and path dependence.
+
+### Layer 7 --- Harm boundaries
+
+Maintain a separate harms view and test candidate non-compensatory
+thresholds rather than assuming every benefit and harm shares one
+exchange rate.
+
+### Layer 8 --- Evidence and uncertainty
+
+Attach evidence quality, provenance, missingness, measurement error,
+causal uncertainty, model dependence, sensitivity, contested
+assumptions, and unresolved questions.
+
+### Layer 9 --- Participation and governance
+
+Include affected people, domain experts, independent researchers, civil
+society, auditors, and other relevant stakeholders. Preserve
+contestability and revision.
+
+### Layer 10 --- Presentation
+
+Do not begin with a leaderboard. Publish a multidimensional profile or
+dashboard with narrative context. Any future composite should remain
+secondary and incapable of erasing the underlying evidence.
+
+## 7. Candidate Principles That Survived Both Conditions
+
+These are provisional research commitments, not settled truths.
+
+1.  **Measure consequences, not technological impressiveness.**
+2.  **Never infer benefit from adoption.**
+3.  **Compare against realistic alternatives.**
+4.  **Preserve meaningful human agency and competence.**
+5.  **Preserve distribution and power differences.**
+6.  **Preserve time and resilience.**
+7.  **Do not allow severe harms to vanish into averages.**
+8.  **Make uncertainty visible.**
+9.  **Keep measurement contestable.**
+10. **Resist leaderboard logic and Goodhart-style optimization.**
+
+## 8. What We Can and Cannot Say
+
+### We can provisionally say
+
+Across thirteen preserved responses in two exploratory rounds, there is
+repeated support for separating AI capability from human benefit and
+evaluating concrete human and social consequences through
+multidimensional, causal, distributional, longitudinal, and
+uncertainty-aware methods.
+
+Resistance to a single composite score is not merely an artifact of the
+Round 02 structured prompt; it was already prominent in the Round 01
+open condition.
+
+Agency, distribution, causal attribution, resilience, long-term effects,
+and participatory or contestable evaluation also recur across both
+conditions.
+
+### We cannot say
+
+We cannot claim that thirteen conscious agents reached philosophical
+consensus.
+
+We cannot claim that the sample represents all AI systems.
+
+We cannot infer stable model beliefs from one generated response.
+
+We cannot attribute every difference between rounds to prompt structure.
+
+We cannot claim that the architecture is empirically valid merely
+because multiple systems generated similar ideas.
+
+We cannot yet claim that an AI Human Effects Assessment can be
+implemented reliably, affordably, or without unintended consequences.
+
+That is what the next stage must test.
+
+## 9. The Discovery Produced by the Two Rounds
+
+The experiment began with:
+
+> **How would you determine whether increasingly capable AI is actually
+> benefiting human life?**
+
+Round 01 revealed that capability itself is the wrong object of
+evaluation.
+
+Round 02 showed what a serious alternative would require.
+
+The research question has therefore evolved toward:
+
+> **For a specific AI-mediated intervention, what changed in human and
+> social life compared with a realistic alternative; what role did AI
+> plausibly play; who benefited or was harmed; what happened to agency,
+> competence, power, and resilience; how strong is the evidence; and how
+> do those effects change over time?**
+
+This is less elegant than an index.
+
+It is also much closer to something that can be tested.
+
+## 10. Next Research Stage --- Experiment 3
+
+The conceptual elicitation phase has now produced enough recurring
+architecture that another broad philosophical round may have diminishing
+returns.
+
+The next discovery should come from trying to **use** the framework.
+
+### Minimum Viable Human Effects Assessment
+
+Select one bounded real-world AI intervention for which outcomes,
+affected populations, and a plausible non-AI comparison can be
+identified.
+
+Build a deliberately small prototype containing:
+
+1.  intervention definition;
+2.  outcome domains;
+3.  baseline/counterfactual;
+4.  attribution-confidence method;
+5.  distributional analysis;
+6.  agency/competence check;
+7.  harms register;
+8.  temporal/resilience check;
+9.  evidence-quality and uncertainty display;
+10. short narrative assessment.
+
+Then apply it to actual evidence.
+
+The purpose of Experiment 3 is **not to prove the architecture works**.
+
+It is to discover **where it breaks**.
+
+The pilot should ask:
+
+-   Which concepts are actually measurable?
+-   Which require qualitative judgment?
+-   Which data are unavailable?
+-   Can causal attribution be credible?
+-   Does agency add information beyond conventional outcome measures?
+-   Are important harms still hidden?
+-   Can uncertainty be visible without making the instrument unusable?
+-   Is the research burden practical?
+-   Can independent evaluators apply it with reasonable consistency?
+-   What must be revised before a second pilot?
+
+A good first case should be bounded enough to study, socially
+meaningful, supported by accessible evidence, and rich enough to expose
+weaknesses.
+
+## 11. Research Sequence From Here
+
+**Round 01 --- Open Encounter**\
+↓\
+**Round 01 Comparative Synthesis**\
+↓\
+**Round 02 --- Structured Methodological Encounter**\
+↓\
+**Round 02 Comparative Synthesis**\
+↓\
+**Cross-Experiment Synthesis --- this artifact**\
+↓\
+**Experiment 3 --- Minimum Viable Human Effects Assessment**\
+↓\
+**First real-world pilot case**\
+↓\
+**Post-pilot methodological critique and revision**\
+↓\
+**Second contrasting pilot**\
+↓\
+**Only then consider whether a reusable benchmark, dashboard, audit
+protocol, or limited index is justified**
+
+## 12. Preservation Guidance for Future Stewards
+
+Future human, machine, or emergent stewards should preserve these
+distinctions:
+
+-   primary-source model responses are evidence;
+-   round-level syntheses are interpretations;
+-   this cross-experiment paper is a second-order interpretation;
+-   the emerging architecture is a proposal generated from the
+    comparison;
+-   future pilot evidence may contradict or revise it.
+
+Do not convert recurrence into truth merely because multiple models
+generated similar concepts.
+
+Do not erase disagreement to make the framework cleaner.
+
+Do not allow the memorable phrase **AI Human Benefit Index** to force
+the project into producing a number.
+
+Do not confuse the ability to measure something with evidence that it is
+the right thing to value.
+
+And do not preserve the framework so rigidly that new evidence cannot
+change it.
+
+**The purpose of continuity is not to freeze the inquiry. It is to
+preserve the way back to the evidence so the inquiry can continue
+honestly.**
+
+## Conclusion
+
+Two different exploratory conditions point toward the same central
+shift:
+
+> **The meaningful benchmark for AI is not increasing machine
+> capability. It is changing human reality.**
+
+Round 01 discovered this largely without scaffolding.
+
+Round 02 translated it into methodological architecture.
+
+The next question can no longer be answered adequately by asking more
+systems what they think a benchmark should contain.
+
+The next question is practical:
+
+> **Can this emerging architecture survive contact with a real case?**
+
+That is the doorway into Experiment 3.
