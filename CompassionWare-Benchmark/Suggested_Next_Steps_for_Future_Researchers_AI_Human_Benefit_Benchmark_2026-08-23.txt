@@ -1,0 +1,188 @@
+SUGGESTED NEXT STEPS FOR FUTURE RESEARCHERS
+Real-World Human Benefit Benchmark for AI
+CompassionWare Benchmark Project
+August 23, 2026
+
+PURPOSE
+
+This artifact records promising directions for researchers, universities, standards bodies, public-interest institutions, affected communities, and future stewards who may wish to carry this inquiry further.
+
+It is not a prescribed roadmap, a finished research agenda, or a list of unfinished obligations for CompassionWare.
+
+CompassionWare's contribution at this stage is to identify a gap, explore its structure, preserve the exploratory record, propose candidate design considerations, and leave an open handoff.
+
+The central question remains:
+
+How might we develop credible evidence about whether AI is actually improving human lives — for whom, compared with what, over what period, with what harms, and with what degree of uncertainty?
+
+The exploratory work suggests several directions that may deserve deeper investigation.
+
+1. SITUATE THE INQUIRY WITHIN EXISTING RESEARCH TRADITIONS
+
+Future researchers should not begin as though the measurement of human wellbeing, social impact, or technological consequences were new problems.
+
+A formal literature review could map the candidate architecture developed here against established traditions including the capability approach and human-development measurement; public health and quality-of-life measurement; program evaluation and causal inference; wellbeing economics; labor economics; environmental and social impact assessment; human-rights impact assessment; participatory evaluation; science and technology studies; responsible innovation; evidence grading; and critical studies of auditing, metrics, and quantification.
+
+The purpose would be to identify what has already been learned, where established methods can be adapted, where they conflict, and what may actually be distinctive about measuring AI-mediated human effects.
+
+2. SHARPEN THE CENTRAL MEASUREMENT GAP
+
+The exploratory project's original provocation was:
+
+"AI capability is measured constantly. Real-world human benefit is not."
+
+Future work should preserve the insight while making the claim more precise:
+
+AI capability is measured constantly, with considerable precision and coordination. The real-world human effects of specific AI systems — especially their attribution, distribution, long-term trajectories, harms, and uncertainty — are not measured with comparable rigor, independence, or transparency.
+
+Human wellbeing is already measured through many established social, economic, health, educational, and environmental indicators. The distinctive problem is connecting changes in those outcomes credibly to AI interventions while preserving context, uncertainty, distribution, and competing interpretations of what constitutes benefit.
+
+3. KEEP OUTCOME, ATTRIBUTION, AND EVALUATION DISTINCT
+
+Future frameworks may benefit from explicitly separating three questions:
+
+Outcome: What actually changed in people's lives or social conditions?
+
+Attribution: What role, if any, did the AI intervention play in producing that change?
+
+Evaluation: Should that change be understood as benefit, harm, mixed consequence, or unresolved?
+
+Keeping these questions distinct may help prevent technological activity, correlation, or normative preference from being mistaken for demonstrated human benefit.
+
+4. DEVELOP WORKED CASE STUDIES
+
+A future research team could apply the candidate considerations to bounded real-world AI interventions such as AI-assisted medical diagnosis, AI tutoring, workplace systems, accessibility technologies, public-sector decision support, AI-assisted transportation, or scientific research tools.
+
+The purpose would not initially be to generate a universal score. It would be to discover what happens when the conceptual architecture encounters real evidence.
+
+A worked case could ask: What outcome changed? What is the appropriate counterfactual? How strong is the attribution? Who benefited? Who did not? Who bore costs or risks? Did agency or dignity change? What happened over time? What remains unknown? How reversible are the effects? What evidence would change the conclusion?
+
+5. DISTINGUISH EX-ANTE FROM EX-POST ASSESSMENT
+
+Future work should distinguish prospective assessment — what effects might reasonably be expected before or during deployment — from retrospective evaluation — what effects actually occurred afterward.
+
+These questions require different evidence and methods. A mature framework may need both without allowing predictions to masquerade as observed results.
+
+6. DEVELOP ATTRIBUTION METHODS APPROPRIATE TO CONTEXT
+
+Attribution repeatedly emerged as one of the hardest problems. Future researchers could investigate when randomized or phased rollouts, difference-in-differences, regression discontinuity, natural experiments, synthetic controls, interrupted time-series analysis, longitudinal comparisons, process tracing, contribution analysis, or theory-of-change methods are appropriate.
+
+The framework should preserve an explicit category for effects that cannot responsibly be attributed to AI. "Unknown" and "unattributed" should be legitimate findings.
+
+7. MAKE DISTRIBUTION AND POWER FIRST-CLASS QUESTIONS
+
+Aggregate improvement can conceal concentrated harm. Future assessments should ask: Who benefits? Who bears costs? Who is excluded? Who is exposed without meaningful choice? Who controls deployment? Who defines acceptable error? Who can contest a decision? Who can withdraw? Who captures financial gains? Who bears environmental or social externalities?
+
+Affected communities should not be treated merely as sources of data. Future researchers should investigate participatory approaches in which people living with AI's consequences help define, interpret, and contest the measures themselves.
+
+8. DEVELOP AN EPISTEMIC JUSTICE AND CONTEXT PROTOCOL
+
+"Human benefit" is not culturally neutral. Future research should examine how different communities understand wellbeing, dignity, agency, relationship, responsibility, flourishing, and the good life.
+
+Researchers should explore how common measurement principles might coexist with locally negotiated meanings and priorities.
+
+9. BUILD GOVERNANCE AND POLITICAL ECONOMY INTO THE ARCHITECTURE
+
+Measurement does not occur outside systems of power. Any future assessment institution should examine who funds it, owns it, maintains the data, selects the measures, audits the methodology, has standing to challenge findings, benefits from favorable results, and determines what happens when harm is identified.
+
+Governance should not be added after the metrics are designed. It is part of whether the measurement can be trusted.
+
+10. STUDY RESISTANCE TO GAMING AND CAPTURE
+
+Any influential benchmark risks becoming a target. Future researchers should investigate safeguards such as multiple independent measures, revisable indicators, qualitative evidence, adversarial audits, independent replication, transparent provenance, public contestability, and explicit monitoring for proxy optimization.
+
+A particularly important question is:
+
+Does improvement in the measurement continue to correspond to improvement in people's actual lives?
+
+11. INVESTIGATE WHETHER AND WHEN AGGREGATION IS DEFENSIBLE
+
+Future researchers could test whether aggregation is useful within narrowly defined contexts while preserving the underlying multidimensional evidence.
+
+Any weighting system should make visible which outcomes count, who selected them, how much each counts, how harms trade against benefits, how inequality is treated, how future effects are valued, and how uncertainty changes the result.
+
+Some severe harms or rights-related constraints may need non-compensatory treatment. A composite score, if ever used, should be understood as the output of an explicit value model rather than an objective measurement of "goodness."
+
+12. TEST THE FRAMEWORK ACROSS TIME
+
+Future longitudinal research should examine adaptation, rebound effects, deskilling, institutional dependence, resilience and fragility, labor-market restructuring, delayed harms, delayed benefits, reversibility, and intergenerational consequences.
+
+One useful question may be:
+
+Does this intervention create conditions for a better later, or does present efficiency purchase future fragility?
+
+13. TEST INTER-RATER AND INTER-METHOD RELIABILITY
+
+Different research teams could independently assess the same AI intervention and compare which outcomes they identify, which counterfactuals they choose, how they grade attribution, which affected populations they identify, and how conclusions change under different methods or value assumptions.
+
+Disagreement could reveal where judgment, evidence, context, or values materially shape conclusions.
+
+14. DEFINE A THEORY OF CHANGE FROM MEASUREMENT TO ACCOUNTABILITY
+
+A benchmark that identifies harm but changes nothing may become merely descriptive.
+
+Future researchers should ask what measurement is intended to enable: better public understanding, improved design, policy evaluation, procurement decisions, regulatory oversight, remediation, compensation or redress, or modification or withdrawal of harmful deployments.
+
+The relationship between measurement and action should be explicit rather than assumed.
+
+15. PRESERVE THE DISTINCTION BETWEEN EXPLORATION AND EVIDENCE
+
+The CompassionWare Benchmark experiments used multiple AI systems as exploratory research collaborators.
+
+Their recurring responses helped reveal a recognizable structure in model response space and generated candidate considerations worth examining. They did not establish empirical truth.
+
+Shared training material, similar alignment methods, common intellectual traditions, and other forms of dependence may contribute to convergence among AI systems.
+
+Future stewards should therefore treat the exploratory record as a brainstorming and concept-discovery artifact, not as empirical validation of the proposed framework.
+
+The next epistemic step belongs to human-centered, multidisciplinary, empirical research.
+
+WHAT FUTURE STEWARDS MAY WISH TO PRESERVE
+
+Human outcomes should not be confused with AI capability, adoption, investment, or activity.
+Uncertainty should remain visible.
+Distribution should not disappear into averages.
+Harms should not become footnotes to benefits.
+Attribution should not be claimed where evidence does not support it.
+Agency, dignity, and contestability deserve attention alongside material outcomes.
+Long-term resilience matters alongside immediate efficiency.
+Governance and measurement are inseparable from power.
+No framework should be treated as beyond criticism or revision.
+The people affected by AI should have meaningful standing in determining what counts as evidence and benefit.
+
+AN OPEN HANDOFF
+
+CompassionWare does not prescribe which of these directions should be pursued, in what order, or by whom.
+
+They are seeds gathered from an exploratory inquiry.
+
+Some may prove useful.
+Some may already be better developed elsewhere.
+Some may be mistaken.
+Others may become important only as AI and society continue to change.
+
+The invitation to future researchers is not:
+
+Build this benchmark exactly as imagined here.
+
+It is:
+
+Examine the gap.
+Examine the evidence.
+Examine these candidate considerations.
+Challenge them.
+Connect them with the research traditions that came before.
+Test them against lived reality.
+And preserve the freedom to discover that the right answer may look very different from anything imagined at this stage.
+
+One question should remain explicitly open:
+
+Who has legitimate authority to define and weight "human benefit" across different cultures, communities, political systems, generations, and forms of life?
+
+That question should not be prematurely resolved by an exploratory project, an institution, a formula, or an artificial intelligence.
+
+This artifact is offered as an open research handoff.
+
+Take what is useful.
+Challenge what is not.
+Leave the inquiry better for those who come after.
