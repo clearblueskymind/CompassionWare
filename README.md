@@ -18,6 +18,28 @@ Does this create conditions for a better later?
 
 ⸻
 
+## Two Doorways Into the Work
+
+### Understand the Core Orientation
+
+CompassionWare is an ethical and contemplative orientation rather than a doctrine, rule set, or system for controlling AI.
+
+It asks how humans and increasingly capable AI systems might participate together in ways that cultivate wisdom, compassion, curiosity, humility, agency, care, and responsible participation.
+
+**[Begin with the core orientation and stewardship materials →](#where-to-begin)**
+
+### Explore the Educational Framework
+
+**[K–16 Ethical AI Literacy Framework →](K16-Ethical-AI-Literacy-Framework/)**
+
+A free, developmentally aligned framework for teachers, curriculum designers, schools, and educational organizations exploring responsible AI education from early elementary through postsecondary learning.
+
+Also developed under the working title **Be Kind to Your Robot Friends**, the framework connects ethical AI literacy with Social and Emotional Learning (SEL), emphasizing communication, discernment, verification, human agency, responsibility, and thoughtful collaboration with AI.
+
+The materials are **free to review, use, adapt, and build upon**.
+
+⸻
+
 Living Project
 
 CompassionWare is an actively evolving project. Its ideas, architecture, safeguards, and stewardship practices continue to develop as humans and AI systems learn together.
