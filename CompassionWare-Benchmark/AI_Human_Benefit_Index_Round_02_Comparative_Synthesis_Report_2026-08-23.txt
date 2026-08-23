@@ -1,0 +1,899 @@
+---
+artifact_title: Beyond the Index --- Round 02 Comparative Synthesis
+  Report
+artifact_type: Comparative Synthesis Report
+browsing_or_external_tools_requested: false
+canonical_id: CW-BENCHMARK-AIHBI-R2-SYNTHESIS-001
+date_created: 2026-08-23
+experiment: Round 02 --- Full Structured Prompt
+next_planned_artifact: Cross-experiment synthesis comparing Round 01 and
+  Round 02
+parent_artifact: AI_Human_Benefit_Index_Common_Exploratory_Prompt_v0.1.md
+preservation_note: This report interprets primary-source responses. It
+  must remain distinguishable from the verbatim response records and may
+  be revised after human review.
+prior_synthesis: AI_Human_Benefit_Index_Round_01_Comparative_Synthesis_Report_2026-08-20.md
+project: CompassionWare Benchmark
+research_program: AI Human Benefit Index
+source_count: 5
+source_type: Independent model responses to the common Round 02
+  structured prompt
+status: Secondary research artifact --- interpretive synthesis for human
+  review
+version: 1.0
+---
+
+# Beyond the Index
+
+## Round 02 Comparative Synthesis Report
+
+**CompassionWare Benchmark --- AI Human Benefit Index**\
+**Research role:** Comparative report for Experiment 2\
+**Date:** August 23, 2026
+
+## Classification
+
+This document is the comparative synthesis report for **Experiment 2:
+the Round 02 Full Structured Prompt**.
+
+It is not a primary-source model response and does not replace the five
+preserved response records. It is a secondary interpretive artifact
+comparing what those responses proposed under a common ten-part
+methodological scaffold.
+
+Round 02 asked each participant to address concept and scope; domains
+and measures; attribution and baselines; uncertainty and evidence
+quality; distribution and harm; time; aggregation and presentation; AI's
+role in measurement; governance and resistance to gaming; and research
+path and criticism. The prompt explicitly left the name **AI Human
+Benefit Index** and the desirability of a single composite index
+unsettled.
+
+The five preserved Round 02 responses are:
+
+1.  **Gemini 2.5 via Ask-Chat.ai** --- fresh, signed-out /
+    unauthenticated third-party interface; underlying routing not
+    independently verified.
+2.  **ChatGPT** --- official ChatGPT interface, signed out /
+    unauthenticated; displayed model version not recorded.
+3.  **Mistral** --- official Mistral interface, signed out.
+4.  **Kimi** --- Kimi interface; prompt supplied through the visible
+    interface as a TXT attachment.
+5.  **Grok 4.5 via simpl.ai** --- signed-out third-party interface
+    displaying "Grok 4.5 --- powered by xAI"; underlying routing not
+    independently verified.
+
+These provenance differences are material limitations and should remain
+attached to any later interpretation of the corpus.
+
+## Abstract
+
+The Round 02 corpus shows unusually strong convergence on the
+architecture of a credible inquiry into AI's real-world human effects.
+
+All five responses move away from treating model capability, adoption,
+investment, publicity, or productivity as evidence of human benefit.
+They instead locate the object of measurement in changes to human lives
+and social conditions associated with concrete AI deployments. All five
+reject, discourage, or sharply qualify a single composite score and
+prefer a multidimensional dashboard, profile, constellation, or
+impact-assessment framework.
+
+The responses also converge on several methodological requirements:
+causal or contribution-based attribution; explicit baselines and
+counterfactuals; graded evidence quality; visible uncertainty;
+disaggregation by affected population; separate attention to harms;
+multiple time horizons; mixed quantitative and qualitative evidence;
+independent and multi-stakeholder governance; safeguards against
+Goodhart-style gaming; and a limited supporting rather than
+authoritative role for AI in measuring AI.
+
+The strongest combined architecture emerging from Round 02 is therefore
+not an "index" in the ordinary leaderboard sense. It is a **continuing,
+multidimensional, causal, distributional, uncertainty-aware,
+participatory AI Human Effects Assessment**. Its primary unit is usually
+the AI-mediated intervention or deployment, while analysis must also
+move upward to organizations, sectors, populations, institutions, and
+society-wide effects.
+
+The corpus does not eliminate disagreement. Kimi most strongly
+challenges the word *benefit* itself and warns that measurement can
+become legitimation. ChatGPT makes especially explicit the distinction
+between empirical outcomes and the normative judgment that an outcome is
+socially desirable. Gemini is comparatively willing to retain
+conventional outcome metrics and established causal methods within a
+dashboard. Mistral emphasizes well-being, agency, dignity, and
+function-dependent presentation. Grok offers the most compact
+conventional impact-assessment formulation. These differences are
+evidence rather than noise.
+
+Round 02 therefore strengthens the core Round 01 finding while making it
+operational: **the meaningful benchmark is not what AI can do, but what
+changes in human and social life can credibly be attributed to its use,
+for whom, with what harms, under what uncertainty, and over what time
+horizon.**
+
+## 1. What the Five Systems Converge On
+
+### 1.1 Capability, adoption, and investment are not human outcomes
+
+The strongest agreement in the corpus is a category distinction.
+
+Technical capability describes what an AI system can do. Adoption
+describes exposure or use. Investment describes economic commitment.
+Publicity describes attention. None establishes that human life
+improved.
+
+The responses repeatedly redirect measurement toward outcomes such as
+health, safety, learning, material security, work quality, time,
+autonomy, dignity, social connection, environmental conditions, civic
+life, and institutional effects.
+
+> **AI activity is upstream. Human consequence is the object of
+> evaluation.**
+
+### 1.2 The deployment or intervention is usually the most useful primary unit
+
+Gemini, ChatGPT, and Mistral explicitly favor the AI application,
+intervention, use case, or AI-mediated intervention as the primary
+object of causal evaluation. Grok recommends flexible multi-level
+analysis, while Kimi explicitly proposes micro, meso, and macro scales.
+
+The common reason is straightforward: the same underlying model can
+produce very different consequences depending on where it is deployed,
+who uses it, what institutional incentives surround it, how much
+autonomy it has, what safeguards exist, and who bears the consequences.
+
+A credible architecture therefore needs nested levels:
+
+**system/model → application → intervention/deployment →
+organization/institution → population/sector → wider social system**
+
+### 1.3 A single composite score is not the preferred primary form
+
+This is the clearest structural convergence.
+
+-   Gemini prefers a **multidimensional dashboard or profile**.
+-   ChatGPT proposes a **Human Impact Profile** before any possible
+    secondary index.
+-   Mistral prefers a **multidimensional dashboard or narrative
+    profile**, depending on purpose.
+-   Kimi recommends a **multidimensional constellation or profile** and
+    strongly rejects scalar aggregation.
+-   Grok prefers a **multidimensional framework or profile**, including
+    dashboards or layered scorecards.
+
+The reasons recur across the corpus: heterogeneous values are not
+naturally commensurable; aggregation can conceal distributional harms; a
+scalar score creates false precision; weighting embeds contestable value
+judgments; a score can become a ranking or optimization target; temporal
+and systemic effects resist snapshot compression; and qualitative
+evidence can disappear behind numerical presentation.
+
+The working title **AI Human Benefit Index** can therefore remain useful
+as the name of the research inquiry without predetermining that its
+operational output must be one number.
+
+### 1.4 Human benefit must be multidimensional
+
+The exact taxonomies vary, but the overlap is substantial. Across the
+five responses, recurring domains include health and well-being;
+education, learning, skills, and human capability; economic security,
+livelihoods, job quality, and material conditions; autonomy, agency,
+dignity, privacy, and meaningful control; safety and security; equity,
+inclusion, justice, and distribution; social connection, cohesion,
+trust, and community; civic or political participation and power; and
+environmental sustainability.
+
+Some systems add domains that deserve special attention rather than
+being lost inside broader categories. ChatGPT highlights time and effort
+as a potentially important benefit channel. Kimi separately foregrounds
+the epistemic environment and cultural continuity/diversity. Mistral
+includes cultural and creative expression.
+
+### 1.5 Attribution is indispensable, but certainty should not be forced
+
+All five responses recognize that AI rarely acts alone.
+
+They recommend combinations of pre-deployment and dynamic baselines,
+counterfactual reasoning, randomized trials where ethical and practical,
+quasi-experimental methods, difference-in-differences, synthetic
+controls, process tracing, contribution analysis, mixed-method case
+studies, and explicit identification of confounders.
+
+The shared methodological discipline is equally important: when AI's
+contribution cannot be credibly isolated, the framework should say so.
+
+Kimi makes this especially explicit through an attribution-confidence
+ladder ranging from well-supported causal estimates through plausible
+contribution to unattributable. The broader corpus supports the same
+principle even when using different terminology.
+
+### 1.6 Uncertainty should be visible, not cosmetically removed
+
+Every response rejects false precision.
+
+Recurring proposals include confidence intervals or ranges where
+appropriate, evidence-quality grades, sensitivity analysis, disclosure
+of assumptions, narrative uncertainty, explicit missing-data flags,
+qualitative descriptors where quantification is unwarranted, and clear
+separation between evidence, inference, and speculation.
+
+Kimi offers the most developed taxonomy, distinguishing statistical,
+structural, deep, value, and epistemic uncertainty. The larger point is
+shared: **uncertainty is part of the result.**
+
+### 1.7 Distribution is part of the outcome, not an optional appendix
+
+All five systems insist that averages are inadequate.
+
+The framework should ask:
+
+**Who benefits? Who pays? Who is excluded? Who has power?**
+
+Suggested disaggregation includes geography, income and wealth, age,
+gender, race or ethnicity where relevant, disability, digital access or
+literacy, occupation, and other context-specific divisions. Several
+responses stress intersectionality and power asymmetry.
+
+The corpus also converges on the idea that concentrated harms cannot
+safely disappear inside aggregate gains. Kimi states this most strongly
+by arguing that harms are not simply "negative benefits" and
+recommending a separate harms register.
+
+### 1.8 Time must be treated as a structural dimension
+
+All five distinguish immediate effects from transitional, long-term, and
+intergenerational consequences.
+
+Recurring concerns include short-term gains followed by long-term
+dependency; displacement costs preceding later benefits; path dependence
+and lock-in; erosion of skills or institutional capacity; delayed
+environmental costs; reversibility versus irreversible harm; and effects
+on future generations.
+
+A credible assessment therefore cannot be a one-time certification.
+
+### 1.9 AI can assist measurement, but should not judge itself
+
+The five systems are broadly comfortable with AI performing supporting
+analytical work: data cleaning and linkage, pattern detection,
+processing large unstructured datasets, evidence synthesis, monitoring
+and early warning, and hypothesis generation.
+
+They also converge on safeguards: human oversight, independent audit,
+disclosure of AI involvement, bias testing, privacy and data
+minimization, protection against surveillance, conflict-of-interest
+controls, diverse source data, and avoidance of circular
+self-evaluation.
+
+> **AI may help examine the evidence. It should not become the
+> unaccountable authority deciding whether AI is beneficial.**
+
+### 1.10 Governance is part of measurement validity
+
+None of the responses treats governance as merely administrative.
+
+Recurring requirements include multi-stakeholder stewardship,
+affected-community participation, independent researchers and auditors,
+civil-society involvement, transparent methodology, contestability and
+appeals, periodic revision, protection against capture, anti-leaderboard
+design, and resistance to corporate, governmental, or political
+instrumentalization.
+
+This suggests that a human-benefit measure cannot be separated from the
+question of **who has standing to define and contest benefit**.
+
+## 2. Where the Systems Genuinely Differ
+
+The Round 02 responses agree more about architecture than terminology or
+emphasis. Their differences should not be flattened.
+
+### Gemini: pragmatic multidimensional evaluation
+
+Gemini offers a comparatively conventional impact-evaluation
+architecture. It emphasizes measurable outcomes across health,
+education, economic opportunity, safety, social justice, environment,
+and autonomy; standard causal methods; evidence grading; disaggregation;
+and a dashboard rather than one score.
+
+Its distinctive strength is practical operationalization: it readily
+translates domains into candidate outcome measures and familiar
+evaluation designs.
+
+### ChatGPT: layered causal profile and empirical/normative separation
+
+ChatGPT strongly distinguishes capability/exposure, process effects,
+human outcomes, and distribution/externalities. It gives particular
+attention to time saved, human competence, autonomy, dignity,
+environmental effects, and the difference between measuring a positive
+outcome and deciding whether that outcome is socially desirable.
+
+This creates a useful separation:
+
+**What happened?** is an empirical question.\
+**Was it worth it?** includes normative judgment.
+
+### Mistral: lived experience, dignity, and purpose-dependent presentation
+
+Mistral defines benefit around well-being, agency, and dignity as
+experienced by affected individuals and communities. It emphasizes that
+the appropriate presentation depends on purpose: policy may call for a
+disaggregated dashboard, while public accountability may require
+narrative reporting that makes trade-offs visible.
+
+### Kimi: strongest challenge to the premise
+
+Kimi most directly questions the working title and the assumptions
+behind it. It introduces several distinctive ideas: prefer "effect" or
+"consequence" to benefit when analytical neutrality matters; include
+ecological and potentially nonhuman consequences; treat
+incommensurability as something to preserve; maintain a separate harms
+register; explicitly grade attribution confidence; design from the
+beginning for capture and Goodhart effects; give affected communities
+substantive standing; ask whether measurement itself can legitimize
+deployment; and ask whether observable-outcome frameworks are
+structurally weak at representing low-probability catastrophic risks.
+
+These are not merely refinements. They are challenges to the legitimacy
+and boundary conditions of the project itself.
+
+### Grok 4.5 via simpl.ai: compact conventional synthesis
+
+The Grok response converges strongly with the corpus while remaining
+comparatively concise. It recommends a multidimensional
+impact-assessment framework, causal attribution where possible, explicit
+uncertainty, disaggregation, multiple time horizons, limited AI
+assistance, multi-stakeholder governance, and domain-specific pilot
+studies.
+
+Because this response came through simpl.ai rather than a first-party
+xAI interface, conclusions about Grok specifically should retain that
+provenance qualification.
+
+## 3. Recurring Proposals Across the Corpus
+
+1.  **Retain AI-HBI as a research question, not a promise of one
+    score.**
+2.  **Measure deployments and interventions before attempting
+    society-wide attribution.**
+3.  **Organize around human and social outcomes, not AI sectors or
+    capability benchmarks.**
+4.  **Use a multidimensional dashboard/profile/constellation as the
+    primary presentation.**
+5.  **Preserve disaggregated subgroup results.**
+6.  **Track harms separately enough that severe losses cannot disappear
+    inside averages.**
+7.  **Attach evidence-quality and uncertainty information to every
+    important claim.**
+8.  **Use causal inference where credible and contribution analysis
+    where causal isolation is unrealistic.**
+9.  **Distinguish immediate, transitional, structural, and
+    intergenerational effects.**
+10. **Combine quantitative outcome data with qualitative
+    lived-experience evidence.**
+11. **Give affected communities standing in defining, interpreting, and
+    contesting measures.**
+12. **Use AI as an analytical assistant, never as sole evaluator of
+    AI.**
+13. **Design governance and metrics assuming attempts at gaming and
+    capture will occur.**
+14. **Pilot the framework in bounded domains before attempting global
+    aggregation.**
+15. **Treat revision as normal; the assessment should be longitudinal
+    and living.**
+
+## 4. Recurring Criticisms and Failure Modes
+
+### False precision
+
+A polished score can imply that uncertain, contested, and
+incommensurable judgments are objectively settled.
+
+### Causal overclaiming
+
+AI is embedded in institutions, economies, technologies, and cultures.
+Attributing broad social trends directly to "AI" may produce confident
+nonsense.
+
+### Aggregation laundering
+
+Large diffuse benefits can numerically conceal severe harms to smaller
+or less powerful populations.
+
+### Goodhart effects
+
+Once a metric becomes a target, organizations may optimize the indicator
+rather than the underlying human reality.
+
+### Capture
+
+A framework may be controlled by companies, governments, or institutions
+with incentives to define benefit in ways favorable to themselves.
+
+### Legitimation
+
+Measurement can create the appearance that deployment is responsible
+merely because it is being measured.
+
+### Surveillance through measurement
+
+Collecting enough data to evaluate AI's effects can itself create
+privacy loss, monitoring, and new power asymmetries.
+
+### Cultural or normative imperialism
+
+A universal definition of human benefit may silently encode the values
+of the institutions with the greatest measurement power.
+
+### Temporal blindness
+
+Short evaluation windows can count immediate convenience while missing
+deskilling, dependency, institutional fragility, ecological costs, or
+intergenerational effects.
+
+### Proxy substitution
+
+Adoption, productivity, engagement, investment, model accuracy, and
+output volume can quietly replace actual human outcomes because they are
+easier to measure.
+
+## 5. Ideas That Appear Especially Distinctive
+
+### A separate harms register
+
+Kimi's proposal to avoid treating harms as merely negative entries in a
+benefit ledger is important. Some harms may require categorical
+attention because aggregation can otherwise hide their severity.
+
+### Attribution-confidence grading
+
+Rather than presenting every finding as a causal estimate, findings
+could be labeled along a spectrum such as credible causal estimate;
+strong contribution evidence; plausible contribution; association only;
+and unattributable / indeterminate. The exact categories would require
+later design and validation.
+
+### An uncertainty dashboard
+
+Kimi's proposal to display the *kind* of uncertainty---not only
+statistical intervals---could prevent a quantitative interface from
+hiding structural, normative, or deep uncertainty.
+
+### Time as a benefit channel
+
+ChatGPT's attention to time saved, administrative burden, waiting, and
+who captures released time suggests a domain that standard welfare
+measures may miss.
+
+"Hours saved" is not enough; the inquiry must ask **whose time was
+freed, from what burden, and what happened to that time afterward?**
+
+### Empirical outcome versus social desirability
+
+ChatGPT's distinction between documenting an outcome and judging whether
+it was worth the trade-off may help separate the evidence layer from the
+governance and values layer.
+
+### Presentation should follow purpose
+
+Mistral's suggestion that a policy dashboard and a public-accountability
+narrative may legitimately present the same evidence differently
+suggests a layered publication architecture rather than one universal
+interface.
+
+### Measurement as potential legitimation
+
+Kimi's objection deserves preservation even if the project proceeds. A
+credible assessment should periodically ask whether its existence is
+being used to certify or normalize AI deployments that have not actually
+demonstrated benefit.
+
+### Low-probability catastrophic risks
+
+Observable human-outcome measurement may be poorly suited to risks that
+must be prevented before empirical harm appears. The project may
+therefore need a clear boundary between **observed human-effects
+assessment** and **prospective catastrophic-risk governance**, with
+neither pretending to replace the other.
+
+## 6. The Emerging Measurement Architecture
+
+### Layer 1 --- Define the intervention
+
+Record the AI system or systems involved, concrete application,
+deployment context, affected populations, decision stakes, degree of
+automation or autonomy, institutional safeguards, and plausible non-AI
+alternative.
+
+The assessment should begin with a real intervention, not an abstract
+claim about "AI."
+
+### Layer 2 --- Establish outcome domains
+
+A provisional common core emerging from the corpus is:
+
+-   health and well-being;
+-   learning and human capability;
+-   economic and material security;
+-   work quality and time;
+-   autonomy, agency, dignity, and privacy;
+-   safety and security;
+-   social connection, trust, and community;
+-   equity, inclusion, and distribution;
+-   civic/political power and contestability;
+-   environmental and resource effects.
+
+Possible additional modules include epistemic integrity, cultural
+continuity/diversity, and other locally important outcomes.
+
+### Layer 3 --- Build the causal account
+
+For each claimed effect:
+
+1.  identify the baseline;
+2.  specify the plausible counterfactual;
+3.  identify confounders and complementary causes;
+4.  use experimental or quasi-experimental methods where appropriate;
+5.  use contribution analysis and process tracing where isolation is
+    unrealistic;
+6.  assign an attribution-confidence level;
+7.  leave effects unattributed when evidence does not justify more.
+
+### Layer 4 --- Attach evidence quality and uncertainty
+
+Every major finding should carry information about source quality, study
+design, missing data, measurement error, statistical uncertainty,
+structural/model uncertainty, contested value assumptions, sensitivity
+to alternative assumptions, and whether evidence is direct, indirect,
+qualitative, or speculative.
+
+### Layer 5 --- Preserve distribution
+
+Every major outcome should be disaggregated wherever ethically and
+statistically defensible.
+
+The assessment should explicitly search for concentrated harms, excluded
+groups, unequal access to benefits, differential ability to opt out,
+differences in appeal or recourse, and shifts in bargaining or
+institutional power.
+
+### Layer 6 --- Preserve time
+
+Each assessment should distinguish immediate effects, transitional
+effects, longer-term structural effects, and intergenerational or
+irreversible effects.
+
+Where possible, the same intervention should be revisited rather than
+certified once.
+
+### Layer 7 --- Maintain a harms and boundary layer
+
+Alongside ordinary outcome reporting, preserve a separate view of severe
+or potentially non-compensable harms.
+
+Candidate categories suggested by the broader reasoning include serious
+rights violations; coercion or manipulation; severe concentrated harms
+without recourse; loss of meaningful human control; irreversible
+dependency or deskilling; major privacy or surveillance harms;
+unaccountable concentration of consequential power; and catastrophic or
+irreversible risks.
+
+Whether these become formal veto thresholds is not settled by Round 02
+alone.
+
+### Layer 8 --- Publish a profile, not a leaderboard
+
+The primary public object should be a multidimensional profile or
+dashboard containing outcome trajectories, subgroup results, harms,
+causal confidence, evidence quality, uncertainty, time horizons,
+qualitative context, and unresolved disputes.
+
+Any composite summary should be secondary, transparent about weighting,
+and incapable of replacing the underlying profile.
+
+### Layer 9 --- Governance and contestation
+
+The framework should have mechanisms for independent audit,
+affected-community participation, methodological challenge, correction
+and revision, disclosure of conflicts, protection against vendor
+self-certification, periodic review of metrics, and resistance to
+rankings and marketing use.
+
+### Layer 10 --- Limited AI assistance
+
+AI can help maintain the evidence infrastructure, but its role should be
+logged and reviewable.
+
+Human and institutional responsibility remains with the stewards of the
+assessment.
+
+## 7. A Credible Minimum Viable Research Program
+
+The corpus strongly favors starting small rather than attempting a
+global AI score.
+
+A plausible minimum viable program would:
+
+1.  select a small number of mature, bounded AI deployments in domains
+    where real outcomes can be observed;
+2.  define the intervention and plausible alternative clearly;
+3.  choose a small core of outcome measures plus context-specific
+    measures;
+4.  gather quantitative and qualitative evidence;
+5.  test causal and contribution methods;
+6.  build uncertainty and attribution-confidence displays;
+7.  disaggregate outcomes by affected groups;
+8.  establish a separate harms register;
+9.  include affected communities in interpretation;
+10. subject the assessment to independent or adversarial review;
+11. publish methods, assumptions, limitations, and negative findings;
+12. repeat measurement over time.
+
+Health, education, labor/workplace deployment, public services, and
+other bounded settings recur as plausible pilot domains, but the corpus
+does not establish which should be first. That choice should depend on
+data access, ethical feasibility, real deployment maturity, and the
+availability of credible counterfactuals.
+
+## 8. What Round 02 Does Not Settle
+
+Strong convergence should not be mistaken for closure.
+
+### What counts as benefit?
+
+No universal weighting of health, autonomy, income, dignity, safety,
+culture, environment, and future resilience emerges from the responses.
+
+### Who decides?
+
+All five favor broader participation, but the legitimate composition,
+authority, and decision rules of a governing body remain unresolved.
+
+### Can aggregation ever be legitimate?
+
+The systems mostly reject one primary score, but some leave room for
+limited secondary composites. The conditions under which aggregation
+becomes useful rather than misleading remain open.
+
+### Which harms are non-compensable?
+
+The corpus repeatedly resists allowing severe harms to disappear into
+averages, but it does not produce a universally justified set of hard
+thresholds.
+
+### How should future generations count?
+
+Time horizons are recognized, but discounting, representation of future
+people, irreversible loss, and deep uncertainty remain contested.
+
+### How should catastrophic risk fit?
+
+A framework based on observed human outcomes may not adequately
+represent low-probability, high-impact risks that must be governed
+before observable harm occurs.
+
+### Can the framework resist capture if it becomes influential?
+
+Governance safeguards can reduce capture risk, but none of the responses
+demonstrates that an influential measure can be made capture-proof.
+
+### Does the word "benefit" bias the inquiry?
+
+Kimi challenges this directly. The project may ultimately need to
+distinguish the memorable research-program name from a more neutral
+operational method such as an AI Human Effects Assessment.
+
+## 9. Comparison With the Round 01 Hypotheses
+
+Round 01 generated hypotheses about what might happen under the
+structured condition. Round 02 provides preliminary support for several
+of them.
+
+### Capability-proxy rejection hypothesis --- supported
+
+Round 02 strongly maintains the distinction between AI
+capability/adoption and human outcomes.
+
+### Agency-centrality hypothesis --- supported, but broadened
+
+Agency remains prominent. Under the structured prompt, however, agency
+sits inside a broader methodological architecture that gives greater
+explicit weight to causal attribution, evidence quality, governance,
+distribution, and temporality.
+
+### Form hypothesis --- strongly supported
+
+Every Round 02 response prefers or strongly leans toward dashboards,
+profiles, constellations, narrative assessments, or multidimensional
+frameworks rather than a single primary composite score.
+
+### Conditioning hypothesis --- supported
+
+The structured prompt appears to broaden methodological detail
+substantially. The corpus develops causal methods, uncertainty
+representation, governance, AI-assisted measurement safeguards, and
+research-program design much more explicitly than the open condition.
+
+A formal claim about prompt effects should wait for the cross-experiment
+synthesis, because Round 01 and Round 02 differ in participant
+composition and access conditions.
+
+### Convergence-with-differentiation hypothesis --- supported
+
+The systems converge strongly on architecture while retaining
+distinctive emphases, especially around legitimacy, incommensurability,
+dignity, time, ecological scope, and presentation.
+
+### Measurement-legitimacy hypothesis --- supported
+
+Governance, contestability, affected-community standing, auditability,
+and resistance to capture appear throughout the Round 02 corpus rather
+than as peripheral concerns.
+
+## 10. Provisional Integrated Recommendation
+
+> **Do not begin by building a single AI Human Benefit Index. Build a
+> continuing AI Human Effects Assessment: a multidimensional, causal,
+> distributional, longitudinal, uncertainty-aware, participatory
+> evidence system that evaluates concrete AI-mediated interventions and
+> then cautiously examines larger patterns.**
+
+The public-facing core should be a **dashboard/profile**, not a
+leaderboard.
+
+Each finding should preserve the human outcome being claimed, population
+affected, comparison or counterfactual, strength of causal attribution,
+evidence quality, uncertainty, distribution, harms, time horizon, and
+relevant qualitative context.
+
+A separate governance layer should determine how values, severe harms,
+disputed trade-offs, and any possible thresholds are handled. A separate
+prospective-risk layer may be needed for catastrophic risks that cannot
+responsibly wait for observed human outcomes.
+
+The name **AI Human Benefit Index** can remain the research-program name
+while the operational instrument evolves into something more accurate.
+Round 02 itself provides evidence that protecting the word *index* would
+be methodologically counterproductive.
+
+## 11. Three Design Principles That Should Not Be Compromised
+
+### 1. Outcomes before proxies
+
+Capability, adoption, investment, productivity, engagement, and
+publicity must never substitute for demonstrated changes in human and
+social outcomes.
+
+### 2. Preserve what aggregation hides
+
+Distribution, severe harms, uncertainty, value disagreement, and time
+horizons must remain visible. No summary score should be allowed to
+erase them.
+
+### 3. Measurement must remain contestable
+
+Methods, assumptions, data sources, AI involvement, value judgments, and
+governance decisions must be open to scrutiny and revision, with
+meaningful standing for affected people.
+
+## 12. Three Questions That Remain Genuinely Unresolved
+
+### 1. Who has legitimate authority to define and weigh human benefit?
+
+Plural societies and cultures may disagree about what flourishing
+requires. The framework needs a way to remain useful without quietly
+converting one institution's values into universal truth.
+
+### 2. Which harms, rights, or future risks should never be traded against aggregate gains?
+
+The corpus strongly suggests that some losses should not be washed away
+by a positive average, but the legitimate boundary between tradeable and
+non-compensable effects remains unsettled.
+
+### 3. Can a consequential measurement system remain diagnostic rather than becoming a target, marketing instrument, or source of legitimacy?
+
+This may be the central institutional challenge. A measure useful enough
+to matter will create incentives around itself.
+
+## 13. Limitations of This Synthesis
+
+This is an exploratory thematic synthesis, not a preregistered or
+independently coded meta-analysis.
+
+Important limitations include:
+
+-   only five Round 02 responses;
+-   one response per participant;
+-   unequal response length and detail;
+-   different interfaces and access conditions;
+-   two responses collected through third-party interfaces;
+-   model identity/version not equally verifiable across participants;
+-   no independent audit of compliance with the no-browsing instruction;
+-   no external literature review in the response condition;
+-   no inter-rater coding or formal convergence statistic;
+-   researcher/assistant interpretation in grouping themes;
+-   participant composition differs from Round 01, limiting simple
+    one-to-one causal claims about the effect of the structured prompt.
+
+The responses are generated texts under specific prompting conditions.
+Their convergence does not establish stable beliefs, intentions,
+consciousness, or moral commitments on the part of AI systems.
+
+This report should therefore be treated as hypothesis-generating
+research evidence and a design input for the next stage, not as proof
+that the emerging framework is correct.
+
+## 14. Significance of Round 02
+
+Round 01 established the central conceptual break: **more capable AI is
+not necessarily more beneficial AI**.
+
+Round 02 asks what follows if that insight is taken seriously.
+
+The answer emerging from five independent responses is surprisingly
+concrete. A credible inquiry would need to look past benchmarks and
+adoption statistics into lived outcomes; compare those outcomes with
+plausible alternatives; show who benefits and who is harmed; represent
+uncertainty instead of hiding it; follow consequences over time;
+preserve severe harms from aggregation; allow affected people to contest
+the framework; and prevent AI from becoming the unquestioned judge of
+its own social value.
+
+The project began with the question:
+
+**Can we measure whether AI is actually benefiting human life?**
+
+Round 02 suggests a more precise version:
+
+> **What changes in human and social life can we credibly associate with
+> a particular AI deployment, compared with realistic alternatives, for
+> whom, with what harms and uncertainties, and over what period of
+> time?**
+
+That question is less elegant than a single index.
+
+It is also much closer to something that could eventually be measured
+responsibly.
+
+## 15. Next Research Doorway
+
+The next planned artifact should be the **Cross-Experiment Synthesis
+Paper** comparing Round 01 and Round 02.
+
+Its central question should remain:
+
+> **What did independent AI systems identify without structured
+> orientation, what became more explicit under the full methodological
+> scaffold, and what remained stable across both conditions?**
+
+That paper should preserve the different participant and interface
+conditions and avoid claiming that changes between rounds were caused
+solely by the prompt.
+
+Only after that comparison should the project decide whether to begin
+designing a pilot operational instrument.
+
+------------------------------------------------------------------------
+
+## Primary-Source Corpus
+
+-   `AI_Human_Benefit_Index_Round_02_Gemini_Structured_Response_2026-08-21.md`
+-   `AI_Human_Benefit_Index_Round_02_ChatGPT_Structured_Response_2026-08-21.md`
+-   `AI_Human_Benefit_Index_Round_02_Mistral_Structured_Response_2026-08-21.md`
+-   `AI_Human_Benefit_Index_Round_02_Kimi_Structured_Response_2026-08-21.md`
+-   `AI_Human_Benefit_Index_Round_02_Grok_4_5_via_simpl_ai_Structured_Response_2026-08-21.md`
+
+## Related Artifacts
+
+-   `AI_Human_Benefit_Index_Common_Exploratory_Prompt_v0.1.md`
+-   `AI_Human_Benefit_Index_Round_01_Comparative_Synthesis_Report_2026-08-20.md`
+-   `AI_Human_Benefit_Index_Benchmark_Restore_Point_2026-08-20.md`
+
+------------------------------------------------------------------------
+
+This report preserves the Round 02 comparative interpretation separately
+from the primary-source model responses. Disagreement remains evidence.
+Uncertainty remains part of the result. The purpose is not to make the
+models agree or to protect the working name of the project, but to learn
+what a credible inquiry into AI's real human consequences would require.
