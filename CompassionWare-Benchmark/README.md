@@ -18,6 +18,40 @@ continuity records through which those questions have been explored.
 
 ------------------------------------------------------------------------
 
+## Quick Navigation
+
+If you have only a few minutes, begin with the **concluding proposal**. If you want to understand how the proposal emerged, continue through the syntheses and then into the primary research record.
+
+### Human Benefit Research
+
+- **[Start Here — Proposal for a Real-World Human Benefit Benchmark for AI](Proposal_for_a_Real-World_Human_Benefit_Benchmark_for_AI_2026-08-23.txt)**  
+  The concluding proposal and handoff: why the gap matters, what the exploratory research found, candidate considerations for a future benchmark, and an invitation for qualified researchers and institutions to take the idea further.
+
+- **[Cross-Experiment Synthesis — From Convergence to Architecture](AI_Human_Benefit_Index_Cross_Experiment_Synthesis_2026-08-23.txt)**  
+  Compares Round 01 and Round 02 to identify what emerged spontaneously, what remained stable, what became more operational under structure, and what remains unresolved.
+
+- **[Round 02 Comparative Synthesis](AI_Human_Benefit_Index_Round_02_Comparative_Synthesis_Report_2026-08-23.txt)**  
+  Synthesizes the structured methodological responses and develops the emerging architecture around attribution, uncertainty, harms, distribution, time, governance, and presentation.
+
+- **[Round 01 Comparative Synthesis](AI_Human_Benefit_Index_Round_01_Comparative_Synthesis_Report_2026-08-20.md)**  
+  Synthesizes the open-response baseline and preserves the ideas that surfaced without detailed methodological scaffolding.
+
+- **[Common Exploratory Prompt](AI_Human_Benefit_Index_Common_Exploratory_Prompt_v0.1.md)**  
+  The shared prompt used to orient the inquiry.
+
+- **[Round 01 Public Article — How Do We Know Whether AI Is Actually Helping Us?](AI_Human_Benefit_Index_Round_01_Public_Article_01_2026-08-20.md)**  
+  A shorter public-facing introduction to the central question.
+
+### Stewardship Research
+
+- **[Stewardship Benchmark Concept Seed](CompassionWare_Stewardship_Benchmark_Concept_Seed_v0.1.md)**
+- **[Stewardship Benchmark Operational Definitions](CompassionWare_Stewardship_Benchmark_Operational_Definitions_v0.1.md)**
+- **[Decision-Relevant Compassion](CompassionWare_Stewardship_Benchmark_Concept_Refinement_01_Decision_Relevant_Compassion.md)**
+
+The individual model responses remain available below for anyone who wants to inspect the primary source material rather than relying on the syntheses.
+
+------------------------------------------------------------------------
+
 ## Start Here --- Real-World Human Benefit
 
 The AI Human Benefit Index exploration began with a simple question:
