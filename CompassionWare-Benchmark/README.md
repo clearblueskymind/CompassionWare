@@ -1,6 +1,10 @@
 # CompassionWare Benchmark
 
-> **AI capability is measured constantly, with considerable precision and coordination. The real-world human effects of specific AI systems — especially their attribution, distribution, long-term trajectories, harms, and uncertainty — are not measured with comparable rigor, independence, or transparency.**
+> **AI capability is increasingly measured through sophisticated, standardized evaluation systems. The real-world human effects of AI-mediated sociotechnical systems — especially attribution, distribution, long-term trajectories, harms, and uncertainty — are not yet assessed with comparable coordination, independence, or transparency.**
+
+**Status: Exploratory research / open research handoff**
+
+This repository does not contain a validated AI human-benefit benchmark, validated metrics, weights, or empirical estimates of AI’s net effects on human wellbeing. It explores the measurement gap, the problems a credible assessment would need to solve, and candidate directions for future research.
 
 The CompassionWare Benchmark is an open public-interest research workspace exploring questions that conventional AI capability benchmarks do not fully answer.
 
@@ -141,6 +145,14 @@ The next epistemic step, if others choose to take it, belongs to multidisciplina
 ---
 
 ## Candidate Architecture at a Glance
+
+### Sociotechnical unit of analysis
+
+The relevant object of assessment may often be more than the AI system itself. Human effects can emerge from the interaction of:
+
+**AI system + users + institution + workflow + incentives + affected population + deployment context + time**
+
+The same model may produce very different outcomes in different sociotechnical settings.
 
 ### Human outcomes, not AI activity
 
