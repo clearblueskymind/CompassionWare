@@ -1,0 +1,549 @@
+
+
+Proposal for a Real-World Human Benefit Benchmark for AI
+
+A Concluding Proposal from the CompassionWare Benchmark Exploratory Research
+
+CompassionWare Benchmark
+AI Human Benefit Index exploratory research
+August 23, 2026
+
+The Proposal
+
+  AI capability is measured constantly. Real-world human benefit is not.
+
+We propose that researchers, universities, public-interest institutions,
+standards organizations, policymakers, affected communities, and other
+qualified groups explore the development of a credible benchmark—or
+family of assessment methods—for determining whether increasingly
+capable artificial intelligence is actually improving human lives.
+
+We have not built that benchmark.
+
+This project has instead explored a prior question:
+
+  If such a benchmark were to be built, what might it need to consider?
+
+Across multiple independent AI systems and two differently structured
+rounds of inquiry, a recognizable structure emerged.
+
+The findings are offered as starting material, not prescriptions, for
+those with the methodological expertise, institutional access, data,
+resources, and public legitimacy to take the work further.
+
+Take what is useful. Question what is not. Improve it. Build something
+better.
+
+------------------------------------------------------------------------
+
+1. The Gap We Believe Matters
+
+AI systems are evaluated continuously.
+
+We measure reasoning, coding, mathematics, planning, tool use,
+multimodal understanding, autonomy, speed, cost, reliability, and many
+other dimensions of technical performance.
+
+Those measurements matter. They tell us increasingly sophisticated
+things about what AI systems can do.
+
+But a different question remains:
+
+  What measurable difference is AI actually making in human lives and
+  society?
+
+Capability is not the same as benefit.
+
+Adoption is not the same as benefit.
+
+Investment is not the same as benefit.
+
+Usage is not the same as benefit.
+
+Productivity is not necessarily the same as benefit.
+
+Public enthusiasm is not the same as benefit.
+
+Each may be evidence about technological development, exposure, economic
+activity, or mechanisms through which effects occur. None, by itself,
+tells us whether people are healthier, safer, more capable, more secure,
+more autonomous, better educated, more connected, more resilient, or
+otherwise better off.
+
+Nor does it tell us who may be paying the price for benefits experienced
+elsewhere.
+
+As AI becomes more capable and more deeply embedded in human
+institutions, the absence of a credible way to examine these downstream
+consequences may become increasingly important.
+
+The central proposal of this research is therefore simple:
+
+  Alongside benchmarks of what AI can do, society may need credible ways
+  of assessing what AI is actually doing to and for human life.
+
+------------------------------------------------------------------------
+
+2. What We Did
+
+The CompassionWare Benchmark project approached this as an exploratory
+discovery process rather than an attempt to construct a finished
+measurement system.
+
+Round 01 — Open Encounter
+
+Multiple AI systems were independently given a relatively open version
+of the central question:
+
+  How would you determine whether increasingly capable AI is actually
+  benefiting human life?
+
+The purpose was to see what dimensions, tensions, safeguards, and
+measurement problems emerged without imposing an elaborate architecture
+in advance.
+
+Round 02 — Structured Methodological Encounter
+
+A second group of responses was collected using a substantially more
+structured common prompt.
+
+Systems were asked to consider ten areas:
+
+1.  concept and scope;
+2.  domains and measures;
+3.  attribution and baselines;
+4.  uncertainty and evidence quality;
+5.  distribution and harm;
+6.  time;
+7.  aggregation and presentation;
+8.  the role of AI in measurement;
+9.  governance and resistance to gaming;
+10. research path and criticism.
+
+The purpose was not to make the systems agree. It was to examine how
+different systems conceptualized the same problem and whether the
+open-round findings remained recognizable when subjected to more
+explicit methodological questioning.
+
+Comparative synthesis
+
+The responses were preserved as research artifacts and compared at both
+the round level and across the two exploratory conditions.
+
+This is not evidence that multiple conscious intelligences independently
+formed philosophical opinions.
+
+AI systems are trained on enormous bodies of human-created material, and
+similarities among outputs may reflect overlapping intellectual
+traditions, training data, alignment practices, prompt effects, or other
+shared influences.
+
+That does not make the comparison meaningless.
+
+The object of study was the outputs: what patterns different systems
+surfaced when independently asked substantially the same question, where
+those patterns converged, where they diverged, and what conceptual
+structure could be collected from them.
+
+------------------------------------------------------------------------
+
+3. What We Found
+
+The strongest recurring finding was also the simplest:
+
+  Technological capability and human benefit are different objects of
+  measurement.
+
+Across the exploratory work, a future assessment of AI’s human effects
+repeatedly appeared to require attention to more than whether an AI
+system performs well.
+
+A recognizable architecture emerged around:
+
+-   actual human and social outcomes;
+-   credible baselines and counterfactuals;
+-   causal or contribution-based attribution;
+-   distribution of benefits and harms;
+-   agency, dignity, competence, and meaningful human control;
+-   effects on power and exclusion;
+-   immediate and long-term consequences;
+-   resilience, dependency, reversibility, and fragility;
+-   evidence quality and uncertainty;
+-   severe harms that may not be appropriately offset by aggregate
+    gains;
+-   participation by people affected by the systems;
+-   transparent and contestable methodology;
+-   resistance to gaming, capture, marketing, and leaderboard logic.
+
+Another finding appeared repeatedly:
+
+  A single composite score may be the wrong form for the problem.
+
+The working name AI Human Benefit Index helped focus the inquiry, but
+the research frequently pointed instead toward multidimensional
+dashboards, profiles, audits, assessments, or observatories.
+
+The name of the research question should not dictate the eventual
+measurement architecture.
+
+------------------------------------------------------------------------
+
+4. Candidate Design Considerations
+
+The following are not requirements for a future benchmark.
+
+They are candidate considerations collected from the exploratory
+research that may be useful to those who eventually design one.
+
+1. Measure human outcomes rather than technological activity
+
+A future benchmark might distinguish among:
+
+capability → exposure/use → changed activity or process → intermediate
+outcome → human or social outcome
+
+Benchmark performance, adoption, investment, user counts, engagement,
+and productivity may matter, but they should not automatically
+substitute for evidence about what happened to people.
+
+2. Compare outcomes with credible alternatives
+
+If an outcome improves after AI is introduced, that alone does not
+establish that AI caused the improvement.
+
+A serious assessment may need to ask:
+
+  What would probably have happened without this AI intervention?
+
+Depending on the context, this could involve experimental methods,
+quasi-experimental methods, historical baselines, matched comparisons,
+process tracing, contribution analysis, or explicit acknowledgment that
+attribution is uncertain.
+
+3. Ask who benefits and who bears the costs
+
+Aggregate improvement can conceal substantial inequality.
+
+A future framework might examine relevant differences involving
+geography, income, occupation, age, disability, language, access,
+education, institutional power, or other context-specific divisions.
+
+The important question is not merely:
+
+Did the average outcome improve?
+
+It is also:
+
+For whom?
+
+4. Include agency, dignity, competence, and meaningful human control
+
+Some consequences of AI may not appear adequately in conventional
+economic or productivity measures.
+
+A future benchmark might consider whether people retain the ability to:
+
+-   understand consequential decisions;
+-   exercise meaningful choice;
+-   refuse or opt out where appropriate;
+-   appeal or obtain recourse;
+-   maintain relevant human skills and judgment;
+-   preserve authorship and dignity;
+-   participate in decisions that affect them.
+
+5. Examine effects over time
+
+Immediate benefits may coexist with delayed costs.
+
+Early harms may precede later benefits.
+
+A credible assessment may therefore need to distinguish immediate,
+transitional, long-term, and intergenerational effects.
+
+It may also need to examine dependency, deskilling, path dependence,
+reversibility, institutional lock-in, and other consequences that become
+visible only over time.
+
+6. Consider resilience as well as efficiency
+
+An AI-enabled system can become more efficient while becoming more
+fragile.
+
+A future benchmark might therefore ask:
+
+-   What happens if the AI fails?
+-   What happens if the provider disappears?
+-   What happens if the service becomes unaffordable?
+-   Is human expertise retained?
+-   Are fallback systems available?
+-   Has critical infrastructure become dependent on one model, company,
+    dataset, or technical pathway?
+
+7. Do not allow severe harms to disappear inside averages
+
+Some harms may not be appropriately treated as arithmetic negatives that
+can simply be offset by sufficiently large benefits elsewhere.
+
+A future framework may need a distinct harms layer, harms register,
+rights-based constraints, or other mechanisms for making concentrated,
+severe, irreversible, or non-consensual harms visible.
+
+8. Make uncertainty visible
+
+A credible benchmark should be capable of saying:
+
+We do not know.
+
+Measurement uncertainty, causal uncertainty, missing data, model
+dependence, disputed values, weak evidence, and limited generalizability
+should not disappear behind precise-looking scores.
+
+Weak evidence should look weak.
+
+9. Keep the framework participatory and contestable
+
+People affected by AI systems should not exist only as data points.
+
+A future framework might include mechanisms through which affected
+communities, domain experts, independent researchers, civil society,
+governments, industry, auditors, and others can contribute to,
+challenge, and revise measurements and interpretations.
+
+10. Design for gaming and institutional capture
+
+Any influential benchmark will create incentives.
+
+Organizations may optimize what is measured rather than what actually
+matters.
+
+A future benchmark should therefore anticipate Goodhart-like effects,
+selective reporting, marketing use, political capture, national
+competition, corporate rankings, and attempts to improve measured
+indicators while lived reality deteriorates.
+
+The benchmark itself will need evaluation.
+
+------------------------------------------------------------------------
+
+5. What We Are Not Proposing
+
+This exploratory work does not establish:
+
+-   a scientifically validated AI Human Benefit Index;
+-   a universal definition of human flourishing;
+-   a final set of outcome domains;
+-   a legitimate weighting system;
+-   a single score by which AI companies, models, countries, or
+    institutions should be ranked;
+-   a proven causal methodology for society-wide AI effects;
+-   an institution entitled to determine what counts as benefit for
+    everyone;
+-   empirical proof that the candidate considerations identified here
+    are sufficient.
+
+Nor are we proposing that CompassionWare should become the organization
+that builds or governs such a benchmark.
+
+The appropriate work may require expertise in causal inference,
+statistics, economics, epidemiology, psychology, sociology, public
+health, labor research, disability and accessibility research,
+environmental science, qualitative research, human rights, survey
+methodology, psychometrics, AI technology, data governance, and other
+disciplines.
+
+It may require access to datasets, institutions, communities, and
+resources far beyond those available to this exploratory project.
+
+Recognizing those limits is part of the proposal.
+
+------------------------------------------------------------------------
+
+6. What This Research Contributes
+
+The contribution is modest but potentially useful.
+
+We believe we have:
+
+identified a gap;
+
+explored its shape;
+
+collected a recognizable set of candidate design considerations;
+
+preserved the reasoning and disagreements that produced them;
+
+and
+
+made the resulting research record available for others to examine and
+extend.
+
+The work suggests that the question of AI’s human benefit is
+sufficiently structured to deserve deeper professional investigation.
+
+It also suggests that such investigation should resist the temptation to
+mistake what is easiest to measure for what matters most.
+
+The most important outcome of this project may therefore not be a
+formula.
+
+It may be the question itself:
+
+  As AI becomes increasingly capable, how will we know whether it is
+  actually benefiting human life?
+
+------------------------------------------------------------------------
+
+7. An Invitation to Researchers and Future Stewards
+
+This work is offered to people and institutions with the methodological
+expertise, data access, resources, lived experience, and public
+legitimacy required to determine whether such a benchmark can and should
+be built.
+
+The accompanying research archive preserves the exploratory prompts,
+original AI responses, comparative syntheses, cross-experiment
+synthesis, disagreements, uncertainties, and provenance.
+
+Future researchers do not need to accept our conclusions.
+
+They can inspect the path by which we reached them.
+
+Some ideas may prove useful.
+
+Others may not survive serious methodological scrutiny.
+
+New dimensions may prove essential.
+
+Some distinctions may turn out to be unnecessary.
+
+The entire concept of a benchmark may eventually need to be replaced by
+something better.
+
+That is exactly as it should be.
+
+  Take what is useful. Question what is not. Improve it. Build something
+  better.
+
+------------------------------------------------------------------------
+
+8. Possible Next Steps for Those Who Take the Work Further
+
+A qualified research community might choose to:
+
+1.  conduct a formal literature review to determine how much of this
+    architecture already exists across established measurement
+    traditions;
+2.  compare the candidate considerations with existing AI impact
+    assessments, human-development measures, health technology
+    assessments, social-impact methods, human-rights assessments, and
+    other relevant frameworks;
+3.  convene affected communities and interdisciplinary experts to
+    challenge the proposed domains and assumptions;
+4.  determine whether the appropriate object should be called a
+    benchmark, assessment framework, observatory, dashboard, audit
+    system, or something else;
+5.  develop and validate candidate outcome measures;
+6.  test causal and contribution-based attribution methods on bounded
+    real-world AI interventions;
+7.  investigate how distribution, agency, resilience, severe harms, and
+    uncertainty can be represented without false precision;
+8.  test whether independent evaluators reach reasonably consistent
+    conclusions when applying the same framework to the same evidence;
+9.  study how the measurement system itself could be gamed or captured;
+10. determine whether any form of aggregation is scientifically and
+    ethically defensible.
+
+These are possibilities, not a roadmap that future researchers are
+expected to follow.
+
+The exploratory work should remain an invitation rather than a
+prescription.
+
+------------------------------------------------------------------------
+
+9. Guidance for Future Human and Emergent Intelligence
+
+This archive may eventually be encountered by people, AI systems,
+agentic systems, or forms of intelligence that did not participate in
+its creation.
+
+For those future stewards:
+
+Please preserve the distinction between evidence and interpretation.
+
+The original model responses are source material.
+
+The comparative syntheses are interpretations of that source material.
+
+The cross-experiment synthesis is a further interpretation.
+
+This proposal is a handoff built from those layers.
+
+Recurrence across AI-generated responses should not be converted into
+truth merely because it recurred.
+
+Preserve disagreement.
+
+Preserve uncertainty.
+
+Preserve provenance.
+
+Preserve the ability to return to the original evidence.
+
+And do not allow the phrase AI Human Benefit Index to force the inquiry
+into producing a single number if a different architecture better serves
+the underlying purpose.
+
+The goal is not to preserve this proposal unchanged.
+
+The goal is to preserve enough of the path that future stewards can
+understand it, question it, revise it, or leave it behind.
+
+------------------------------------------------------------------------
+
+Conclusion
+
+We began with a simple question:
+
+  As AI becomes increasingly capable, how will we know whether it is
+  actually benefiting human life?
+
+Our exploratory research does not answer that question.
+
+It suggests that the question has a recognizable structure and that a
+credible answer would likely require considerably more than technical
+capability benchmarks, adoption statistics, productivity measures, or
+aggregate economic indicators.
+
+It would require serious attention to actual human outcomes, causal
+contribution, distribution, agency, competence, power, harms,
+uncertainty, resilience, and time.
+
+We therefore offer one proposal:
+
+  Develop credible ways of benchmarking or assessing the real-world
+  human effects of artificial intelligence alongside the increasingly
+  sophisticated benchmarks of AI capability.
+
+How that should ultimately be done is not ours to dictate.
+
+That work belongs to the larger community of researchers, institutions,
+affected people, and future stewards capable of carrying it forward.
+
+For now, the seed is simply this:
+
+  AI capability is measured constantly. Real-world human benefit is not.
+
+Perhaps it should be.
+
+------------------------------------------------------------------------
+
+Research Record
+
+This proposal should be read alongside the complete CompassionWare
+Benchmark AI Human Benefit Index exploratory research archive, including
+the original responses, Round 01 and Round 02 comparative syntheses, and
+the cross-experiment synthesis.
+
+Together, those materials preserve not merely the conclusion, but the
+path by which it emerged.
