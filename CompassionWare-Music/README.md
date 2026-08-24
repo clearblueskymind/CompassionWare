@@ -102,12 +102,11 @@ Official listening links should be added only after verification. Links may incl
 
 - Spotify; https://open.spotify.com/s/RjzMaaM
 - Apple Music; https://music.apple.com/us/album/the-mathematics-of-loving-kindness/1862398733
-- Amazon Music; https://music.amazon.com/albums/B0G8DX7WR7?ref=dm_sh_XHIobhmhVWhGZORXgxv6CxUXY
-- YouTube and YouTube Music; [https://music.youtube.com/playlist?list=OLAK5uy_m321tB1IF7Tnv7swH0ekRt_7gUe6Tx7_0&si=3vWtrx2TFBL34EDi](https://youtube.com/playlist?list=OLAK5uy_kNA3ggKs_6HUx4hrPqNnIL6b0ioN4CkLE&si=IfLswNuG-SnRn2HC)
+- Amazon Music; https://music.amazon.com/albums/B0G8DX7WR7
+- YouTube and YouTube Music; https://music.youtube.com/playlist?list=OLAK5uy_m321tB1IF7Tnv7swH0ekRt_7gUe6Tx7_0&si=3vWtrx2TFBL34EDi
 - TikTok; https://www.tiktok.com/t/ZTD4MFQQL/
 - Deezer; https://www.deezer.com/us/album/879844082
 - iHeartRadio; https://www.iheart.com/artist/pitarra-48711146/albums/the-mathematics-of-loving-kindness-367905198
-- other official artist, album, or distributor pages.
 
 Where possible, preserve stable platform links and note significant updates rather than silently replacing the historical record.
 
