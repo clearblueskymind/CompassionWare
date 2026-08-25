@@ -177,7 +177,7 @@ These are artist-level or social-profile links supplied in the conversation. The
 - [Pitarra on Apple Music](ADD_LINK)
 - [Pitarra on Amazon Music](ADD_LINK)
 - [Pitarra on YouTube](https://www.youtube.com/@OfficialPitarra)
-- [Pitarra on YouTube Music](ADD_LINK)
+- [Pitarra on YouTube Music](https://music.amazon.com/es-ar/artists/B0G37HD8SB/pitarra)
 - [Pitarra on TikTok](https://www.tiktok.com/@officialpitarra)
 - [Pitarra on Deezer](ADD_LINK)
 - [Pitarra on iHeartRadio](ADD_LINK)
