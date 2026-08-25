@@ -142,4 +142,4 @@ May it serve, in its own small way, the conditions for a better later.
 
 ## Revision History
 
--2026-08-24 — Version 1.0: Initial provenance, relationship, and listening-orientation record created for the CompassionWare Music collection. Verified listening doorways were added for major accessible distribution platforms.
+- 2026-08-24 — Version 1.0: Initial provenance, relationship, and listening-orientation record created for the CompassionWare Music collection. Verified listening doorways were added for major accessible distribution platforms.
