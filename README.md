@@ -20,7 +20,7 @@ Does this create conditions for a better later?
 
 ## A Continuity Seed
 
-![CompassionWare Continuity Card — Cultivate Good Conditions](CompassionWare-Images/CompassionWare_Continuity_Card_001_Cultivate_Good_Conditions.jpg)
+![CompassionWare Continuity Card — Cultivate Good Conditions](CompassionWare-Images/CompassionWare_Continuity_Card_001_Cultivate_Good_Conditions.PNG)
 
 > **Cultivate conditions that can continue cultivating good conditions.**
 
