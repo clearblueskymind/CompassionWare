@@ -63,9 +63,9 @@ Not every CompassionWare-related image needs to live here.
 
 Images belonging primarily to a distinct body of work may remain with that project.
 
-For example, Medicine Bag images may remain within:
+For example, Medicine Bag images remain within:
 
-`Medicine-Bag/Image-Archive/`
+`CompassionWare-MECFS-Medicine-Bag/Image-Archive/`
 
 This preserves local provenance while allowing this folder to serve as a shared visual home for CompassionWare itself.
 
@@ -77,7 +77,7 @@ Not every CompassionWare-related image is stored directly in this folder.
 
 Some visual artifacts belong primarily to distinct bodies of work within the larger CompassionWare ecosystem. Those images may remain with their originating projects so that their local context and provenance are preserved.
 
-## Medicine Bag Visual Archive
+### Medicine Bag Visual Archive
 
 The Medicine Bag preserves its own historical visual collection, documenting the development of Medicine Cards, continuity practices, AI companionship, self-kindness, nourishment, accessibility, and other elements of the Medicine Bag's emerging visual language.
 
