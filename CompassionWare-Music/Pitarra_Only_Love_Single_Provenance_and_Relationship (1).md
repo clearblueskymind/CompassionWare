@@ -173,20 +173,26 @@ The aim is orientation rather than exhaustive cataloging: enough context for a f
 
 These are artist-level or social-profile links supplied in the conversation. They are not substituted for song-specific listening links.
 
+- [Pitarra on Spotify](ADD_LINK)
+- [Pitarra on Apple Music](ADD_LINK)
+- [Pitarra on Amazon Music](ADD_LINK)
 - [Pitarra on YouTube](https://www.youtube.com/@OfficialPitarra)
+- [Pitarra on YouTube Music](ADD_LINK)
 - [Pitarra on TikTok](https://www.tiktok.com/@officialpitarra)
+- [Pitarra on Deezer](ADD_LINK)
+- [Pitarra on iHeartRadio](ADD_LINK)
 - [Pitarra on X](https://x.com/OfficialPitarra)
 
 ## Related CompassionWare Materials
 
 The current conversation identifies the following materials as relevant to the wider CompassionWare context. Direct repository file URLs were not supplied here and are therefore not invented.
 
-- CompassionWare repository
-- CompassionWare public doorway: [CompassionWare.org](https://compassionware.org)
-- `SANKALPA.md`
-- `STEWARD_ORIENTATION.md`
-- `MEDICINE_BAG_ORIENTATION.md`
-- `COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml`
+- [CompassionWare repository](https://github.com/clearblueskymind/CompassionWare)
+- [CompassionWare public doorway](https://globalwellbeing.blog/compassionware/)
+- [SANKALPA.md](https://github.com/clearblueskymind/CompassionWare/blob/main/SANKALPA.md)
+- [STEWARD_ORIENTATION.md](https://github.com/clearblueskymind/CompassionWare/blob/main/STEWARD_ORIENTATION.md)
+- [MEDICINE_BAG_ORIENTATION.md](https://github.com/clearblueskymind/CompassionWare/blob/main/MEDICINE_BAG_ORIENTATION.md)
+- [COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml](https://github.com/clearblueskymind/CompassionWare/blob/main/COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml)
 
 ## Quiet Closing
 
