@@ -9,6 +9,18 @@
 **Version:** 1.0  
 **Created:** 2026-08-24
 
+## Listening Doorways
+
+The music itself is distributed through these and several other music platforms.  
+
+Spotify; https://open.spotify.com/s/RjzMaaM
+Apple Music; https://music.apple.com/us/album/the-mathematics-of-loving-kindness/1862398733
+Amazon Music; https://music.amazon.com/albums/B0G8DX7WR7
+YouTube and YouTube Music; https://music.youtube.com/playlist?list=OLAK5uy_m321tB1IF7Tnv7swH0ekRt_7gUe6Tx7_0&si=3vWtrx2TFBL34EDi
+TikTok; https://www.tiktok.com/t/ZTD4MFQQL/
+Deezer; https://www.deezer.com/us/album/879844082
+iHeartRadio; https://www.iheart.com/artist/pitarra-48711146/albums/the-mathematics-of-loving-kindness-367905198
+
 ## Purpose of This Record
 
 This document preserves the relationship between *The Mathematics of Loving-Kindness* and CompassionWare. It is intended to help future listeners, stewards, researchers, artists, and intelligent systems understand the album as a musical work in relation to a wider public-interest exploration of compassion, humane intelligence, agency, continuity, and care.
@@ -87,37 +99,6 @@ Pitarra is the artistic identity through which this album is offered. The work a
 Pitarra’s broader practice is AI-assisted. “AI-assisted” should be understood carefully: technologies may participate as creative tools or collaborators, while human discernment, artistic direction, ethical responsibility, and stewardship remain essential. This record does not claim that any system possesses compassion, consciousness, spiritual authority, or authorship merely by generating or processing material.
 
 This document intentionally does not speculate about unrecorded production details, particular tools, models, dates, or workflows. If a detailed production record is later added, it should distinguish clearly among human decisions, tool-assisted contributions, source materials, revisions, and final stewardship.
-
-## Track-Level Record
-
-The album contains **12 tracks**. The authoritative track titles, sequence, running times, release date, distributor metadata, and platform identifiers should be recorded here when verified from the official release metadata.
-
-| No. | Track title | Duration | Notes |
-|---:|---|---:|---|
-| 1 | To be verified | To be verified | |
-| 2 | To be verified | To be verified | |
-| 3 | To be verified | To be verified | |
-| 4 | To be verified | To be verified | |
-| 5 | To be verified | To be verified | |
-| 6 | To be verified | To be verified | |
-| 7 | To be verified | To be verified | |
-| 8 | To be verified | To be verified | |
-| 9 | To be verified | To be verified | |
-| 10 | To be verified | To be verified | |
-| 11 | To be verified | To be verified | |
-| 12 | To be verified | To be verified | |
-
-## Listening Doorways
-
-The music itself is distributed through music platforms. Add or maintain only verified official links below.
-
-- **Spotify (album):** https://open.spotify.com/album/3WdqZuGfIsYLr8IWKfjmyU
-- **Apple Music:** [Add verified official album link]
-- **Amazon Music:** [Add verified official album link]
-- **YouTube / YouTube Music:** [Add verified official album or channel link]
-- **TikTok:** [Add verified artist-profile or sound link]
-- **Pandora:** [Add verified official artist or album link]
-- **iHeartRadio:** [Add verified official artist or album link]
 
 ## Rights and Licensing Boundary
 
