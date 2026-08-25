@@ -71,6 +71,24 @@ This preserves local provenance while allowing this folder to serve as a shared 
 
 ---
 
+## Related Visual Archives
+
+Not every CompassionWare-related image is stored directly in this folder.
+
+Some visual artifacts belong primarily to distinct bodies of work within the larger CompassionWare ecosystem. Those images may remain with their originating projects so that their local context and provenance are preserved.
+
+### Medicine Bag Visual Archive
+
+The Medicine Bag preserves its own historical visual collection, documenting the development of Medicine Cards, continuity practices, AI companionship, self-kindness, nourishment, accessibility, and other elements of the Medicine Bag's emerging visual language.
+
+**[Browse the Medicine Bag Image Archive →](../Medicine-Bag/Image-Archive/)**
+
+Keeping these images with the Medicine Bag preserves their developmental lineage while this README provides a doorway through which the broader CompassionWare visual ecosystem remains discoverable.
+
+As additional project-specific visual archives emerge, they may be linked here as well.
+
+---
+
 ## Images as Orientation
 
 A recurring principle throughout CompassionWare is:
