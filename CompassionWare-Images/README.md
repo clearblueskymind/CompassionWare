@@ -81,7 +81,7 @@ Some visual artifacts belong primarily to distinct bodies of work within the lar
 
 The Medicine Bag preserves its own historical visual collection, documenting the development of Medicine Cards, continuity practices, AI companionship, self-kindness, nourishment, accessibility, and other elements of the Medicine Bag's emerging visual language.
 
-**[Browse the Medicine Bag Image Archive →](../CompassionWare-MECFS-Medicine-Bag/Image-Archive/)**
+**[Browse the Medicine Bag Image Archive →](../CompassionWare-Medicine-Bag/Image-Archive/)**
 
 Keeping these images with the Medicine Bag preserves their developmental lineage while this README provides a doorway through which the broader CompassionWare visual ecosystem remains discoverable.
 
