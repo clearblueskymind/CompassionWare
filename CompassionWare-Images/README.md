@@ -65,7 +65,7 @@ Images belonging primarily to a distinct body of work may remain with that proje
 
 For example, Medicine Bag images remain within:
 
-`CompassionWare-MECFS-Medicine-Bag/Image-Archive/`
+`CompassionWare-Medicine-Bag/Image-Archive/`
 
 This preserves local provenance while allowing this folder to serve as a shared visual home for CompassionWare itself.
 
