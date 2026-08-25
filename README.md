@@ -18,6 +18,18 @@ Does this create conditions for a better later?
 
 ⸻
 
+## A Continuity Seed
+
+![CompassionWare Continuity Card — Cultivate Good Conditions](CompassionWare-Images/CompassionWare_Continuity_Card_001_Cultivate_Good_Conditions.jpg)
+
+> **Cultivate conditions that can continue cultivating good conditions.**
+
+This card carries a central CompassionWare orientation: not controlling the future, but tending the cultural and relational conditions flowing through the systems that increasingly surround us.
+
+**North Star:** *Does this create conditions for a better later?*
+
+⸻
+
 ## Two Doorways Into the Work
 
 ### Understand the Core Orientation
