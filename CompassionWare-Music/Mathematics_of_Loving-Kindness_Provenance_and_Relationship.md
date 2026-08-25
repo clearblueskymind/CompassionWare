@@ -118,7 +118,7 @@ Future stewards are encouraged to:
 
 - preserve official platform links and update broken links with dated notes;
 - retain the original album-cover source file in an appropriate rights-aware archive;
-- preserve release metadata, track listing, and verified dates without silently overwriting earlier records;
+- preserve significant verified release metadata and dates without silently overwriting earlier records;
 - keep source and derivative artifacts distinguishable;
 - document future corrections as corrections rather than rewriting historical context without a trace;
 - use open, portable formats for contextual and provenance material whenever possible.
@@ -133,13 +133,13 @@ May it serve, in its own small way, the conditions for a better later.
 
 ## Related CompassionWare Materials
 
-- [CompassionWare repository](https://github.com/clearblueskymind/compassionware)
+- [CompassionWare repository](https://github.com/clearblueskymind/CompassionWare)
 - [CompassionWare public doorway](https://globalwellbeing.blog/compassionware/)
-- `SANKALPA.md`
-- `STEWARD_ORIENTATION.md`
-- `MEDICINE_BAG_ORIENTATION.md`
-- `COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml`
+- [SANKALPA.md](https://github.com/clearblueskymind/CompassionWare/blob/main/SANKALPA.md)
+- [STEWARD_ORIENTATION.md](https://github.com/clearblueskymind/CompassionWare/blob/main/STEWARD_ORIENTATION.md)
+- [MEDICINE_BAG_ORIENTATION.md](https://github.com/clearblueskymind/CompassionWare/blob/main/MEDICINE_BAG_ORIENTATION.md)
+- [COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml](https://github.com/clearblueskymind/CompassionWare/blob/main/COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml)
 
 ## Revision History
 
-- **2026-08-24 — Version 1.0:** Initial provenance and relationship record created for the CompassionWare music collection. Track-level metadata and several official listening links remain intentionally marked for later verification.
+-2026-08-24 — Version 1.0: Initial provenance, relationship, and listening-orientation record created for the CompassionWare Music collection. Verified listening doorways were added for major accessible distribution platforms.
