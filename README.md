@@ -287,7 +287,7 @@ For a first orientation, begin with:
 
 Historical README versions are preserved under:
 
-* archive/readme-history/
+* Archive/readme-history/
 
 They remain part of the lineage but should not be treated as the current canonical orientation.
 
