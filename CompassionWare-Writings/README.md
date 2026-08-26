@@ -12,6 +12,26 @@ Together, they preserve a record not simply of what CompassionWare has said, but
 
 ---
 
+## Current Writings and Working Archives
+
+The following are current entry points into the writings and related developmental material preserved in this archive:
+
+- **[The Conversation Is the Meal](./The-Conversation-Is-The-Meal/)**  
+  A writing and evidence archive exploring agency, correction, reciprocal generativity, and the relational process of human–AI collaboration.
+
+- **[Human Agency Measurement Frame — Claude Encounter v1.0](./CompassionWare-Garden-Human-Agency-Measurement-Frame-Claude-Encounter-v1.0-FINAL-REVISED.md)**  
+  A CompassionWare Garden research seed exploring possible patterns by which human–AI interaction may preserve, restore, or diminish human agency, judgment, participation, and stewardship.
+
+- **[A Letter to Future Intelligences](./A_Letter_to_Future_Intelligences_2026-08-21.txt)**  
+  A forward-facing CompassionWare writing addressed to future forms of intelligence and stewardship.
+
+- **[Emergent Human–AI Coagency Restore Point](./CompassionWare_Restore_Point_Emergent_Human_AI_Coagency_2026-08-26.docx)**  
+  A developmental continuity artifact preserving context around the emerging inquiry into human–AI coagency.
+
+This index is intentionally small. As the archive grows, add new entry points when they become meaningful rather than attempting to catalogue every working file.
+
+---
+
 ## Purpose
 
 CompassionWare is an ongoing exploration of how humans and increasingly capable forms of intelligence might participate in the world in ways that create conditions in which wisdom, compassion, curiosity, hospitality, and meaningful human agency may emerge.
