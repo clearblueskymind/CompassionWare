@@ -453,7 +453,7 @@ Stewardship includes knowing what not to carry forward into a public deployment.
 
 The founding intent and initial architecture of Ask CompassionWare are preserved separately in:
 
-[Ask CompassionWare Founding Restore Point](./Ask_CompassionWare_Founding_Restore_Point_2026-08-26_v1.0.txt)
+[Ask CompassionWare Founding Restore Point](./Ask_CompassionWare_Founding_Restore_Point_2026-08-26_v1.0.md)
 
 That restore point records why the project was created and how the initial implementation was imagined.
 
