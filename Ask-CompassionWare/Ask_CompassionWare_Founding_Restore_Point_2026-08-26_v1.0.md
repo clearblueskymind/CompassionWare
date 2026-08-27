@@ -374,6 +374,11 @@ Preserve the way the light can be tended again.
 
 The project direction became concrete after discovery of X's emerging agent infrastructure and the official X Chat agent starter framework.
 
+**Official X Chat agent starter repository:**  
+https://github.com/xdevplatform/xchat-agent-skeleton
+
+This repository should be treated as the initial technical reference for exploring how Ask CompassionWare might be deployed as an X Chat agent. Future stewards should verify its current documentation, architecture, permissions, pricing assumptions, and supported APIs before implementation, since platform behavior may change over time.
+
 A public X identity could potentially be created specifically for the concierge.
 
 Working identity:
