@@ -4,7 +4,7 @@
 
 > **CompassionWare isn't a subject. It's a way of participating.**
 
-![Nepal–Tibet Digital Prayer Flag](./Nepal-Tibet-Digital-Prayer-Flag.png)
+![Nepal–Tibet Digital Prayer Flag](./Nepal-Tibet-Digital-Prayer-Flag.PNG)
 
 *Digital prayer flag created in remembrance of all those affected by the August 2026 catastrophe across Nepal and Tibet.*
 
