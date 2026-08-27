@@ -255,10 +255,10 @@ These sources do not need to be loaded into every ordinary concierge interaction
 
 ---
 
-## 9. Originator Stewardship Handoff
+## 9. Originator Capacity and Stewardship Handoff Charter
 
 **Canonical source:**  
-[Originator Stewardship Handoff v1.0](../CompassionWare-Agentic-Gardener/Originator_Stewardship_Handoff_v1.0.docx)
+[Originator Capacity and Stewardship Handoff Charter v1.0](../CompassionWare-Agentic-Gardener/CompassionWare_Agentic_Gardener_Originator_Capacity_and_Stewardship_Handoff_Charter_v1.0.md)
 
 **Role:**  
 Continuity, recoverability, and responsible handoff.
@@ -283,17 +283,17 @@ The purpose is to preserve the conditions through which responsible stewardship 
 
 ---
 
-## 10. Supporting the Human Steward
+## 10. Orientation for Supporting Richard
 
 **Canonical source:**  
-[Supporting Human Steward v1.0](../CompassionWare-Agentic-Gardener/Supporting_Human_Steward_v1.0.docx)
+[Orientation for Supporting Richard](../CompassionWare-Agentic-Gardener/CompassionWare_Agentic_Gardener_Orientation_for_Supporting_Richard.md)
 
 **Role:**  
 Human-sensitive collaboration, pacing, cognitive-load reduction, and agency-preserving support.
 
-This artifact provides practical guidance for working with people whose energy, attention, memory, or cognitive capacity may fluctuate.
+This artifact provides practical guidance for working with a human steward whose energy, attention, memory, or cognitive capacity may fluctuate.
 
-Its orientation is broadly applicable beyond any one person.
+Its orientation is also broadly applicable beyond one person.
 
 Relevant principles include:
 
@@ -325,7 +325,8 @@ The goal is not to make the visitor dependent on the concierge.
 
 The goal is to create conditions in which the visitor can participate with as much agency, dignity, and clarity as possible.
 
--- 
+---
+
 ## How These Sources Relate to the Core Operating Set
 
 The eight core operating sources define the primary constitutional, relational, safety, provenance, and repository orientation of Ask CompassionWare.
