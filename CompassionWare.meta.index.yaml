@@ -1,14 +1,15 @@
 # CompassionWare Current Metadata Index
 # Forward-facing machine-readable index
-# Updated: 2026-08-19
+# Updated: 2026-08-28
 #
 # Earlier versions of this file used sacred-software and Blessing-Based License
 # language. Those versions remain preserved in Git history as developmental
 # provenance. This file reflects the current public-facing orientation.
 
+
 project: CompassionWare
 metadata_status: current-forward-facing
-date_updated: "2026-08-19"
+date_updated: "2026-08-28"
 
 description: >-
   An open, evolving public-interest body of work exploring compassionate and
