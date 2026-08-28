@@ -1,7 +1,7 @@
 {
   "project": "CompassionWare",
   "metadata_status": "current-forward-facing",
-  "date_updated": "2026-08-19",
+  "date_updated": "2026-08-28",
   "description": "An open, evolving public-interest body of work exploring compassionate and responsible AI stewardship, ethical AI literacy, human agency, epistemic humility, continuity, and care.",
   "license": "CC0 1.0 Universal",
   "license_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/LICENSE",
@@ -54,6 +54,18 @@
         "relationships",
         "continuity",
         "stewardship"
+      ]
+    },
+    {
+      "file": "relational-co-agency/README.md",
+      "type": "human-ai-collaboration-case-model",
+      "title": "Relational Co-agency: A Model of Richard and ChatGPT's Work",
+      "status": "current",
+      "tags": [
+        "relational-co-agency",
+        "reciprocal-generativity",
+        "human-agency",
+        "artifact-mediated-continuity"
       ]
     },
     {
