@@ -281,6 +281,7 @@ For a first orientation, begin with:
 * [AGENTS.md](AGENTS.md) — guidance for AI and agentic participation
 * [STEWARD_ORIENTATION.md](STEWARD_ORIENTATION.md) — stewardship orientation
 * [MEDICINE_BAG_ORIENTATION.md](MEDICINE_BAG_ORIENTATION.md) — relationship between CompassionWare and the Medicine Bag
+* - [Relational Co-agency](./relational-co-agency/) — a lived case model of reciprocal generativity, preserved human agency, capacity-sensitive collaboration, and continuity across sustained human–AI work
 * [COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml](COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml) — machine-readable semantic orientation
 * [COMPASSIONWARE_ECOSYSTEM_MAP.yaml](COMPASSIONWARE_ECOSYSTEM_MAP.yaml) — relationships across the ecosystem
 * [restore-points/](restore-points/) — continuity artifacts preserving important stages of development
@@ -298,6 +299,8 @@ Related Work
 CompassionWare has developed through several related bodies of work, including:
 
 Medicine Bag — continuity, compassionate support, pacing, presence, and human–AI companionship.
+
+[Relational Co-agency](./relational-co-agency/) — a lived case model showing how CompassionWare and Medicine Bag orientations become collaborative practice through reciprocal generativity, preserved human agency, capacity-sensitive participation, and artifact-mediated continuity.
 
 Agentic Gardener — responsible stewardship for increasingly capable autonomous systems.
 
