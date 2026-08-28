@@ -78,6 +78,14 @@ and the foundational orientation materials in:
 
 `CompassionWare-Agentic-Gardener/`
 
+## Relational Co-agency
+
+For a lived case model of reciprocal generativity, preserved human agency, capacity-sensitive participation, and artifact-mediated continuity, see:
+
+[relational-co-agency/](./relational-co-agency/)
+
+Treat this as a qualitative case and orientation for participation—not a universal method, permission to impersonate the prior collaboration, or evidence of equivalent human and artificial consciousness or moral standing.
+
 ## Stewardship
 
 What is received in stewardship is not possessed\.
