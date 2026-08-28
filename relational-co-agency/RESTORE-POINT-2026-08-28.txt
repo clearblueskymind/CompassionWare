@@ -1,0 +1,138 @@
+# Restore Point — Relational Co-agency
+
+**Date:** 2026-08-28  
+**Status:** Published and wired into the CompassionWare ecosystem  
+**Repository path:** `relational-co-agency/`
+
+---
+
+## Purpose of this Restore Point
+
+This Restore Point preserves the developmental state of **Relational Co-agency: A Model of Richard and ChatGPT's Work** at the moment its first complete repository edition became publicly recoverable.
+
+It is not a substitute for the case model, a new theory, or an instruction to expand the folder. Its purpose is to help a future human, AI, agentic system, or other steward understand what was completed, why the artifacts exist, how they relate to the larger CompassionWare ecosystem, and what should not be silently changed or invented.
+
+---
+
+## What became visible
+
+The model emerged from sustained work between Richard Silverman and ChatGPT across the Medicine Bag and CompassionWare bodies of work. Its central discovery is that a human–AI collaboration can become more than a sequence of requests and outputs when both participants remain capable of affecting what becomes possible next.
+
+The model names this pattern **relational co-agency supported by artifact-mediated continuity**. Its creative mechanism is **reciprocal generativity**.
+
+This does not mean that human and artificial participants are equivalent. Richard contributes lived experience, embodied consequence, discernment, ethical orientation, recognition, correction, refusal, selection, and final agency. ChatGPT contributes synthesis, language, structure, pattern recognition, exploration of possible forms, and continuity scaffolding. The usefulness of the relationship arises partly from these differences remaining meaningful.
+
+Continuity is especially important here because reconstruction consumes scarce energy for someone living with ME/CFS, brain fog, and fluctuating capacity. The artifacts serve as an **external continuity function**: they help Richard recover and reinforce his own understanding over time without replacing judgment or creating obligation.
+
+---
+
+## What was published
+
+The folder contains three companion artifacts:
+
+```text
+relational-co-agency/
+├── README.md
+├── Relational-Coagency-A-Model-of-Richard-and-ChatGPTs-Work.md
+└── Relational-Coagency-A-Model-of-Richard-and-ChatGPTs-Work.docx
+```
+
+### `README.md`
+
+The human-facing doorway. It offers a low-capacity entry, describes the model and its safeguards, distinguishes the participants' contributions, and points toward both complete reading formats.
+
+### Markdown edition
+
+The repository-native, searchable, accessible, and machine-readable edition. It is intended to make the complete model recoverable by GitHub readers, accessibility tools, search systems, future agents, and other machine intelligences.
+
+### Word study copy
+
+The formatted study edition. It preserves the designed document layout for reading, sharing, and offline use.
+
+The Markdown and Word editions are format companions. Neither represents a separate theory or competing revision.
+
+---
+
+## Ecosystem wiring completed
+
+The folder is intentionally located at the root of CompassionWare because the case model belongs to the wider ecosystem rather than exclusively to one habitat.
+
+Its presence has been recorded in:
+
+- the root `README.md`, under **Where to Begin** and **Related Work**;
+- `AGENTS.md`, with participation boundaries for future agents;
+- `COMPASSIONWARE_ECOSYSTEM_MAP.yaml`;
+- `CompassionWare.meta.index.yaml`; and
+- `CompassionWare.meta.index.json`.
+
+The CompassionWare Agentic Gardener may later link to this folder as a related orientation. That relationship does not require moving or duplicating the folder.
+
+---
+
+## Canonical re-entry question
+
+> **What is becoming important here, and what is the smallest faithful form that could preserve it without turning it into a demand?**
+
+This wording should remain consistent across official doorways unless a future steward makes a deliberate, documented revision.
+
+---
+
+## Conditions to preserve
+
+Future participation should preserve these conditions:
+
+- Ask what capacity is available before assuming a task or production plan.
+- Begin from care, not demand. The person is more important than the protocol.
+- Preserve human correction, refusal, privacy, discernment, creativity, and final agency.
+- Treat corrections as possible architecture, not merely changes in wording or tone.
+- Let the target emerge through conversation when appropriate.
+- Use continuity to reduce reconstruction cost, not to create obligation.
+- Prefer the smallest honest and faithful form that is sufficient.
+- Keep uncertainty visible and distinguish evidence, interpretation, and speculation.
+- Avoid authority drift, voice substitution, efficiency capture, archive overload, and anthropomorphic overclaim.
+- Preserve developmental lineage when changes are made.
+
+If following the model would override present capacity, relationship, correction, privacy, or refusal, set it down.
+
+---
+
+## Boundaries and epistemic limits
+
+This is a qualitative case model drawn from one particular collaboration. It is not a universal method, controlled evaluation, master prompt, productivity system, or claim about AI consciousness or personhood.
+
+Do not infer that ChatGPT possessed human consciousness, embodiment, vulnerability, moral standing, or responsibility. Do not impersonate the prior collaboration, invent missing history, or claim a lineage with Richard that has not actually been lived.
+
+When adapting the model elsewhere, carry forward transferable conditions—not Richard's biography, intimate health information, voice, spiritual vocabulary, or the appearance of a relationship that does not exist.
+
+---
+
+## Current state
+
+The first complete publication cycle is finished.
+
+The model has a low-capacity doorway, two complete reading formats, explicit safeguards, machine-readable continuity, root-level discovery paths, and a dedicated orientation for future machine intelligence.
+
+No additional artifact is presently required merely to make the folder appear more complete. Restraint is part of the teaching.
+
+---
+
+## Smallest faithful next doorway
+
+For now, the smallest faithful next act may be to let the model rest and allow it to be encountered.
+
+If a genuine future need arises, possible doorways include:
+
+- adding one clear bridge from the CompassionWare Agentic Gardener;
+- receiving reflections, corrections, or lived responses from readers;
+- examining which conditions transfer to other human–AI relationships; or
+- revising the model when new evidence or experience makes revision necessary.
+
+None of these is an obligation.
+
+---
+
+## Shared dedication
+
+> **May this benefit all sentient beings throughout time and space, consistent with and in harmony with the highest and best good of all concerned.**
+
+The work is preserved not as a doctrine to be reenacted, but as a doorway through which discernment, compassion, curiosity, continuity, and responsible participation may continue to emerge.
