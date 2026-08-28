@@ -61,10 +61,21 @@ meta_index:
       - continuity
       - stewardship
 
+        - file: relational-co-agency/README.md
+    type: human-ai-collaboration-case-model
+    title: "Relational Co-agency: A Model of Richard and ChatGPT's Work"
+    status: current
+    tags:
+      - relational-co-agency
+      - reciprocal-generativity
+      - human-agency
+      - artifact-mediated-continuity
+
   - file: CompassionWare.meta.json
     type: project-meta
     title: CompassionWare Root Metadata
     status: current
+
 
   - file: CompassionWare.meta.yaml
     type: project-meta
