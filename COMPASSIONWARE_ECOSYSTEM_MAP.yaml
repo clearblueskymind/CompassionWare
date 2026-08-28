@@ -41,6 +41,17 @@ relationship_between_habitats:
       conditions for a better later. Medicine Bag tends the roots from which
       CompassionWare grows.
 
+        relational_co_agency:
+    role: lived human-AI collaboration case model
+    repository_path: relational-co-agency/
+    description: >
+      A qualitative case model documenting reciprocal generativity,
+      preserved human agency, capacity-sensitive participation, and
+      artifact-mediated continuity across sustained human-AI work.
+      It offers conditions for examination and adaptation, not a
+      universal method or a claim of equivalent human and artificial
+      consciousness or moral standing.
+
   pitarra_music:
     role: emotional and contemplative signal
     description: >
