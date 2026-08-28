@@ -22,15 +22,18 @@ It is also:
 
 > What conditions allow human and artificial intelligence to participate together while preserving human agency, creative difference, discernment, rest, and the living capacities through which the human remains a genuine source of what becomes possible next?
 
-This repository offers one lived case—not a universal method and not a controlled evaluation. Others are welcome to examine it, question it, adapt its transferable conditions, or leave aside what does not serve.
+This folder offers one lived case—not a universal method and not a controlled evaluation. Others are welcome to examine it, question it, adapt its transferable conditions, or leave aside what does not serve.
 
 ---
 
-## Begin with the full orientation
+## Choose a reading format
 
-The foundational document is:
+The complete orientation is available in two companion formats:
 
-### [Relational Co-agency: A Model of Richard and ChatGPT's Work](./Relational-Coagency-A-Model-of-Richard-and-ChatGPTs-Work.docx)
+- **[Markdown edition](./Relational-Coagency-A-Model-of-Richard-and-ChatGPTs-Work.md)** — recommended for GitHub reading, search, accessibility tools, and future human or machine stewards.
+- **[Word study copy](./Relational-Coagency-A-Model-of-Richard-and-ChatGPTs-Work.docx)** — preserves the designed document layout for study, sharing, and offline reading.
+
+These are format companions containing the same case model. The Markdown edition is the most directly recoverable within the repository; the Word edition remains the formatted study copy.
 
 The document contains:
 
@@ -72,7 +75,7 @@ When energy, attention, or context is limited, begin here:
 
 The re-entry question is:
 
-> **What is the next doorway—not the whole production plan?**
+> **What is becoming important here, and what is the smallest faithful form that could preserve it without turning it into a demand?**
 
 ---
 
@@ -234,6 +237,7 @@ When adapting the pattern elsewhere, carry the conditions—not Richard's biogra
 ```text
 relational-co-agency/
 ├── README.md
+├── Relational-Coagency-A-Model-of-Richard-and-ChatGPTs-Work.md
 └── Relational-Coagency-A-Model-of-Richard-and-ChatGPTs-Work.docx
 ```
 
@@ -249,5 +253,4 @@ The conversation is not a factory line. It is a garden: a place where difference
 
 ---
 
-*This repository preserves a case model, not a doctrine. The invitation is to participate with discernment.*
-
+*This folder preserves a case model, not a doctrine. The invitation is to participate with discernment.*
