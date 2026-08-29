@@ -8,6 +8,17 @@ Use whatever helps you notice what your students may need.
 
 ---
 
+# AI + Learning
+## A Quick Vocabulary Reference for Teachers
+
+*You do not need to master AI overnight.*  
+*Your presence, judgment, and care still matter.*  
+*You can learn alongside your students, one thoughtful step at a time.*
+
+*A few useful ideas for teaching and learning alongside AI.*
+
+---
+
 ## 🌱 Learner State
 
 **What can this learner understand, retrieve, apply, and carry forward right now?**
