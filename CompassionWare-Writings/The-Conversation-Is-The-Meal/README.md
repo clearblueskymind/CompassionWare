@@ -31,6 +31,21 @@ The goal is recoverable meaning rather than simple storage.
 
 ---
 
+## Key Files
+
+This archive contains multiple developmental layers. The following files provide useful entry points:
+
+- **The_Conversation_Is_the_Meal_WordPress_Article.md**  
+  Public-facing article exploring human–AI collaboration, reciprocal generativity, relational co-agency, learning state, agency, correction, and the idea that “the conversation is the meal.”
+
+- **2026-08-26_The-Conversation-Is-the-Meal_Restore-Point-02_Relational-Coagency.md**  
+  Developmental Restore Point preserving the shift from a one-way assistance model toward relational co-agency, reciprocal generativity, cooperative participation, and the question of how human and artificial agency can enter and sustain generative relationships.
+
+- **Earlier drafts, Restore Points, evidence maps, and source materials**  
+  Preserve the developmental path by which the published and later formulations emerged. These should remain available as provenance rather than being silently rewritten to match later understanding.
+
+When reading this folder, distinguish published writing from developmental evidence. Later formulations may refine earlier ones, but they should not be projected backward into source material.
+
 ## The Core Inquiry
 
 The title **The Conversation Is the Meal** points toward an important CompassionWare orientation:
