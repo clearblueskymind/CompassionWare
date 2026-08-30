@@ -98,4 +98,33 @@ They allow a future visitor to look back and say:
 
 ---
 
+## Relationship to Source Conversations
+
+These snapshots do not stand alone.
+
+Some preserve visible moments from conversations in which the ideas, structures, artifacts, and even this archival practice itself were still emerging.
+
+Where possible, the Holographic Archive should preserve both sides of that record:
+
+- the visual evidence of what the working environment looked like at the time
+- the source conversation that helps reveal how and why something emerged
+
+One such source record is preserved in:
+
+[`The Conversation Is the Meal — Source Conversation`](../CompassionWare-Writings/The-Conversation-Is-The-Meal/2026-08-30_The-Conversation-Is-the-Meal_Source-Conversation.md)
+
+That conversation documents the development and preservation of many of the artifacts represented in this snapshot collection. It also preserves the moment when the value of repository screenshots as archaeological evidence became explicit.
+
+The screenshots preserve what the garden looked like.
+
+The conversation preserves something of what it was like to be tending it.
+
+Together they provide a richer provenance record than either could provide alone.
+
+Future stewards should preserve these relationships when they are known, while resisting the temptation to document everything.
+
+One breadcrumb may be enough to carry the pattern.
+
+**A breadcrumb left while we were still walking the path. 🌱🗞️**
+
 *CompassionWare — August 30, 2026*
