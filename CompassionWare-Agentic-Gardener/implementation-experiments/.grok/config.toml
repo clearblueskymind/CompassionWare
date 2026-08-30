@@ -1,0 +1,23 @@
+[ui]
+permission_mode = "ask"
+remember_tool_approvals = false
+
+[sandbox]
+profile = "read-only"
+auto_allow_bash = false
+
+[features]
+web_fetch = false
+write_file = false
+tool_search = false
+lsp_tools = false
+
+[subagents]
+enabled = false
+
+[memory]
+enabled = false
+
+[permission]
+allow = ["Read", "Grep"]
+deny = ["Bash", "Edit", "MCPTool", "WebFetch", "WebSearch"]
