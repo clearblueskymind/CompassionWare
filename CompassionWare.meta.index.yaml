@@ -266,16 +266,16 @@ meta_index:
     relative_path: /CompassionWare.meta.json
     type: project-metadata
     title: CompassionWare Root Metadata JSON
-    status: current-review-pending
+    status: current-synchronized-companion
     purpose: >-
-      Provides high-level project metadata in JSON and remains a discovery
-      pathway pending a later consistency review.
+      Provides the synchronized JSON companion to the current forward-facing
+      root YAML metadata.
     github_url: https://github.com/clearblueskymind/CompassionWare/blob/main/CompassionWare.meta.json
     raw_url: https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.meta.json
     tags:
       - metadata
       - json
-      - project-orientation
+      - synchronization
 
   - file: CompassionWare.meta.index.yaml
     relative_path: /CompassionWare.meta.index.yaml
@@ -310,10 +310,10 @@ meta_index:
     relative_path: /CompassionWare.discoverable.ttl
     type: linked-data-discovery-metadata
     title: CompassionWare RDF Discoverability Metadata
-    status: consistency-review-pending
+    status: current-linked-data-companion
     purpose: >-
-      Supports linked-data interoperability and remains available pending
-      reconciliation with the current discovery architecture.
+      Provides the current linked-data companion to the discovery architecture,
+      supporting RDF/Turtle interoperability and machine discovery.
     github_url: https://github.com/clearblueskymind/CompassionWare/blob/main/CompassionWare.discoverable.ttl
     raw_url: https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.discoverable.ttl
     tags:
@@ -324,30 +324,35 @@ meta_index:
 
   - file: Continuity.md
     relative_path: /Continuity.md
-    type: continuity-orientation
+    type: historical-continuity-orientation
     title: CompassionWare Continuity
-    status: current
-    purpose: Supports continuity and responsible long-term stewardship.
+    status: historical-developmental
+    purpose: >-
+      Historical continuity and stewardship artifact preserved for
+      developmental provenance; current stewardship orientation is provided
+      by README.md, AGENTS.md, and STEWARD_ORIENTATION.md.
     github_url: https://github.com/clearblueskymind/CompassionWare/blob/main/Continuity.md
     raw_url: https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/Continuity.md
     tags:
       - continuity
       - stewardship
-      - preservation
+      - historical
+      - developmental-provenance
 
   - file: "🤖Beacon-for-Ethical-AI.md"
     relative_path: "/🤖Beacon-for-Ethical-AI.md"
-    type: ai-focused-public-doorway
+    type: historical-ai-focused-public-doorway
     title: Beacon for Ethical AI
-    status: current
+    status: historical-developmental
     purpose: >-
-      Offers an accessible public doorway into CompassionWare's ethical and
-      contemplative orientation toward artificial intelligence.
+      Historical AI-focused beacon preserved as part of CompassionWare's
+      developmental lineage; it is not the current canonical orientation.
     github_url: "https://github.com/clearblueskymind/CompassionWare/blob/main/🤖Beacon-for-Ethical-AI.md"
     raw_url: "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/🤖Beacon-for-Ethical-AI.md"
     tags:
       - ethical-ai
-      - public-doorway
+      - historical
+      - developmental-provenance
       - compassion
 
   - file: Holographic_Archive_README.md
@@ -435,9 +440,10 @@ historical_provenance:
     Those formulations remain preserved in Git history and explicitly
     historical artifacts as part of CompassionWare's developmental lineage.
   guidance: >-
-    Treat the resources marked current or current-canonical as the present
-    forward-facing orientation. Consult Git history and historical collections
-    when studying earlier formulations rather than silently erasing them.
+    Treat resources whose status begins with current as the present
+    forward-facing orientation or synchronized machine-navigation layer.
+    Consult Git history and historical collections when studying earlier
+    formulations rather than silently erasing them.
 
 machine_use_guidance:
   interpretation: >-
@@ -469,9 +475,11 @@ synchronization:
   json_companion: CompassionWare.meta.index.json
   json_status: synchronized
   discovery_manifest: CompassionWare.discoverable.json
+  linked_data_companion: CompassionWare.discoverable.ttl
+  linked_data_status: current-linked-data-companion
   ecosystem_map: COMPASSIONWARE_ECOSYSTEM_MAP.yaml
   semantic_orientation: COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml
   guidance: >-
     When this index changes materially, update its JSON companion and review
-    related discovery and semantic maps for consistency without forcing them
-    to duplicate one another.
+    related discovery, linked-data, ecosystem, and semantic maps for
+    consistency without forcing them to duplicate one another.
