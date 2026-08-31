@@ -11,7 +11,7 @@
   schema:identifier "CompassionWare" ;
   schema:license <https://github.com/clearblueskymind/CompassionWare/blob/main/LICENSE> ;
   schema:isAccessibleForFree true ;
-  dcterms:modified "2026-08-19" ;
+  dcterms:modified "2026-08-31" ;
   schema:creator [
     a schema:Person ;
     schema:name "Richard Silverman" ;
@@ -50,12 +50,29 @@
     <https://github.com/clearblueskymind/CompassionWare/blob/main/AGENTS.md>,
     <https://github.com/clearblueskymind/CompassionWare/blob/main/SANKALPA.md>,
     <https://github.com/clearblueskymind/CompassionWare/blob/main/STEWARD_ORIENTATION.md>,
+    <https://github.com/clearblueskymind/CompassionWare/blob/main/MEDICINE_BAG_ORIENTATION.md>,
+    <https://github.com/clearblueskymind/CompassionWare/blob/main/llms.txt>,
     <https://github.com/clearblueskymind/CompassionWare/blob/main/COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml>,
     <https://github.com/clearblueskymind/CompassionWare/blob/main/COMPASSIONWARE_ECOSYSTEM_MAP.yaml>,
     <https://github.com/clearblueskymind/CompassionWare/tree/main/CompassionWare-Agentic-Gardener>,
     <https://github.com/clearblueskymind/CompassionWare/tree/main/restore-points> ;
+  cw:recommendedEntryPoint <https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/llms.txt> ;
+  cw:comprehensiveManifest <https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.discoverable.json> ;
+  cw:licenseRawUrl <https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/LICENSE> ;
+  cw:rawUrl
+    <https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/SANKALPA.md>,
+    <https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/AGENTS.md>,
+    <https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/STEWARD_ORIENTATION.md>,
+    <https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/MEDICINE_BAG_ORIENTATION.md>,
+    <https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml>,
+    <https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/COMPASSIONWARE_ECOSYSTEM_MAP.yaml>,
+    <https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/README.md>,
+    <https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/llms.txt>,
+    <https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.discoverable.json>,
+    <https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.discoverable.ttl> ;
   cw:metadataStatus "current-forward-facing" ;
   cw:currentCanonicalOrientation <https://github.com/clearblueskymind/CompassionWare/blob/main/COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml> ;
+  cw:currentCanonicalOrientationRaw <https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml> ;
   cw:northStar "Does this create conditions for a better later?" ;
   cw:stewardshipOrientation
     "cultivate conditions rather than control outcomes",
