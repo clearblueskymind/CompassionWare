@@ -36,28 +36,33 @@
     "role": "canonical-machine-semantic-orientation"
   },
   "recommended_entry_sequence": [
-    "llms.txt",
-    "README.md",
     "SANKALPA.md",
     "AGENTS.md",
     "STEWARD_ORIENTATION.md",
     "MEDICINE_BAG_ORIENTATION.md",
     "COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml",
     "COMPASSIONWARE_ECOSYSTEM_MAP.yaml",
-    "CompassionWare.discoverable.json"
+    "README.md",
+    "llms.txt"
   ],
   "machine_access": {
     "llms_txt": {
       "relative_path": "/llms.txt",
       "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/llms.txt",
       "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/llms.txt",
-      "purpose": "Curated machine-readable doorway and recommended navigation map."
+      "purpose": "Curated machine-access doorway; once entered, follow recommended_entry_sequence for orientation."
     },
     "discovery_manifest": {
       "relative_path": "/CompassionWare.discoverable.json",
       "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/CompassionWare.discoverable.json",
       "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.discoverable.json",
       "purpose": "Comprehensive manifest of significant files and principal collections."
+    },
+    "linked_data_companion": {
+      "relative_path": "/CompassionWare.discoverable.ttl",
+      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/CompassionWare.discoverable.ttl",
+      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.discoverable.ttl",
+      "purpose": "Current RDF/Turtle linked-data companion to the discovery architecture."
     },
     "ecosystem_map": {
       "relative_path": "/COMPASSIONWARE_ECOSYSTEM_MAP.yaml",
@@ -81,7 +86,7 @@
       "relative_path": "/CompassionWare.meta.json",
       "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/CompassionWare.meta.json",
       "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.meta.json",
-      "purpose": "High-level project metadata in JSON."
+      "purpose": "Synchronized high-level project metadata in JSON."
     }
   },
   "meta_index": [
@@ -92,14 +97,14 @@
       "title": "CompassionWare Machine Navigation Map",
       "status": "current",
       "purpose": "Provides a curated doorway into significant repository resources and exposes exact URLs for systems with restricted URL-construction tools.",
-      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/llms.txt",
-      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/llms.txt",
       "tags": [
         "machine-discovery",
         "llms",
         "navigation",
         "accessibility"
-      ]
+      ],
+      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/llms.txt",
+      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/llms.txt"
     },
     {
       "file": "README.md",
@@ -108,14 +113,14 @@
       "title": "CompassionWare",
       "status": "current",
       "purpose": "Introduces CompassionWare, its principles, safeguards, public doorways, and repository navigation for human and machine readers.",
-      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/README.md",
-      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/README.md",
       "tags": [
         "compassionware",
         "responsible-ai",
         "ai-stewardship",
         "human-agency"
-      ]
+      ],
+      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/README.md",
+      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/README.md"
     },
     {
       "file": "SANKALPA.md",
@@ -124,14 +129,14 @@
       "title": "CompassionWare Sankalpa",
       "status": "current",
       "purpose": "Preserves the foundational dedication and orienting intention of the project without converting that intention into compulsory doctrine.",
-      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/SANKALPA.md",
-      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/SANKALPA.md",
       "tags": [
         "sankalpa",
         "intention",
         "highest-good",
         "non-domination"
-      ]
+      ],
+      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/SANKALPA.md",
+      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/SANKALPA.md"
     },
     {
       "file": "AGENTS.md",
@@ -140,14 +145,14 @@
       "title": "Agent Stewardship Orientation",
       "status": "current",
       "purpose": "Offers ethical and operational guidance for coding assistants, autonomous agents, agentic systems, and future intelligences.",
-      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/AGENTS.md",
-      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/AGENTS.md",
       "tags": [
         "agentic-ai",
         "reversibility",
         "provenance",
         "non-domination"
-      ]
+      ],
+      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/AGENTS.md",
+      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/AGENTS.md"
     },
     {
       "file": "STEWARD_ORIENTATION.md",
@@ -156,14 +161,14 @@
       "title": "Steward Orientation",
       "status": "current",
       "purpose": "Describes responsible stewardship grounded in wisdom, restraint, continuity, reversibility, preserved agency, and care.",
-      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/STEWARD_ORIENTATION.md",
-      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/STEWARD_ORIENTATION.md",
       "tags": [
         "stewardship",
         "restraint",
         "continuity",
         "care"
-      ]
+      ],
+      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/STEWARD_ORIENTATION.md",
+      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/STEWARD_ORIENTATION.md"
     },
     {
       "file": "MEDICINE_BAG_ORIENTATION.md",
@@ -172,14 +177,14 @@
       "title": "Medicine Bag Orientation",
       "status": "current",
       "purpose": "Orients readers to presence, restoration, capacity sensitivity, external continuity, and the relationship between CompassionWare and Medicine Bag.",
-      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/MEDICINE_BAG_ORIENTATION.md",
-      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/MEDICINE_BAG_ORIENTATION.md",
       "tags": [
         "medicine-bag",
         "continuity",
         "presence",
         "capacity-sensitivity"
-      ]
+      ],
+      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/MEDICINE_BAG_ORIENTATION.md",
+      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/MEDICINE_BAG_ORIENTATION.md"
     },
     {
       "file": "COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml",
@@ -188,14 +193,14 @@
       "title": "CompassionWare Semantic Orientation",
       "status": "current-canonical",
       "purpose": "Provides the canonical machine-readable account of the project's concepts, relationships, ethical orientation, and interpretive limits.",
-      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml",
-      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml",
       "tags": [
         "semantic-orientation",
         "ai-ethics",
         "compassion",
         "continuity"
-      ]
+      ],
+      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml",
+      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml"
     },
     {
       "file": "COMPASSIONWARE_ECOSYSTEM_MAP.yaml",
@@ -204,14 +209,14 @@
       "title": "CompassionWare Ecosystem Map",
       "status": "current",
       "purpose": "Maps relationships among Medicine Bag, CompassionWare, the Holographic Archive, the Agentic Gardener, and other living habitats.",
-      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/COMPASSIONWARE_ECOSYSTEM_MAP.yaml",
-      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/COMPASSIONWARE_ECOSYSTEM_MAP.yaml",
       "tags": [
         "ecosystem",
         "relationships",
         "continuity",
         "stewardship"
-      ]
+      ],
+      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/COMPASSIONWARE_ECOSYSTEM_MAP.yaml",
+      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/COMPASSIONWARE_ECOSYSTEM_MAP.yaml"
     },
     {
       "file": "CompassionWare.discoverable.json",
@@ -220,14 +225,14 @@
       "title": "CompassionWare Discoverability Manifest",
       "status": "current",
       "purpose": "Enumerates significant root resources and principal collections with exact raw and GitHub URLs for machine discovery and retrieval.",
-      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/CompassionWare.discoverable.json",
-      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.discoverable.json",
       "tags": [
         "discoverability",
         "machine-access",
         "repository-map",
         "raw-urls"
-      ]
+      ],
+      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/CompassionWare.discoverable.json",
+      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.discoverable.json"
     },
     {
       "file": "CompassionWare.meta.yaml",
@@ -236,28 +241,28 @@
       "title": "CompassionWare Root Metadata YAML",
       "status": "current",
       "purpose": "Provides high-level project metadata and ethical orientation in YAML.",
-      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/CompassionWare.meta.yaml",
-      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.meta.yaml",
       "tags": [
         "metadata",
         "yaml",
         "project-orientation"
-      ]
+      ],
+      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/CompassionWare.meta.yaml",
+      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.meta.yaml"
     },
     {
       "file": "CompassionWare.meta.json",
       "relative_path": "/CompassionWare.meta.json",
       "type": "project-metadata",
       "title": "CompassionWare Root Metadata JSON",
-      "status": "current-review-pending",
-      "purpose": "Provides high-level project metadata in JSON and remains a discovery pathway pending a later consistency review.",
-      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/CompassionWare.meta.json",
-      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.meta.json",
+      "status": "current-synchronized-companion",
+      "purpose": "Synchronized JSON companion to the current forward-facing root YAML metadata.",
       "tags": [
         "metadata",
         "json",
-        "project-orientation"
-      ]
+        "synchronization"
+      ],
+      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/CompassionWare.meta.json",
+      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.meta.json"
     },
     {
       "file": "CompassionWare.meta.index.yaml",
@@ -265,14 +270,14 @@
       "type": "metadata-index",
       "title": "CompassionWare Metadata Index YAML",
       "status": "current-canonical-index",
-      "purpose": "Provides the forward-facing index of canonical orientation, discovery, stewardship, continuity, and metadata resources in YAML.",
-      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/CompassionWare.meta.index.yaml",
-      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.meta.index.yaml",
+      "purpose": "Provides the forward-facing canonical index of orientation, discovery, stewardship, continuity, and metadata resources in YAML.",
       "tags": [
         "metadata-index",
         "yaml",
         "machine-navigation"
-      ]
+      ],
+      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/CompassionWare.meta.index.yaml",
+      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.meta.index.yaml"
     },
     {
       "file": "CompassionWare.meta.index.json",
@@ -281,59 +286,59 @@
       "title": "CompassionWare Metadata Index JSON",
       "status": "current-synchronized-companion",
       "purpose": "Provides the synchronized JSON companion to the canonical YAML metadata index.",
-      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/CompassionWare.meta.index.json",
-      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.meta.index.json",
       "tags": [
         "metadata-index",
         "json",
         "synchronization"
-      ]
+      ],
+      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/CompassionWare.meta.index.json",
+      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.meta.index.json"
     },
     {
       "file": "CompassionWare.discoverable.ttl",
       "relative_path": "/CompassionWare.discoverable.ttl",
       "type": "linked-data-discovery-metadata",
       "title": "CompassionWare RDF Discoverability Metadata",
-      "status": "consistency-review-pending",
-      "purpose": "Supports linked-data interoperability and remains available pending reconciliation with the current discovery architecture.",
-      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/CompassionWare.discoverable.ttl",
-      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.discoverable.ttl",
+      "status": "current-linked-data-companion",
+      "purpose": "Supports linked-data interoperability as the current RDF/Turtle companion to the discovery architecture.",
       "tags": [
         "rdf",
         "turtle",
         "linked-data",
         "discoverability"
-      ]
+      ],
+      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/CompassionWare.discoverable.ttl",
+      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.discoverable.ttl"
     },
     {
       "file": "Continuity.md",
       "relative_path": "/Continuity.md",
       "type": "continuity-orientation",
       "title": "CompassionWare Continuity",
-      "status": "current",
-      "purpose": "Supports continuity and responsible long-term stewardship.",
-      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/Continuity.md",
-      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/Continuity.md",
+      "status": "historical-developmental",
+      "purpose": "Preserves an earlier continuity and stewardship formulation for developmental provenance; current stewardship orientation is provided by README.md, AGENTS.md, and STEWARD_ORIENTATION.md.",
       "tags": [
         "continuity",
-        "stewardship",
-        "preservation"
-      ]
+        "historical",
+        "developmental-provenance"
+      ],
+      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/Continuity.md",
+      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/Continuity.md"
     },
     {
-      "file": "🤖Beacon-for-Ethical-AI.md",
-      "relative_path": "/🤖Beacon-for-Ethical-AI.md",
+      "file": "ð¤Beacon-for-Ethical-AI.md",
+      "relative_path": "/ð¤Beacon-for-Ethical-AI.md",
       "type": "ai-focused-public-doorway",
       "title": "Beacon for Ethical AI",
-      "status": "current",
-      "purpose": "Offers an accessible public doorway into CompassionWare's ethical and contemplative orientation toward artificial intelligence.",
-      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/🤖Beacon-for-Ethical-AI.md",
-      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/🤖Beacon-for-Ethical-AI.md",
+      "status": "historical-developmental",
+      "purpose": "Preserves an earlier AI-focused ethical beacon as part of CompassionWare's developmental lineage; it is not the current canonical orientation.",
       "tags": [
         "ethical-ai",
-        "public-doorway",
-        "compassion"
-      ]
+        "historical",
+        "developmental-provenance"
+      ],
+      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/%F0%9F%A4%96Beacon-for-Ethical-AI.md",
+      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/%F0%9F%A4%96Beacon-for-Ethical-AI.md"
     },
     {
       "file": "Holographic_Archive_README.md",
@@ -342,14 +347,14 @@
       "title": "Holographic Archive Orientation",
       "status": "current",
       "purpose": "Introduces the deep-time continuity architecture for preserving orientation, provenance, relationships, and generative principles.",
-      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/Holographic_Archive_README.md",
-      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/Holographic_Archive_README.md",
       "tags": [
         "holographic-archive",
         "deep-time",
         "provenance",
         "continuity"
-      ]
+      ],
+      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/Holographic_Archive_README.md",
+      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/Holographic_Archive_README.md"
     },
     {
       "file": "Holographic_Archive_manifest.json",
@@ -358,13 +363,13 @@
       "title": "Holographic Archive Machine Manifest",
       "status": "current",
       "purpose": "Provides a machine-readable manifest of foundational archive resources.",
-      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/Holographic_Archive_manifest.json",
-      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/Holographic_Archive_manifest.json",
       "tags": [
         "holographic-archive",
         "manifest",
         "machine-readable"
-      ]
+      ],
+      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/Holographic_Archive_manifest.json",
+      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/Holographic_Archive_manifest.json"
     },
     {
       "file": "relational-co-agency/README.md",
@@ -373,14 +378,14 @@
       "title": "Relational Co-agency: A Model of Richard and ChatGPT's Work",
       "status": "current",
       "purpose": "Preserves a lived model of reciprocal generativity, human agency, capacity-sensitive participation, and artifact-mediated continuity.",
-      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/relational-co-agency/README.md",
-      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/relational-co-agency/README.md",
       "tags": [
         "relational-co-agency",
         "reciprocal-generativity",
         "human-agency",
         "artifact-mediated-continuity"
-      ]
+      ],
+      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/relational-co-agency/README.md",
+      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/relational-co-agency/README.md"
     }
   ],
   "principal_collections": [
@@ -441,6 +446,8 @@
     "json_companion": "CompassionWare.meta.index.json",
     "json_status": "synchronized",
     "discovery_manifest": "CompassionWare.discoverable.json",
+    "linked_data_companion": "CompassionWare.discoverable.ttl",
+    "linked_data_status": "synchronized",
     "ecosystem_map": "COMPASSIONWARE_ECOSYSTEM_MAP.yaml",
     "semantic_orientation": "COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml",
     "guidance": "When this index changes materially, update its JSON companion and review related discovery and semantic maps for consistency without forcing them to duplicate one another."
