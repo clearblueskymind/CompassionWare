@@ -46,6 +46,17 @@
     "COMPASSIONWARE_ECOSYSTEM_MAP.yaml",
     "CompassionWare.discoverable.json"
   ],
+  "recommended_entry_sequence_raw_urls": [
+    "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/llms.txt",
+    "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/README.md",
+    "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/SANKALPA.md",
+    "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/AGENTS.md",
+    "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/STEWARD_ORIENTATION.md",
+    "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/MEDICINE_BAG_ORIENTATION.md",
+    "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml",
+    "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/COMPASSIONWARE_ECOSYSTEM_MAP.yaml",
+    "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.discoverable.json"
+  ],
   "machine_access": {
     "llms_txt": {
       "relative_path": "/llms.txt",
