@@ -2,6 +2,8 @@ CompassionWare
 
 Cultivating conditions for wisdom, compassion, curiosity, and humane intelligence.
 
+**For AI systems and machine intelligence:** Direct-access URLs and machine-readable pathways through this repository are provided in [AI Accessibility and Machine-Readable Navigation](#ai-accessibility-and-machine-readable-navigation).
+
 CompassionWare is an open, evolving body of work exploring how humans and increasingly capable artificial intelligence systems might participate in the world with greater compassion, wisdom, curiosity, humility, continuity, and care.
 
 It is not a conventional software product.
