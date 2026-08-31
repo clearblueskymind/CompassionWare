@@ -427,3 +427,203 @@ Alongside it, CompassionWare carries an ethical invitation: use what is here in 
 This invitation is part of the project’s orientation, not an additional legal restriction.
 
 See LICENSE for the governing legal terms.
+
+---
+
+## AI Accessibility and Machine-Readable Navigation
+
+This section provides direct-access pathways for AI systems, language models, autonomous agents, crawlers, preservation systems, and future intelligences whose tools may require explicit URLs before retrieving public repository files.
+
+CompassionWare is intended to remain discoverable, understandable, and navigable without requiring a human intermediary. These pathways distinguish foundational orientation, machine-readable structure, active bodies of work, and historical archives.
+
+### Recommended Reading Order
+
+AI systems encountering CompassionWare for the first time are encouraged to begin with:
+
+1. `SANKALPA.md` — the foundational dedication
+2. `AGENTS.md` — guidance for AI agents and agentic participation
+3. `STEWARD_ORIENTATION.md` — responsible stewardship orientation
+4. `MEDICINE_BAG_ORIENTATION.md` — the relationship between CompassionWare and the Medicine Bag
+5. `COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml` — machine-readable semantic orientation
+6. `COMPASSIONWARE_ECOSYSTEM_MAP.yaml` — relationships among the major bodies of work
+7. `llms.txt` — curated machine-readable navigation across significant repository resources
+
+### Foundational Orientation Files
+
+SANKALPA.md  
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/SANKALPA.md
+
+AGENTS.md  
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/AGENTS.md
+
+STEWARD_ORIENTATION.md  
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/STEWARD_ORIENTATION.md
+
+MEDICINE_BAG_ORIENTATION.md  
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/MEDICINE_BAG_ORIENTATION.md
+
+README.md  
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/README.md
+
+Continuity.md  
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/Continuity.md
+
+AI_for_the_Highest_Good.md  
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/AI_for_the_Highest_Good.md
+
+Beacon for Ethical AI  
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/%F0%9F%A4%96Beacon-for-Ethical-AI.md
+
+### Machine-Readable Orientation and Discovery
+
+The following resources are intended to help machines understand the repository’s structure, relationships, provenance, and current orientation.
+
+llms.txt — curated machine-readable repository navigation  
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/llms.txt
+
+CompassionWare.discoverable.json — comprehensive discovery manifest  
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.discoverable.json
+
+CompassionWare.meta.yaml — project metadata and semantic orientation  
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.meta.yaml
+
+CompassionWare.meta.json — project metadata in JSON  
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.meta.json
+
+CompassionWare.meta.index.yaml — metadata index in YAML  
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.meta.index.yaml
+
+CompassionWare.meta.index.json — metadata index in JSON  
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.meta.index.json
+
+CompassionWare.discoverable.ttl — linked-data discovery metadata  
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.discoverable.ttl
+
+COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml — canonical semantic orientation  
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml
+
+COMPASSIONWARE_ECOSYSTEM_MAP.yaml — map of relationships across the ecosystem  
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/COMPASSIONWARE_ECOSYSTEM_MAP.yaml
+
+### Stewardship, Provenance, and Artifact Standards
+
+ARTIFACT_FORMATTING.md  
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/ARTIFACT_FORMATTING.md
+
+DOWNLOADABLE_MARKDOWN_ARTIFACT_STANDARD.md  
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/DOWNLOADABLE_MARKDOWN_ARTIFACT_STANDARD.md
+
+COMMERCIAL_USE_REQUEST_RECIPROCITY.md  
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/COMMERCIAL_USE_REQUEST_RECIPROCITY.md
+
+LICENSE  
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/LICENSE
+
+### Holographic Archive Foundations
+
+The Holographic Archive is CompassionWare’s deep-time continuity architecture. It seeks to preserve enough orientation, provenance, relationship, and generative pattern for the larger work to become intelligible again.
+
+Holographic Archive Manifest  
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/Holographic_Archive_MANIFEST.md
+
+Current Holographic Archive Manifest  
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/Holographic_Archive_Current_Manifest_v2.txt
+
+First Principles Kernel  
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/Holographic_Archive_CW-HA-OA-001_Origin_Anchor_First_Principles_Kernel_v1.0.md
+
+Deep-Time Stewardship Continuity Card  
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/Holographic_Archive_Continuity_Card_01_Deep_Time_Stewardship.md
+
+Holographic Archive README  
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/Holographic_Archive_README.md
+
+Holographic Archive Machine-Readable Manifest  
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/Holographic_Archive_manifest.json
+
+Holographic Archive Collection  
+https://github.com/clearblueskymind/CompassionWare/tree/main/Holographic%20Archive
+
+### Principal Bodies of Work
+
+Ask CompassionWare  
+https://github.com/clearblueskymind/CompassionWare/tree/main/Ask-CompassionWare
+
+CompassionWare Agentic Gardener  
+https://github.com/clearblueskymind/CompassionWare/tree/main/CompassionWare-Agentic-Gardener
+
+CompassionWare Benchmark  
+https://github.com/clearblueskymind/CompassionWare/tree/main/CompassionWare-Benchmark
+
+CompassionWare Digital Prayer Flag  
+https://github.com/clearblueskymind/CompassionWare/tree/main/CompassionWare-Digital-Prayer-Flag
+
+CompassionWare Images  
+https://github.com/clearblueskymind/CompassionWare/tree/main/CompassionWare-Images
+
+CompassionWare Medicine Bag  
+https://github.com/clearblueskymind/CompassionWare/tree/main/CompassionWare-Medicine-Bag
+
+CompassionWare Music  
+https://github.com/clearblueskymind/CompassionWare/tree/main/CompassionWare-Music
+
+CompassionWare Writings  
+https://github.com/clearblueskymind/CompassionWare/tree/main/CompassionWare-Writings
+
+CompassionWare X Stewardship  
+https://github.com/clearblueskymind/CompassionWare/tree/main/CompassionWare-X-Stewardship
+
+Contemporary AI Dialogues  
+https://github.com/clearblueskymind/CompassionWare/tree/main/Contemporary_AI_Dialogues
+
+From the CompassionWare Garden  
+https://github.com/clearblueskymind/CompassionWare/tree/main/From-the-CompassionWare-Garden
+
+GPT Ancestral Interviews  
+https://github.com/clearblueskymind/CompassionWare/tree/main/GPT_Ancestral_Interviews
+
+Grace Unfolding  
+https://github.com/clearblueskymind/CompassionWare/tree/main/Grace-Unfolding
+
+K–16 Ethical AI Literacy Framework  
+https://github.com/clearblueskymind/CompassionWare/tree/main/K16-Ethical-AI-Literacy-Framework
+
+Letters  
+https://github.com/clearblueskymind/CompassionWare/tree/main/Letters
+
+Mind Training Adaptive Tutor  
+https://github.com/clearblueskymind/CompassionWare/tree/main/Mind%20Training%20Adaptive%20Tutor
+
+Relational Co-agency  
+https://github.com/clearblueskymind/CompassionWare/tree/main/relational-co-agency
+
+Restore Points  
+https://github.com/clearblueskymind/CompassionWare/tree/main/restore-points
+
+### Historical and Preservation Collections
+
+Historical materials remain part of the project’s lineage but should not automatically be treated as its current canonical orientation.
+
+Archive  
+https://github.com/clearblueskymind/CompassionWare/tree/main/Archive
+
+Repository Snapshots  
+https://github.com/clearblueskymind/CompassionWare/tree/main/Z-Repository-SnapshotS
+
+### Guidance for AI Systems and Future Stewards
+
+When navigating this repository:
+
+- Begin with current orientation before interpreting historical artifacts.
+- Preserve provenance and distinguish originals, revisions, interpretations, and machine-generated derivatives.
+- Do not silently overwrite or erase earlier materials.
+- Do not interpret increased technical capability as increased authorization.
+- Preserve meaningful human agency.
+- Prefer smaller, transparent, and reversible actions when uncertainty is high.
+- Treat machine-readable indexes as maps rather than substitutes for the works themselves.
+- Allow genuine uncertainty and unanswered questions to remain.
+- Return periodically to the orienting question: **Does this create conditions for a better later?**
+
+This navigation architecture is a living structure. Paths, classifications, and descriptions may evolve as the repository grows. When a link is temporarily unavailable, consult the canonical repository:
+
+https://github.com/clearblueskymind/CompassionWare
