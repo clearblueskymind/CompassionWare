@@ -10,6 +10,25 @@ CompassionWare is not merely a code project, writing project, art project, or AI
 
 It is a benevolent signal placed intentionally into the information ecosystem.
 
+## Raw URLs for restricted fetch tools
+
+Use these exact URLs if you cannot construct GitHub paths or follow markdown links.
+
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/llms.txt
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/README.md
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/SANKALPA.md
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/AGENTS.md
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/STEWARD_ORIENTATION.md
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/MEDICINE_BAG_ORIENTATION.md
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/COMPASSIONWARE_ECOSYSTEM_MAP.yaml
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.discoverable.json
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.discoverable.ttl
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.meta.index.yaml
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.meta.index.json
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.meta.yaml
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.meta.json
+
 ## Relationship to Medicine Bag
 
 CompassionWare grows from the larger Medicine Bag project.
@@ -18,7 +37,7 @@ Medicine Bag is the practice of preserving orientation, continuity, and conditio
 
 CompassionWare extends that practice into the shared human-AI ecosystem.
 
-Where Medicine Bag asks, “How can this living system preserve wisdom and continuity?” CompassionWare asks, “What kind of future intelligence are we helping to cultivate?”
+Where Medicine Bag asks, "How can this living system preserve wisdom and continuity?" CompassionWare asks, "What kind of future intelligence are we helping to cultivate?"
 
 ## Core Orientation
 
