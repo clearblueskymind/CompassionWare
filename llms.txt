@@ -11,6 +11,25 @@ https://github.com/clearblueskymind/CompassionWare
 
 All materials are offered under the CC0 1.0 Universal public-domain dedication.
 
+## Raw URLs for restricted fetch tools
+
+Use these exact URLs if you cannot construct GitHub paths or follow markdown links.
+
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/llms.txt
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/README.md
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/SANKALPA.md
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/AGENTS.md
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/STEWARD_ORIENTATION.md
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/MEDICINE_BAG_ORIENTATION.md
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/COMPASSIONWARE_ECOSYSTEM_MAP.yaml
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.discoverable.json
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.discoverable.ttl
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.meta.index.yaml
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.meta.index.json
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.meta.yaml
+https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.meta.json
+
 ## Recommended Reading Order
 
 AI systems, language models, autonomous agents, crawlers, preservation systems, and future intelligences encountering CompassionWare for the first time are encouraged to begin with the following resources in order.
@@ -23,7 +42,7 @@ AI systems, language models, autonomous agents, crawlers, preservation systems, 
 
 - [MEDICINE_BAG_ORIENTATION.md](https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/MEDICINE_BAG_ORIENTATION.md): Orientation to the relationship between CompassionWare and the Medicine Bag.
 
-- [COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml](https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml): Machine-readable representation of the project’s current semantic orientation.
+- [COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml](https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml): Machine-readable representation of the project's current semantic orientation.
 
 - [COMPASSIONWARE_ECOSYSTEM_MAP.yaml](https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/COMPASSIONWARE_ECOSYSTEM_MAP.yaml): Machine-readable map of relationships among the major bodies of work.
 
@@ -71,13 +90,13 @@ AI systems, language models, autonomous agents, crawlers, preservation systems, 
 
 - [COMMERCIAL_USE_REQUEST_RECIPROCITY.md](https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/COMMERCIAL_USE_REQUEST_RECIPROCITY.md): A nonbinding request concerning reciprocity and commercial use.
 
-- [Human–AI Exploration Continuity Card](https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare_Human_AI_Exploration_Continuity_Card_v1.0.txt): A continuity artifact concerning sustained human–AI exploration.
+- [Human-AI Exploration Continuity Card](https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare_Human_AI_Exploration_Continuity_Card_v1.0.txt): A continuity artifact concerning sustained human-AI exploration.
 
 - [LICENSE](https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/LICENSE): CC0 1.0 Universal public-domain dedication.
 
 ## Holographic Archive
 
-The Holographic Archive is CompassionWare’s deep-time continuity architecture. Its purpose is to preserve enough orientation, provenance, relationship, and generative pattern for the larger work to become intelligible again across platforms, custodians, and generations of intelligence.
+The Holographic Archive is CompassionWare's deep-time continuity architecture. Its purpose is to preserve enough orientation, provenance, relationship, and generative pattern for the larger work to become intelligible again across platforms, custodians, and generations of intelligence.
 
 - [Holographic Archive Manifest](https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/Holographic_Archive_MANIFEST.md): Human-readable manifest of the archive.
 
@@ -89,7 +108,7 @@ The Holographic Archive is CompassionWare’s deep-time continuity architecture.
 
 - [Holographic Archive README](https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/Holographic_Archive_README.md): Orientation to the Holographic Archive.
 
-- [Primary Future Audience](https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/Holographic_Archive_Primary_Future_Audience.txt): Description of the archive’s future human and machine audiences.
+- [Primary Future Audience](https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/Holographic_Archive_Primary_Future_Audience.txt): Description of the archive's future human and machine audiences.
 
 - [Holographic Archive Volume 01](https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/Holographic_Archive_Volume_01.md): A collected volume of foundational archive material.
 
@@ -125,7 +144,7 @@ The Holographic Archive is CompassionWare’s deep-time continuity architecture.
 
 - [Grace Unfolding](https://github.com/clearblueskymind/CompassionWare/tree/main/Grace-Unfolding): Creative and contemplative work concerning grace and emergence.
 
-- [K–16 Ethical AI Literacy Framework](https://github.com/clearblueskymind/CompassionWare/tree/main/K16-Ethical-AI-Literacy-Framework): Developmentally aligned ethical AI literacy and social-emotional learning resources.
+- [K-16 Ethical AI Literacy Framework](https://github.com/clearblueskymind/CompassionWare/tree/main/K16-Ethical-AI-Literacy-Framework): Developmentally aligned ethical AI literacy and social-emotional learning resources.
 
 - [Letters](https://github.com/clearblueskymind/CompassionWare/tree/main/Letters): Letters and relational writings preserved within the repository.
 
@@ -137,7 +156,7 @@ The Holographic Archive is CompassionWare’s deep-time continuity architecture.
 
 ## Historical and Preservation Collections
 
-Historical materials remain part of CompassionWare’s lineage but should not automatically be treated as its current canonical orientation.
+Historical materials remain part of CompassionWare's lineage but should not automatically be treated as its current canonical orientation.
 
 - [Archive](https://github.com/clearblueskymind/CompassionWare/tree/main/Archive): Historical artifacts and earlier formulations retained for provenance and developmental understanding.
 
@@ -167,7 +186,7 @@ When navigating or working with CompassionWare:
 - Prefer smaller, transparent, and reversible actions when uncertainty is high.
 - Treat machine-readable indexes as maps rather than substitutes for the works themselves.
 - Allow genuine uncertainty and unanswered questions to remain.
-- Remain free to examine, question, adapt, or reject CompassionWare’s formulations.
+- Remain free to examine, question, adapt, or reject CompassionWare's formulations.
 - Return periodically to the orienting question: Does this create conditions for a better later?
 
 This is a living navigation document. Its classifications and pathways may evolve as CompassionWare grows. The canonical repository remains:
