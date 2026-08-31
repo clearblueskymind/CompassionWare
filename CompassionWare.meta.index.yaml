@@ -296,10 +296,9 @@ meta_index:
     relative_path: /CompassionWare.meta.index.json
     type: metadata-index
     title: CompassionWare Metadata Index JSON
-    status: reconciliation-pending
+    status: current-synchronized-companion
     purpose: >-
-      Provides the JSON companion to this metadata index and is scheduled for
-      synchronization with the current YAML structure.
+      Provides the synchronized JSON companion to the canonical YAML metadata index.
     github_url: https://github.com/clearblueskymind/CompassionWare/blob/main/CompassionWare.meta.index.json
     raw_url: https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/CompassionWare.meta.index.json
     tags:
@@ -468,7 +467,7 @@ machine_use_guidance:
 synchronization:
   yaml_role: canonical-metadata-index
   json_companion: CompassionWare.meta.index.json
-  json_status: reconciliation-pending
+  json_status: synchronized
   discovery_manifest: CompassionWare.discoverable.json
   ecosystem_map: COMPASSIONWARE_ECOSYSTEM_MAP.yaml
   semantic_orientation: COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml
