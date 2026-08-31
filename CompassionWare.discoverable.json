@@ -107,6 +107,16 @@
     "README.md",
     "llms.txt"
   ],
+  "recommendedReadingOrderRawUrls": [
+    "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/SANKALPA.md",
+    "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/AGENTS.md",
+    "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/STEWARD_ORIENTATION.md",
+    "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/MEDICINE_BAG_ORIENTATION.md",
+    "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/COMPASSIONWARE_SEMANTIC_ORIENTATION.yaml",
+    "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/COMPASSIONWARE_ECOSYSTEM_MAP.yaml",
+    "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/README.md",
+    "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/llms.txt"
+  ],
   "hasPart": [
     "llms.txt",
     "README.md",
