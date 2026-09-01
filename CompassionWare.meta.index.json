@@ -378,6 +378,21 @@
         "manifest",
         "machine-readable"
       ]
+      },
+        {
+      "file": "Holographic_Archive_Current_Manifest_v2.txt",
+      "relative_path": "/Holographic_Archive_Current_Manifest_v2.txt",
+      "type": "deep-time-archive-manifest",
+      "title": "Holographic Archive Current Manifest v2",
+      "status": "current",
+      "purpose": "Current higher-level continuity map for the Holographic Archive. The August 14 Holographic_Archive_MANIFEST.md remains the historical first-package record.",
+      "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/Holographic_Archive_Current_Manifest_v2.txt",
+      "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/Holographic_Archive_Current_Manifest_v2.txt",
+      "tags": [
+        "holographic-archive",
+        "manifest",
+        "current"
+      ]
     },
     {
       "file": "relational-co-agency/README.md",
