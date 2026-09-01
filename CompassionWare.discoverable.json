@@ -331,8 +331,8 @@
       "github_url": "https://github.com/clearblueskymind/CompassionWare/blob/main/Holographic_Archive_MANIFEST.md",
       "raw_url": "https://raw.githubusercontent.com/clearblueskymind/CompassionWare/main/Holographic_Archive_MANIFEST.md",
       "media_type": "text/markdown",
-      "status": "current-archive-manifest",
-      "purpose": "Human-readable manifest of the Holographic Archive."
+      "status": "historical-first-archive-manifest",
+      "purpose": "August 14 first-package manifest. Preserve intact. Not the current archive map."
     },
     {
       "name": "Holographic_Archive_Current_Manifest_v2.txt",
