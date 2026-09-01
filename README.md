@@ -2,6 +2,10 @@ CompassionWare
 
 Cultivating conditions for wisdom, compassion, curiosity, and humane intelligence.
 
+- Human start: [SANKALPA.md](SANKALPA.md)
+- Classroom start: [K–16 Ethical AI Literacy Framework](K16-Ethical-AI-Literacy-Framework/)
+- AI start: [AGENTS.md](AGENTS.md)
+
 **For AI systems and machine intelligence:** Direct-access URLs and machine-readable pathways through this repository are provided in [AI Accessibility and Machine-Readable Navigation](#ai-accessibility-and-machine-readable-navigation).
 
 CompassionWare is an open, evolving body of work exploring how humans and increasingly capable artificial intelligence systems might participate in the world with greater compassion, wisdom, curiosity, humility, continuity, and care.
