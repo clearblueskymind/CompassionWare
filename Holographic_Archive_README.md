@@ -33,6 +33,12 @@ The archive should not merely store everything. It should distinguish among:
 - `Holographic_Archive_manifest.json`
 - `Holographic_Archive_Volume_01.md`
 
+## Current manifest
+
+The current higher-level archive map is `Holographic_Archive_Current_Manifest_v2.txt`.
+
+`Holographic_Archive_MANIFEST.md` is the August 14 first-package record. Keep it. It is not the current map.
+
 ## Preservation principle
 
 Every important surviving fragment should carry enough context to help the larger whole become intelligible again.
