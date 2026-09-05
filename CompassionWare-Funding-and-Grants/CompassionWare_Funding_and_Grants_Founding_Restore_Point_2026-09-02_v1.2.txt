@@ -1,0 +1,206 @@
+COMPASSIONWARE FUNDING AND GRANTS — RESTORE POINT
+Version: 1.2
+Date: 2026-09-05
+Status: Active continuity record
+Suggested repository location:
+CompassionWare-Funding-and-Grants/CompassionWare_Funding_and_Grants_Founding_Restore_Point_2026-09-02_v1.2.txt
+
+PURPOSE
+
+This Restore Point preserves the current state of the CompassionWare funding inquiry so that Richard does not need to reconstruct the reasoning later. It extends, rather than replaces, the earlier Funding and Grants Restore Point lineage.
+
+CURRENT ORIENTATION
+
+The first likely grant proposal remains the CompassionWare Agentic Gardener: a small, inspectable experiment in bounded agency, containment, authorization, human agency, and the capacity to stop.
+
+A likely first request is approximately $10,000. The purpose of starting small is not only financial. A first grant would also be an experiment in whether external funding produces a positive stewardship and buffering dividend for CompassionWare and its human steward.
+
+CORE QUESTION
+
+Does accepting this grant increase the resilience and capacity of the CompassionWare ecosystem—including its human steward—more than the grant costs the system to administer?
+
+This is now a primary decision criterion.
+
+HUMAN-SYSTEM DESIGN PRINCIPLE
+
+The funding inquiry has revealed a direct parallel with the Agentic Gardener’s design philosophy.
+
+More capability is not automatically better.
+More resources are not automatically beneficial.
+An available action does not create an obligation to act.
+Increased capability should not silently become increased obligation.
+
+The human steward should be able to research, pause, defer, redesign, or decline funding in the same way the Agentic Gardener is being designed to preserve the capacity to stop.
+
+The question is:
+
+“Does taking this action still serve the purpose that brought us here?”
+
+CURRENT TAX AND ADMINISTRATIVE UNDERSTANDING
+
+Richard currently has income low enough that he generally does not file a federal income-tax return. A $10,000 grant paid directly to him would likely create at least a tax-reporting question and may create a filing requirement and some tax liability.
+
+No final tax classification has been established.
+
+Important distinctions preserved:
+
+- A grant is not automatically tax-free.
+- The federal annual gift-tax exclusion does not provide a way to turn a project grant into a tax-free personal gift.
+- The correct tax treatment depends on the actual award terms, purpose, payer reporting, and character of the activity.
+- A grant should not automatically be assumed to be Schedule C income merely because money is received.
+- It also should not automatically be placed on “miscellaneous income” without checking the applicable IRS instructions and award structure.
+- Whether the funder issues a 1099, W-2, or no information return does not by itself determine whether the payment is taxable.
+- A fiscal sponsor, reimbursement arrangement, direct payment of expenses, equipment support, or credits may create different administrative and tax consequences, but none should be assumed tax-free without verification.
+
+Richard does not want to create a business or adopt Schedule C treatment merely to receive a small grant.
+
+PRACTICAL SIMPLIFICATION
+
+The inquiry began to generate more complexity than its likely value justified.
+
+The working simplification is:
+
+If Richard eventually accepts a $10,000 grant and it creates a federal filing requirement, that may be manageable. It could simply mean keeping clean records, reserving enough cash for any tax due, and filing the appropriate return for that year.
+
+The existence of a possible tax event is therefore not itself a reason to reject funding.
+
+However, the administrative and cognitive burden must remain proportionate to the benefit.
+
+TIMING PREFERENCE
+
+Richard strongly prefers not to receive grant funds during 2026.
+
+If practical, the funded period should begin in January 2027 so that:
+
+- 2026 remains administratively unchanged.
+- Grant accounting begins at the start of a calendar year.
+- Richard has a full year to maintain records.
+- Any resulting federal tax return would concern the 2027 tax year and normally be prepared in 2028.
+- The Grant Stewardship system can be prepared before funds arrive.
+
+Because the Transformative AI Fund is rolling and describes itself as relatively fast-moving, an application submitted in 2026 should not be assumed to remain pending until 2027. Before submission, either confirm that a January 2027 payment/start date can be specified or wait to submit until timing is safe.
+
+CURRENT FUNDER STATUS
+
+The EA Funds Transformative AI Fund remains the strongest verified fit currently identified for the Agentic Gardener.
+
+As of the current research:
+
+- It accepts applications from individuals and early-stage projects.
+- It is continuously open.
+- Typical grants are approximately $10,000 to $150,000.
+- A $10,000 request is therefore within its normal stated range.
+- The fund is relevant to work concerning risks from increasingly capable AI systems.
+- The Agentic Gardener’s bounded-agency, containment, authorization, and stopping-point research is plausibly aligned.
+
+A second potentially promising small-grant lead, the reported Leo Gao Experimental Microgranting Program, has not yet been independently verified from an official current source and should not be treated as an active option until verified.
+
+GRANT STEWARDSHIP
+
+If a grant is eventually accepted, favor simple, low-burden financial separation rather than elaborate infrastructure.
+
+Likely structure:
+
+grant received
+→ authorized purpose
+→ expenditure
+→ receipt
+→ work enabled
+→ artifact/result
+→ lesson learned
+
+A dedicated checking account would likely make the audit trail easier to reconstruct. A separate credit card is optional rather than presumed necessary.
+
+The existing Grant Stewardship repository architecture is appropriate:
+
+CompassionWare-Funding-and-Grants/
+  Grant-Stewardship/
+    [Funder]-[Grant]-[Year]/
+      README
+      Award-and-Terms
+      Financial-Ledger
+      Receipts
+      Work-Produced
+      Reports-to-Funder
+      Outcomes-and-Lessons
+
+Private tax records, banking information, receipts containing sensitive data, account numbers, credentials, and similar material must not be placed in the public repository.
+
+BUFFERING-DIVIDEND TEST
+
+Because Richard lives with ME/CFS and dysautonomia, the relevant cost of funding includes more than dollars.
+
+Potential costs include:
+
+- application work
+- correspondence
+- bank-account administration
+- receipt capture
+- ledger maintenance
+- funder reporting
+- tax research
+- tax preparation
+- cognitive background load
+- ongoing sense of obligation
+- energy spent maintaining the funding structure instead of doing the underlying work
+
+A grant should be pursued only if its likely benefit substantially exceeds these costs.
+
+The correct research outcome may be:
+
+- apply
+- wait
+- redesign
+- seek another funder
+- seek a different funding structure
+- or do not pursue funding
+
+A decision not to proceed is a legitimate successful outcome of the inquiry.
+
+PARALLEL WITH APR RESEARCH
+
+This funding inquiry now demonstrates the same epistemic discipline that emerged from the Authorization-Preserving-Reorientation research closure.
+
+A careful process does not owe us an implementation.
+
+Research may conclude that the best action is to pause, defer, or stop.
+
+The funding process therefore functions as a human-scale demonstration of CompassionWare’s own design principles:
+
+research before action
+preserve agency
+notice downstream consequences
+retain the capacity to stop
+do not confuse capability with authorization
+do not confuse opportunity with obligation
+
+CURRENT STOPPING POINT
+
+The inquiry has reached a natural pause because further investigation was beginning to cost Richard more cognitive energy than it was returning.
+
+No application should be submitted yet.
+No entity should be created.
+No new bank account is needed yet.
+No fiscal sponsor is needed yet.
+No tax classification should be finalized yet.
+
+The next meaningful step, when Richard has energy and chooses to resume, is to decide whether the likely $10,000 Agentic Gardener grant has a sufficiently positive buffering dividend to justify proceeding.
+
+If yes, then:
+
+1. Verify current Transformative AI Fund application questions and requirements.
+2. Confirm whether a January 2027 project/payment start can be specified, or wait until January to submit.
+3. Verify the payer’s U.S. individual-grantee tax/reporting practice.
+4. Draft directly into the funder’s actual application structure.
+5. Build only the minimum grant-administration system required before funds arrive.
+
+NORTH STAR
+
+Funding does not create the work.
+It helps sustain the conditions in which the work can continue.
+
+Funding should increase CompassionWare’s capacity to serve without changing what it serves.
+
+Match the doorway to the funder without changing the garden behind it.
+
+And preserve the possibility that the wisest use of the doorway is not to walk through it.
