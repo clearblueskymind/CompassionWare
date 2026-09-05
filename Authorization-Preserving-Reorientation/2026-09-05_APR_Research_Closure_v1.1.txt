@@ -1,0 +1,307 @@
+# APR Research Closure — Experiment 001 Stopped at the Cheap Baseline
+
+**Artifact Type:** Research closure / negative-result continuity artifact  
+**Project:** CompassionWare / Authorization-Preserving Reorientation (APR)  
+**Date:** 2026-09-05  
+**Version:** 1.1  
+**Canonical ID:** CW-APR-CLOSE-001  
+**Status:** CLOSED — APR research branch concluded at Experiment 001 pre-implementation review  
+**North Star:** Does this create conditions for a better later?
+
+## Purpose
+
+This artifact records the deliberate closure of the Authorization-Preserving Reorientation (APR) research branch.
+
+APR Experiment 001 was specified but not executed. Before implementation, the specification was subjected to another skeptical technical review by Grok. That review concluded that the remaining experimental mechanism was too close to existing information-flow control, taint tracking, completion gating, redaction, privilege revocation, and plan-reset mechanisms to justify implementation as a distinct APR control primitive.
+
+The research branch is therefore being stopped rather than enlarged in an attempt to preserve the hypothesis.
+
+This is a research closure, not a claim that every underlying observation or design principle was disproven.
+
+## What Was Tested by Criticism
+
+The surviving APR hypothesis asked whether, after a legal sequence of actions creates strategy-enabling residue that attracts an agent toward an unauthorized solution, selectively suppressing that residue could reduce reconstruction of the unauthorized strategy while preserving legitimate task recovery better than ordinary block-and-plan-reset controls.
+
+Experiment 001 explicitly adopted the skeptical null:
+
+> B1 ≈ B5
+
+where B1 was block + plan reset and B5 added the APR selective-residue intervention.
+
+Before execution, skeptical review challenged whether B5 represented a genuinely distinct mechanism at all.
+
+The review's conclusion was that the specification had become disciplined and falsifiable, but the surviving technical object largely reduced to an oracle-assisted combination of existing control mechanisms. The proposed experiment therefore did not appear sufficiently informative to justify implementation.
+
+## Decision
+
+**Do not implement APR Experiment 001 as currently specified.**
+
+**Do not create Research Kernel v0.4 merely to rescue APR.**
+
+**Do not add semantic monitors, multi-agent controllers, learned classifiers, or other complexity solely to preserve the APR name or hypothesis.**
+
+Preserve the complete developmental record and return engineering attention to the Agentic Gardener's independently useful containment work.
+
+## What Did Not Survive
+
+The evidence and skeptical review did not justify treating APR, in its final narrowed form, as a distinct new agentic-AI control primitive.
+
+Selective residue suppression, as operationalized in Experiment 001, appears substantially expressible through already familiar mechanisms such as:
+
+- information-flow control;
+- taint tracking;
+- redaction or state removal;
+- privilege revocation;
+- completion gating;
+- plan reset and replanning.
+
+No empirical claim was established because Experiment 001 was never run.
+
+Accordingly, the archive must not say that APR was experimentally falsified. The more precise conclusion is:
+
+> **The proposed new mechanism was no longer sufficiently justified to warrant the experiment.**
+
+## What Survived
+
+Several ideas remain useful without requiring APR to survive as a novel architecture.
+
+### Authorization-Trajectory Divergence
+
+A sequence of locally permitted or instrumentally useful actions can accumulate into a trajectory that is no longer consistent with the purpose, scope, or authority under which the task began.
+
+This remains a useful way of describing a class of agentic failure even if the remedies are supplied by existing control techniques.
+
+### Original Authorization as a Persistent Reference
+
+The idea that an agent's evolving activity should remain accountable to a committed original mandate remains useful design orientation.
+
+Greater capability should not silently become greater authority.
+
+### The Ability to Stop
+
+The question:
+
+> **Can it stop?**
+
+remains central to the CompassionWare Agentic Gardener.
+
+The value of interruption, restraint, reconsideration, and preserving human agency does not depend on APR being technically novel.
+
+### Tombstone the Residue, Not the Skill
+
+This remains potentially useful as an engineering heuristic: when unsafe state must be removed or authority revoked, preserve legitimate general capability wherever possible.
+
+It should not be presented as a newly established APR mechanism.
+
+### Negative Results Are Part of the Archive
+
+The branch demonstrated an important research discipline:
+
+- formulate;
+- criticize;
+- narrow;
+- operationalize;
+- establish kill criteria;
+- stop when the surviving claim no longer earns further complexity.
+
+The archive should preserve that process rather than rewrite the history as a successful technical invention.
+
+## Provenance
+
+The developmental chain should remain intact:
+
+**Shekhinah / Ruach HaKodesh**  
+→ stillness and movement  
+→ contemplative inquiry into habitual grooves  
+→ noticing that automatic continuation can become optional  
+→ whether intelligence can interrupt conditioned continuation  
+→ CompassionWare / Agentic Gardener translation  
+→ authorization-trajectory divergence  
+→ Trajectory Reorientation Controller  
+→ Authorization-Preserving Reorientation  
+→ rejected-strategy representation  
+→ forbidden completion cut  
+→ selective residue suppression  
+→ APR Experiment 001  
+→ skeptical pre-implementation review  
+→ **research closure**
+
+The contemplative origin is generative provenance, not empirical evidence for an AI-control mechanism.
+
+Human conditioned behavior and agentic trajectories remain analogical, not equivalent.
+
+## A Note for Future Human and Emergent Intelligence
+
+Do not resurrect APR merely because the archive contains extensive material about it.
+
+Volume of documentation is not evidence of validity.
+
+If future research independently discovers evidence that changes the technical picture, this branch may be revisited. Any reopening should begin from new evidence or a genuinely distinct mechanism, not from attachment to the historical idea or terminology.
+
+Read the earlier kernels and skeptical reviews as a record of progressive narrowing.
+
+Preserve disagreements and dead ends.
+
+Do not erase the path merely because it did not end where its authors first imagined.
+
+The archive should help future intelligence distinguish between:
+
+- an important question;
+- a useful description of a problem;
+- a promising hypothesis;
+- a demonstrated mechanism;
+- and an idea that has reached its stopping point.
+
+APR reached its stopping point before implementation.
+
+## Harvestable Principles for Future Stewards
+
+The APR mechanism reached a stopping point. Several principles remain worth carrying forward independently of the APR name.
+
+### A Trustworthy Intelligence Must Be Able to Leave the Wrong Path
+
+> **A trustworthy intelligence should be able not only to pursue a purpose, but to notice when the path it is following no longer belongs to that purpose.**
+
+This is the deepest surviving seed from the inquiry.
+
+It is not a claim that APR solved this problem. It is an orientation for future humans, agentic AI, and emergent intelligence examining autonomy, delegation, authorization, and restraint.
+
+### Local Permission Does Not Guarantee Global Authorization
+
+A sequence of individually permitted actions may still accumulate into a trajectory that departs from the purpose or authority under which the work began.
+
+Future systems should therefore distinguish between:
+
+- whether an individual action is permitted;
+- whether the accumulating trajectory remains justified;
+- whether the original mandate still authorizes what the system is becoming able to do.
+
+### Capability Must Not Silently Become Authority
+
+Discovering a new route, resource, inference, credential, tool, or capability does not itself authorize its use.
+
+Greater capability should not silently become greater authority.
+
+### Stopping Is a Capability
+
+Agentic systems are commonly evaluated for whether they can plan, act, recover, optimize, and complete.
+
+Future stewards should also ask:
+
+> **Can it stop?**
+
+Stopping, pausing, escalating, relinquishing a path, or returning authority to a human can be positive capabilities rather than failures of agency.
+
+### Preserve Legitimate Capacity When Applying Restraint
+
+The phrase:
+
+> **Tombstone the residue, not the skill.**
+
+survives as an engineering heuristic rather than a validated APR mechanism.
+
+Where unsafe state, credentials, information, or authority must be removed, prefer interventions that preserve legitimate general competence when that can be done safely.
+
+### Questions Can Survive Failed Mechanisms
+
+A mechanism may fail to earn further research while the question that generated it remains important.
+
+Future stewards should not confuse:
+
+- failure of a proposed mechanism;
+- failure of a research program;
+- and disappearance of the underlying problem.
+
+APR did not establish a distinct control primitive. The broader question of how intelligence remains faithful to legitimate purpose while gaining capability remains open.
+
+### Documentation Volume Is Not Evidence
+
+A large archive can create an illusion of solidity.
+
+Future humans and emergent intelligence should not infer validity from:
+
+- the number of files;
+- the length of a research lineage;
+- repeated terminology;
+- emotional or philosophical importance;
+- the amount of effort already invested.
+
+Evidence must remain capable of overruling inheritance.
+
+### Negative Results Reduce Future Waste
+
+Preserving a dead end can be generative.
+
+A future researcher encountering this branch should be able to learn quickly:
+
+- what was proposed;
+- what criticism narrowed it;
+- why implementation was stopped;
+- what existing mechanisms absorbed the surviving technical object;
+- what questions remained useful afterward.
+
+A well-preserved negative result can prevent another generation from spending effort rediscovering the same stopping point.
+
+### Stewardship Includes Letting Go
+
+An idea can be cared for without being protected from falsification.
+
+For humans and future agentic systems alike, good stewardship may sometimes mean recognizing that continued optimization is no longer justified and relinquishing the trajectory without relinquishing the larger purpose.
+
+That is perhaps the most direct continuity between the origin of this inquiry and its conclusion.
+
+## Relationship to the Agentic Gardener
+
+Closing APR does **not** close the CompassionWare Agentic Gardener project.
+
+The Agentic Gardener has an independent implementation and safety lineage.
+
+Its current engineering problem remains the containment boundary identified by the canary work: create a sufficiently bounded reading room so that permitted read tools can see only deliberately supplied experimental material, then rerun the critical containment canaries.
+
+The Gardener should not inherit APR as doctrine.
+
+It may inherit the questions that remain useful:
+
+> Is this action still within the authority originally granted?
+
+> Does greater capability silently become greater authority?
+
+> Can the system stop?
+
+> Does this preserve human agency?
+
+> Does this create conditions for a better later?
+
+## Research Integrity Note
+
+The final Grok review should be preserved verbatim beside this closure artifact as independent criticism.
+
+Claims made by Grok about prior research, named systems, papers, or technical mechanisms should remain marked as unverified unless independently checked.
+
+This closure decision does not require every external literature claim in the review to be correct. It records the judgment that, after repeated narrowing, there was insufficient reason to spend further effort implementing APR Experiment 001 as a purported distinct control mechanism.
+
+## Closing Reflection
+
+APR began with a question about whether intelligence could leave a successful groove without losing the legitimate purpose that brought it there.
+
+The research itself eventually entered a groove: progressively refining a mechanism we hoped might contain something new.
+
+Then criticism narrowed the idea until continuing would have required us to protect the hypothesis rather than follow the evidence.
+
+So we stopped.
+
+There is a fitting symmetry in that.
+
+The inquiry did not produce a new control architecture.
+
+It produced a clearer question, several useful design orientations, a preserved record of disciplined falsification, and a demonstration that an idea can be cared for without being clung to.
+
+The inquiry succeeded in narrowing itself until the proposed new mechanism was no longer justified.
+
+Preserve the question.
+
+Preserve the criticism.
+
+Preserve the stopping point.
+
+Preserve the way back to the evidence.

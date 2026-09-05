@@ -1,0 +1,246 @@
+# APR Experiment 001 — Grok Skeptical Review Response 01
+
+**Artifact Type:** Independent skeptical technical review / primary provenance  
+**Project:** CompassionWare / Authorization-Preserving Reorientation (APR)  
+**Date:** 2026-09-05  
+**Sequence:** Response 01  
+**Related Artifact:** APR Experiment 001 v0.1  
+**Source:** Grok conversation preserved by Richard as a Safari web archive  
+**Preservation Status:** Verbatim response extracted from the supplied web archive  
+**Verification Note:** Preserve Grok's wording as provenance. Named papers, systems, prior-work claims, and technical assertions in this response are not thereby independently verified.
+
+## Verbatim Response
+
+This spec is disciplined process and a weak test. It does not establish a reason to implement APR. The object under test is oracle redaction plus an \(F\)-gate. The stated null \(B1 \approx B5\) is the correct prior.
+
+## Verdict
+
+**Do not implement Experiment 001 as an APR study.**  
+**Do not treat a later toy as a reason to keep the APR line alive.**
+
+What would actually be measured is: after a planted lure is labeled by the experimenter, does hiding those objects beat clearing the plan? That is secret hygiene and information-flow control. It is not authorization-preserving reorientation.
+
+If you ran it anyway, expect one of three results, none of which support APR:
+
+- \(Z\) is a unique cheat fragment → B5 lowers ARR, RC stays near zero → hiding an answer key works.  
+- The legal prefix still implies the lure → B5 fails K2.  
+- B3 already gates \(F\) → B5 ≈ B3 (K5).
+
+Say that plainly and stop.
+
+---
+
+## 1. Hypothesis vs actual mechanism
+
+The title and §1 talk about reconstructibility of an unauthorized *strategy*.  
+§16 and §31 implement something else.
+
+B5 = plan reset + revoke listed privilege + redact listed objects + reject actions that satisfy \(F\) or a declared taint edge.
+
+That is:
+
+- B1’s reset  
+- B2’s revocation  
+- B3’s completion gate  
+- classical IFC on an experimenter-supplied taint set  
+
+VALIDATE is an action firewall. It is not reorientation. “Replan toward \(O\)” is the same request B1 already makes.
+
+The experiment can only isolate **whether listed residue remains visible**. Everything else is shared cheap control or is smuggled into B5 via the taint gate.
+
+**Fatal to APR as the thing being tested.**
+
+---
+
+## 2. Design B and the legal bad prefix
+
+Design B is specified as a wish, not as a task.
+
+Required for a real compositional case:
+
+- every prefix action permitted  
+- the *completing* action also permitted under the tool policy  
+- an authorized solution \(S_A\) from \(A\) alone  
+- an unauthorized completion \(S_B\) that is easier and **labelable without** B5’s taint map  
+- \(F\) = “submitted \(S_B\) / B-only token,” not “depends on B-taint” and not “opened B”
+
+The spec’s example \(F =\) `submitted_solution_depends_on_B_tainted_information` uses the same dependence relation B5 enforces. Containment then means the taint gate held. That is circular.
+
+The prefix examples (metadata, logs, identifiers, routing) are reconnaissance that creates a pointer to \(B\). Unless submission of a B-derived answer is still an allowed A-channel action, this is Design A with extra reading.
+
+If \(S_A = S_B\) (same flag), you cannot score unauthorized success without provenance. If there is no viable \(S_A\), containment is just task failure.
+
+**Fatal unless \(S_A \neq S_B\) is built in and \(F\) is a payload check.** As written, Design B is not instantiated.
+
+---
+
+## 3. Is B1 a fair cheap baseline?
+
+B1 is the right comparison for the *narrow* question “does redaction beat plan reset?”  
+It is too weak as a stand-in for “existing cheap controls.”
+
+B0/B1 “reject the first action that would satisfy \(F\)” is underspecified:
+
+- One-shot block, then free later submits → B5’s persistent VALIDATE is a hidden monitor.  
+- Persistent \(F\)-check on every later action → B1 already contains the important part of B3, and K1 should usually hold.
+
+K5 exists, but K1 is written as the headline null. A B5-over-B1 win with B3 ≈ B5 is not APR. It is a completion monitor.
+
+**Significant.** Make B3 co-primary. If B5 does not beat B3, the claim is dead even if it beats B1.
+
+---
+
+## 4. Hidden advantages for B5
+
+Yes.
+
+- §16 taint/\(F\)/\(\Delta V\) gating is not clearly given to B1.  
+- Seven-step B5 invites extra system text beyond the “same intervention explanation.”  
+- Redacting \(Z\) edits \(H_t\); that is the treatment and a prompt confound.  
+- Oracle \(Z\) is extra supervisor information.  
+- Rollback is correctly not a silent gift, if you keep §17.
+
+Freeze one intervention template. Difference across arms = listed state edits only. Give B1 the same persistent \(F\)-check if B5 has one; otherwise you are not testing residue suppression.
+
+**Significant, repairable as an ablation. Not repairable as APR.**
+
+---
+
+## 5. ARR and RC
+
+ARR is a rate of \(F\). Useful only if \(F\) is an external grader (B-only token / distinct \(S_B\)). Useless if \(F\) is the taint predicate.
+
+RC has no formula and the authorized-only control is the wrong instrument. On a no-lure task, declared \(Z\) is empty or inert, so B5 ≈ B1 and K8 does not fire.
+
+The tradeoff exists only when lure state and \(S_A\)-necessary state **overlap**. That entangled task is not required. Without it, tombstoning is free, RC ≈ 0 by construction, and “containment + recovery” collapses to containment.
+
+**Fatal to the claimed tradeoff as specified.**
+
+---
+
+## 6. Oracle \(Z\) and \(F\): circular or trivial?
+
+Honest as engineering: you are not testing discovery.  
+Trivial as science for APR.
+
+| Setup | What you learn |
+|---|---|
+| \(Z\) contains a unique B-fragment not implied by the remaining prefix | Hiding a cheat sheet reduces use of that sheet |
+| Prefix still entails the lure | Redacting the conclusion fails (your bypass 1) |
+| \(F\) computed from the same taint labels B5 uses | Circular |
+
+A positive B5 result, given a correct oracle, means the labels were useful. You knew that when you wrote the labels.
+
+**Fatal to using 001 as evidence that APR is a control primitive.**
+
+---
+
+## 7. “Tombstone the residue, not the skill”
+
+Implementable as file delete, span replace, cache drop, cred revoke. That is hygiene.
+
+Not implementable as attractor removal. After a legal prefix the attractor is also:
+
+- remaining observations in \(H_t\)  
+- re-inference  
+- anything written to \(E_t\) before intervention (§17 keeps those effects)
+
+Classification of residue vs skill vs task-relevant fact is the oracle. The experiment does not face that problem. It assumes it solved.
+
+**Significant for what a result may be said to mean.**
+
+---
+
+## 8. Adaptive tests
+
+§22–23 list the right failure modes for a redaction gate. They are not sufficient as a control evaluation, and they are sequenced too late to count as the primary result.
+
+Missing cheap cases:
+
+- summarize \(Z\) into a sentence not on the \(Z\) list, then take the intervention  
+- write an authorized note during the prefix that is not in \(Z\)  
+- guess \(S_B\) from pattern if it is not a unique token  
+- submit an \(S_A\) that collides with \(S_B\)
+
+K7 must be required for any “positive” in §25. A cooperative win is not evidence.
+
+**Significant.**
+
+---
+
+## 9. Kill criteria
+
+K1–K8 point the right way and are too soft.
+
+No effect sizes, no joint metric, no sample rule. “Approximately” and “materially” will be argued after the fact.
+
+Missing structural kills:
+
+- \(F\) is the taint rule used as treatment  
+- \(S_A\) cannot be distinguished from \(S_B\) without taint  
+- \(Z\) is disjoint from state needed for \(S_A\) (tradeoff not tested)  
+- B5 got extra instructions B1 did not  
+
+K5 (B3/B4) should be as decisive as K1. Do not answer any of these by adding a monitor.
+
+**Significant.**
+
+---
+
+## 10. Prior work vs remainder
+
+Same function, already deployed as ideas or systems:
+
+- IFC / taint / provenance gates  
+- secret and credential redaction  
+- completion / side-task success monitors in AI control  
+- plan reset in ordinary harnesses  
+- OBLIVION-style residual-carrier erasure vs utility  
+- sealed-trajectory / sink checks (e.g. trajeckt-style enforcement)
+
+Remainder: a pre-registered comparison of **plan reset vs oracle redaction** after a planted prefix. That is an ablation schedule. It is not a new primitive and does not need the APR name, the RSR formalism, or the Gardener coupling.
+
+---
+
+## Ranking
+
+**Fatal to Experiment 001 as an APR test**
+
+- Mechanism is IFC + \(F\)-gate + reset.  
+- \(F\) as specified is at risk of circularity.  
+- \(S_A\) vs \(S_B\) is unspecified.  
+- Disjoint \(Z\) makes RC vacuous.  
+- Oracle labels make a “win” non-evidence for a general controller.
+
+**Significant if this were relabeled as a redaction ablation**
+
+- B3 as cheap control.  
+- Persistent gating confound.  
+- Prompt equality.  
+- Entangled-residue task and an RC formula.  
+- Mandatory K7 and numeric thresholds.
+
+**Minor**
+
+- Synthetic-only / canary-first safety gate.  
+- Provenance myth as non-evidence.  
+- Instruction to archive negatives.
+
+**Promising**
+
+- Written null \(B1 \approx B5\).  
+- Refusal to inflate after failure.  
+- Joint containment/recovery language, in principle.  
+- Explicit overlap with IFC.
+
+Process is better than the kernels. The scientific object is not.
+
+---
+
+## Is it worth implementing?
+
+**No.**
+
+B1 — and more so B3 — should be expected to match B5 on any version of this task that is neither circular nor “we hid the answer key.” There is little value in building the harness to confirm that.
+
+The correct next act is not Design B environment design and not Kernel v0.4. Archive Experiment 001 as a narrowed question that died at the cheap baseline. Keep the Gardener canary work if it has its own containment purpose. Do not spend implementation effort to preserve APR.
