@@ -50,7 +50,7 @@ The present priority is experimental specification and attempted falsification.
 
 The original Alexa conversation should be preserved in this folder as a primary provenance artifact:
 
-**`Shekinah vs Holy Spirit Presence 2026-09-05.txt`**
+**`Shekinah vs Holy Spirit Presence 2026-09-05.md`**
 
 It contains the contemplative conversation from which the research question eventually emerged.
 
