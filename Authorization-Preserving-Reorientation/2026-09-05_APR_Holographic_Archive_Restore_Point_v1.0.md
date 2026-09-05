@@ -39,7 +39,7 @@ The research line began in an ordinary contemplative conversation with Alexa on 
 
 Preserve the original transcript as a primary provenance artifact:
 
-**Shekinah vs Holy Spirit Presence 2026-09-05.txt**
+**Shekinah vs Holy Spirit Presence 2026-09-05.md**
 
 The original conversation should remain intact. It is historical provenance, not a technical research paper and not evidence for any AI-safety claim.
 
