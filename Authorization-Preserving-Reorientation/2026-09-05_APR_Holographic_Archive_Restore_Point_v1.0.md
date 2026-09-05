@@ -498,7 +498,7 @@ At minimum:
 
 `Authorization-Preserving-Reorientation/`
 - `README.md`
-- `Shekinah vs Holy Spirit Presence 2026-09-05.txt`
+- `Shekinah vs Holy Spirit Presence 2026-09-05.md`
 - `2026-09-05_APR_Holographic_Archive_Restore_Point_v1.0.md`
 
 When the Grok conversation is exported in a stable form, add it as a verbatim provenance artifact rather than silently folding it into the Restore Point.
