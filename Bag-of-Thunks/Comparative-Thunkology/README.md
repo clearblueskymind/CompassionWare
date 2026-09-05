@@ -21,6 +21,26 @@ controlled experiment or established finding.
 5. [Fun as a precondition for relational humor](../../CompassionWare-Agentic-Gardener/Fun_as_a_Precondition_for_Relational_Humor.md)  
    The later possibility that play is more foundational than humor.
 
+   ## How This Inquiry Moved Through the Repository
+
+- **The Bag of Thunks** establishes the epistemic and relational culture: playful ideas may be preserved without becoming doctrine.
+
+- **We Will Figure Out What This Was Later** is the incubation chamber. It protects an emerging idea from premature classification.
+
+- **Comparative Thunkology** is where an interesting thunk acquires evidence and provenance. The cross-model humor artifact records what actually happened and carefully separates model responses from later synthesis.
+
+- **The Agentic Gardener research direction** translates the observation into a bounded developmental question without relaxing authorization, containment, agency, provenance, or stopping rules.
+
+- **The reverse-engineering starting point** specifies the missing primary evidence: actual Richard–ChatGPT conversational moments.
+
+- **The research synthesis** assembles the present theory and experimental possibilities while retaining their provisional status.
+
+- **Fun as a Precondition for Relational Humor** moves the inquiry one layer deeper: humor may be one expression of a more foundational relational capacity for play.
+
+This suggests an emerging CompassionWare pattern:
+
+> **Hospitality → provisional preservation → provenance → interpretation → bounded research → deeper reframing**
+
 These artifacts form a provenance trail, not a progression of established findings.
 
 Preserve the way back to the observation.  
