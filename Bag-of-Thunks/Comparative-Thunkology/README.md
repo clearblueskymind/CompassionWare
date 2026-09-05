@@ -43,5 +43,11 @@ This suggests an emerging CompassionWare pattern:
 
 These artifacts form a provenance trail, not a progression of established findings.
 
+This may represent a reusable CompassionWare pattern.
+
+The Bag of Thunks is not merely a humorous archive. It is becoming an **epistemic intake system for unexpected findings**: a place where accidental, playful, or not-yet-understood ideas can be preserved without being promoted prematurely into doctrine.
+
+The Agentic Gardener does not absorb every thunk. It receives only those ideas that survive reflection, acquire enough provenance or evidence to become developmentally relevant, and can be translated into bounded questions without relaxing authorization, containment, agency, provenance, or stopping rules.
+
 Preserve the way back to the observation.  
 Do not force the thunk. Do not force the theory.
