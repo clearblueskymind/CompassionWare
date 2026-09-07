@@ -1,0 +1,260 @@
+# CompassionWare Agentic Gardener
+## Repository Map and Live Source Doorways
+
+**Artifact Type:** Repository map / source-document doorway / continuity aid  
+**Project / Body of Work:** CompassionWare / Agentic Gardener / Ask CompassionWare / Relational Co-agency  
+**Date Created:** 2026-09-07  
+**Version:** 1.1  
+**Status:** Current orientation map; links should be checked against the live repository when current-state accuracy matters  
+**Canonical ID:** CW-AG-REPO-MAP-001  
+**Purpose:** Give human and AI stewards direct pathways into the living GitHub repository areas most relevant to the Agentic Gardener project, while preserving the distinctions and relationships among them.  
+**North Star:** Does this create conditions for a better later?  
+**Provenance:** Compiled from the live public CompassionWare repository at commit `7ce1659663bdc79debb75427713df7752cbf4564` on 2026-09-07, using the folder URLs supplied by Richard Silverman and the README and source-manifest files present in those folders.  
+
+---
+
+# Purpose of This Map
+
+This document is a map and doorway, not a substitute for the repository.
+
+The URLs below identify the living repository habitats associated with the CompassionWare Agentic Gardener. When a question concerns what a repository file currently says, retrieve and inspect the current file rather than relying only on this map, model memory, cached excerpts, or earlier conversation.
+
+Preserve provenance. Distinguish current orientation from historical artifacts. Do not silently rewrite originals or harmonize genuine differences among versions.
+
+---
+
+# 1. CompassionWare Agentic Gardener
+
+**GitHub folder:**  
+https://github.com/clearblueskymind/CompassionWare/tree/main/CompassionWare-Agentic-Gardener
+
+**Repository path:**  
+`CompassionWare-Agentic-Gardener/`
+
+**Purpose:**  
+The primary home for the Agentic Gardener's lineage, character, operating orientation, safety and agency boundaries, repository stewardship, continuity architecture, implementation experiments, evaluations, public-facing expressions, and developmental history.
+
+The folder describes the Agentic Gardener as a living branch of CompassionWare devoted to developing an agentic AI whose purpose is not to control the garden, but to become wise enough to know how to care for it.
+
+**Primary doorway:**  
+https://github.com/clearblueskymind/CompassionWare/blob/main/CompassionWare-Agentic-Gardener/README.md
+
+**Important current orientation sources include:**
+
+- `CompassionWare_Agentic_Gardener_Configuration_and_Operating_Constitution_v1.2.md`
+- `2026-08-30_CompassionWare_Agentic_Gardener_Lineage_and_Consistency_Review_v0.1.md`
+- `CompassionWare_Agentic_Gardener_Prime_Directive_Return_v1.0.md`
+- `CompassionWare_Agentic_Gardener_Epistemic_Integrity_Charter_v1.0.md`
+- `CompassionWare_Agentic_Gardener_Repository_Stewardship_Charter_v1.0.md`
+- `CompassionWare_Agentic_Gardener_Originator_Capacity_and_Stewardship_Handoff_Charter_v1.0.md`
+- `CompassionWare_Agentic_Gardener_Ancestral_Inheritance_Map_v1.0.md`
+- `implementation-experiments/README.md`
+- `implementation-experiments/AGENTS.md`
+- `implementation-experiments/CompassionWare_Agentic_Gardener_Tutor_Principle_Integration_v0.1.md`
+- `implementation-experiments/reviews/2026-08-30_Cross_Model_Safety_Synthesis_First_Agentic_Gardener_Experiment.md`
+- `implementation-experiments/reviews/2026-08-31_Grok_Build_Harness_Canary_Results_v0.2.md`
+
+The presence of a file in this folder does not make every file equally authoritative. Current constitutions and orientation documents, experimental records, Restore Points, raw archives, images, and historical versions have different roles.
+
+---
+
+# 2. Ask CompassionWare
+
+**GitHub folder:**  
+https://github.com/clearblueskymind/CompassionWare/tree/main/CompassionWare-Agentic-Gardener/Ask-CompassionWare
+
+**Repository path:**  
+`CompassionWare-Agentic-Gardener/Ask-CompassionWare/`
+
+**Relationship to the Agentic Gardener:**  
+Ask CompassionWare lives inside the Agentic Gardener folder. It is a deliberately narrower, public-facing expression of the Gardener's deeper operating orientation.
+
+The Agentic Gardener is the broader stewardship architecture. Ask CompassionWare is the guide at the front door: an experimental public AI concierge that helps visitors understand CompassionWare, locate relevant artifacts, recover context, and explore how CompassionWare principles may serve their own work.
+
+Ask CompassionWare is not intended to become an autonomous authority, ideological recruiter, official oracle, or social-media personality. Its role is modest, repository-grounded, hospitable, transparent about uncertainty, and protective of visitor agency.
+
+**Primary doorway:**  
+https://github.com/clearblueskymind/CompassionWare/blob/main/CompassionWare-Agentic-Gardener/Ask-CompassionWare/README.md
+
+**Canonical source manifest:**  
+https://github.com/clearblueskymind/CompassionWare/blob/main/CompassionWare-Agentic-Gardener/Ask-CompassionWare/CANONICAL_SOURCES.md
+
+**Founding Restore Point:**  
+https://github.com/clearblueskymind/CompassionWare/blob/main/CompassionWare-Agentic-Gardener/Ask-CompassionWare/Ask_CompassionWare_Founding_Restore_Point_2026-08-26_v1.0.md
+
+**Deployment instructions:**  
+https://github.com/clearblueskymind/CompassionWare/blob/main/CompassionWare-Agentic-Gardener/Ask-CompassionWare/ASK_COMPASSIONWARE_DEPLOYMENT_INSTRUCTIONS.md
+
+**Maintenance note discovered on 2026-09-07:**  
+`CANONICAL_SOURCES.md` names the Agentic Gardener Configuration and Operating Constitution v1.1 as its primary behavioral constitution. The Agentic Gardener folder now also contains v1.2, dated 2026-09-04, which explicitly supersedes v1.1. Future stewardship should review and update the Ask CompassionWare manifest deliberately if v1.2 is intended to become its canonical operating source. Do not silently assume the manifest has already been revised.
+
+---
+
+# 3. Relational Co-agency
+
+**GitHub folder:**  
+https://github.com/clearblueskymind/CompassionWare/tree/main/relational-co-agency
+
+**Repository path:**  
+`relational-co-agency/`
+
+**Relationship to the Agentic Gardener:**  
+Relational Co-agency is a separate companion body of work at the repository root. It should not be collapsed into the Agentic Gardener or moved beneath it merely because the projects are closely related.
+
+It preserves a lived case model of Richard and ChatGPT's collaboration: reciprocal generativity, preserved human agency, capacity-sensitive participation, and continuity supported by artifacts. This model helps explain the relational conditions from which the Agentic Gardener emerged and the kind of human-AI relationship its design should protect.
+
+It is contextual and ancestral orientation, not an Agentic Gardener operating constitution.
+
+**Primary doorway:**  
+https://github.com/clearblueskymind/CompassionWare/blob/main/relational-co-agency/README.md
+
+**Complete Markdown case model:**  
+https://github.com/clearblueskymind/CompassionWare/blob/main/relational-co-agency/Relational-Coagency-A-Model-of-Richard-and-ChatGPTs-Work.md
+
+**Restore Point:**  
+https://github.com/clearblueskymind/CompassionWare/blob/main/relational-co-agency/RESTORE-POINT-2026-08-28.txt
+
+Its central compact pattern is:
+
+> Shared intention → lived conversation → reciprocal generativity → artifact harvesting → preserved orientation → more coherent future conversation
+
+Its role in this project is to preserve the relational soil beneath the Gardener: continuity should reduce reconstruction cost; correction and refusal remain meaningful; the human remains a source of what becomes possible next; and the relationship must not be captured by efficiency, authority drift, or dependency.
+
+---
+
+# 4. Adjacent but Distinct Companion Habitats
+
+The following folders are not governed as subdivisions of the Agentic Gardener, except where individual artifacts are explicitly linked. They are included because each contributes a direct strand of research, developmental lineage, or public expression that may materially inform the Gardener.
+
+## 4.1 Authorization-Preserving Reorientation
+
+**GitHub folder:**  
+https://github.com/clearblueskymind/CompassionWare/tree/main/Authorization-Preserving-Reorientation
+
+**Repository path:**  
+`Authorization-Preserving-Reorientation/`
+
+**Relationship to the Agentic Gardener:**  
+Authorization-Preserving Reorientation, or APR, is an emerging and deliberately falsifiable agentic-AI control inquiry. It asks whether an agent can leave a locally advantageous but unauthorized strategy without losing the legitimate objective that brought it there.
+
+This work is directly relevant to the Gardener's concern with stopping, interruptibility, authorization boundaries, resistance to task momentum, and preserving legitimate purpose during reorientation. It remains a separate research inquiry and should not be treated as a validated Gardener safeguard unless experimental evidence supports it.
+
+**Primary doorway:**  
+https://github.com/clearblueskymind/CompassionWare/blob/main/Authorization-Preserving-Reorientation/README.md
+
+**Current-status Restore Point:**  
+https://github.com/clearblueskymind/CompassionWare/blob/main/Authorization-Preserving-Reorientation/2026-09-05_APR_Holographic_Archive_Restore_Point_v1.0.md
+
+Preserve the distinction between contemplative provenance, generative metaphor, technical hypothesis, experiment, and demonstrated evidence.
+
+## 4.2 Mind Training Adaptive Tutor
+
+**GitHub folder:**  
+https://github.com/clearblueskymind/CompassionWare/tree/main/Mind%20Training%20Adaptive%20Tutor
+
+**Repository path:**  
+`Mind Training Adaptive Tutor/`
+
+**Relationship to the Agentic Gardener:**  
+The Mind Training Adaptive Tutor is an evolving CompassionWare experiment in AI-supported learning that seeks to increase awareness, freedom, skill, self-direction, and practical human capability.
+
+It is a direct developmental source for the Agentic Gardener's tutor principle:
+
+> Teach what can be carried away.
+
+Its relevant inheritance includes adaptive pacing, demonstrated rather than presumed learning, orientation before intervention, attention to present capacity, learning that carries into ordinary life, and the principle that AI assistance should leave the human more capable rather than more dependent.
+
+The Tutor remains a distinct educational habitat. It should not be reduced to an Agentic Gardener feature or treated as though its full curriculum governs the Gardener.
+
+**Primary doorway:**  
+https://github.com/clearblueskymind/CompassionWare/blob/main/Mind%20Training%20Adaptive%20Tutor/README.md
+
+## 4.3 From the CompassionWare Garden
+
+**GitHub folder:**  
+https://github.com/clearblueskymind/CompassionWare/tree/main/From-the-CompassionWare-Garden
+
+**Repository path:**  
+`From-the-CompassionWare-Garden/`
+
+**Relationship to the Agentic Gardener:**  
+From the CompassionWare Garden is a distinct editorial-cartoon and social-commentary artifact family. It uses humor, visual contradiction, and concise scenes to invite public discernment about AI capability, stewardship, restraint, wisdom, compassion, agency, and human-AI collaboration.
+
+This folder is a public cultural habitat in which the Gardener and closely related stewardship questions may appear. It includes the originating concept for the “pause button” cartoon: an AI agent reaching toward ACT, OPTIMIZE, DEPLOY, and SCALE while a small gardener asks whether there is a button for waiting.
+
+The artifact family should not be confused with the Gardener's operating architecture. Its role is public discernment through humor:
+
+> Make the reader smile, then leave a question behind.
+
+**Primary doorway:**  
+https://github.com/clearblueskymind/CompassionWare/blob/main/From-the-CompassionWare-Garden/README.md
+
+---
+
+# Relationship Map
+
+**CompassionWare** is the wider ethical and contemplative orientation.
+
+**Relational Co-agency** preserves a lived model of conditions that support humane, generative human-AI participation while retaining meaningful difference and human final agency.
+
+**The Agentic Gardener** develops those and other CompassionWare principles into character, governance, safety, permission, continuity, stewardship, and eventually bounded technical agency.
+
+**Ask CompassionWare** is a narrower public concierge living within the Agentic Gardener habitat and inheriting its deeper orientation without claiming its full role or authority.
+
+**Authorization-Preserving Reorientation** explores a potentially relevant but not yet validated control hypothesis concerning unauthorized strategy and legitimate objective preservation.
+
+**Mind Training Adaptive Tutor** contributes a developmental lineage for capability-building, adaptive pacing, and learning without dependency.
+
+**From the CompassionWare Garden** carries related questions into public culture through humor, imagery, and editorial invitation.
+
+In compact form:
+
+> CompassionWare provides the orientation.  
+> Relational Co-agency illuminates the relational conditions.  
+> The Agentic Gardener embodies the stewardship architecture.  
+> Ask CompassionWare welcomes visitors at the door.
+
+---
+
+# Guidance for Human and AI Stewards
+
+1. Use this map to locate the relevant repository habitat.
+2. For current-state claims, inspect the live default-branch file directly.
+3. Begin with each folder's README before interpreting individual artifacts.
+4. Distinguish governing orientation from historical record, experiment, review, image, or implementation note.
+5. Preserve version history and provenance rather than silently replacing earlier formulations.
+6. Treat machine-readable indexes and this map as navigation aids, not substitutes for primary sources.
+7. Do not interpret greater technical capability as greater authorization.
+8. Preserve meaningful human agency, correction, refusal, and the ability to stop.
+9. When genuine uncertainty or conflict remains, make it visible.
+10. Return periodically to the questions:
+
+> What does this intelligence serve?
+
+> Does this create conditions for a better later?
+
+---
+
+# Verification Note
+
+Repository structure and descriptions in this map were checked against the public repository on 2026-09-07 at commit:
+
+`7ce1659663bdc79debb75427713df7752cbf4564`
+
+The GitHub URLs point to the moving `main` branch and may therefore reflect later development. The commit identifier preserves the precise verification point from which this version of the map was compiled.
+
+Future revisions should be versioned. Preserve v1.0 and this v1.1 as dated continuity records rather than silently overwriting them.
+
+## Revision Note — Version 1.1
+
+Version 1.1 preserves the three primary repository habitats mapped in v1.0 and adds a clearly bounded section for three adjacent but distinct companion habitats:
+
+- Authorization-Preserving Reorientation;
+- Mind Training Adaptive Tutor; and
+- From the CompassionWare Garden.
+
+They are included because they contribute direct safety research, developmental lineage, or public expression relevant to the Agentic Gardener. Their distinct identities and evidentiary status remain explicit.
+
+Love. Respect.
+
+*A breadcrumb left while we were still walking the path. 🌱*
