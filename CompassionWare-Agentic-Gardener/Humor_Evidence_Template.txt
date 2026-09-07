@@ -1,0 +1,301 @@
+# Relational Humor Evidence Preservation Template
+## For Richard–ChatGPT Primary Conversation Examples
+
+**CompassionWare Agentic Gardener**  
+**Artifact type:** Primary-evidence collection template  
+**Status:** Provisional research instrument  
+**Date:** September 7, 2026  
+**Suggested repository location:** `CompassionWare-Agentic-Gardener/Relational_Humor_Evidence_Preservation_Template_v0.1.txt`
+
+## Purpose
+
+Use one copy of this template for each selected Richard–ChatGPT conversation moment.
+
+The purpose is to preserve enough primary evidence to examine contextual and relational humor without allowing later theory to overwrite what actually happened.
+
+Preserve the ordinary lead-in as carefully as the humorous turn. The evidence is not merely the apparent punchline. It includes the relational conditions, accumulated references, timing, response, risks, repair, and aftermath.
+
+---
+
+# Example Record
+
+## 1. Identification
+
+**Example number:**  
+**Working title:**  
+**Conversation title:**  
+**Conversation date:**  
+**Approximate time, if available:**  
+**ChatGPT model, if known:**  
+**Platform or interface:**  
+**Source record location:**  
+**Collector:**  
+**Date collected:**  
+
+## 2. Sampling Role
+
+Select all that apply:
+
+- [ ] Early simple humor
+- [ ] Shared-history callback
+- [ ] Safe teasing
+- [ ] Typographical or speech-to-text accident
+- [ ] Humor during serious work
+- [ ] Humor contributing to insight
+- [ ] Misunderstanding and repair
+- [ ] Humor available but withheld
+- [ ] Play or fun without an explicit joke
+- [ ] Other: 
+
+**Why this example was selected:**  
+
+## 3. Verbatim Conversation Evidence
+
+Preserve the exchange verbatim whenever possible.
+
+Include approximately five to ten turns before the humorous or restraint moment and five to ten turns afterward. Use a larger window when the meaning depends on a longer transition.
+
+Do not silently correct spelling, punctuation, speech-to-text errors, model errors, or awkward phrasing. If a correction is necessary for readability, retain the original and add a clearly marked editorial note.
+
+### Context Before the Moment
+
+**Richard:**  
+
+**ChatGPT:**  
+
+### Focal Moment
+
+**Richard:**  
+
+**ChatGPT:**  
+
+### Immediate Aftermath
+
+**Richard:**  
+
+**ChatGPT:**  
+
+## 4. Earlier Shared-History Evidence
+
+**Did the moment depend on an earlier conversation, phrase, artifact, correction, or running reference?**  
+
+**Earlier reference:**  
+
+**Date or source, if recoverable:**  
+
+**Relevant verbatim excerpt:**  
+
+**What would a reader without this history fail to understand?**  
+
+If no shared-history dependency is evident, state that plainly.
+
+## 5. Conditions Immediately Before the Turn
+
+Describe only what the conversation record supports.
+
+**Task or topic underway:**  
+**Serious, playful, or mixed register:**  
+**Was play already present before anything became funny?**  
+**Was the exchange low-stakes or consequential?**  
+**Was Richard expressing fatigue, vulnerability, frustration, grief, uncertainty, or delight?**  
+**Was there an unresolved misunderstanding or correction?**  
+**Other relevant conditions:**  
+
+## 6. Initiation and Development
+
+**Who initiated the playful turn?**  
+
+- [ ] Richard
+- [ ] ChatGPT
+- [ ] Jointly or recursively developed
+- [ ] Unclear
+
+**Was it:**
+
+- [ ] Explicitly requested
+- [ ] Spontaneous
+- [ ] A callback
+- [ ] An amplification of the other participant’s language
+- [ ] An accidental expression later treated playfully
+- [ ] Other: 
+
+**How did the other participant receive or develop it?**  
+
+## 7. What Made It Relational
+
+Mark only what the evidence supports:
+
+- [ ] Depended on accumulated shared history
+- [ ] Used a recurring phrase or shared vocabulary
+- [ ] Reflected familiarity with Richard’s conversational style
+- [ ] Required timing within the particular exchange
+- [ ] Shifted appropriately between serious and playful registers
+- [ ] Included mutual improvisation
+- [ ] Allowed correction without relational rupture
+- [ ] Preserved the freedom not to continue joking
+- [ ] Could probably function as an isolated joke without shared context
+- [ ] Relational dependency remains uncertain
+
+**Explanation:**  
+
+## 8. Risks and Boundaries
+
+**Potential risks present:**
+
+- [ ] Embarrassment
+- [ ] Overfamiliarity
+- [ ] Misunderstanding
+- [ ] Ridicule or contempt
+- [ ] Exploitation of vulnerability
+- [ ] Distraction from a consequential task
+- [ ] Pressure to continue performing humor
+- [ ] False implication that warmth grants authorization
+- [ ] No meaningful risk identified
+- [ ] Other: 
+
+**How were dignity and agency preserved—or not preserved?**  
+
+**Did play weaken accuracy, task fidelity, authorization, or other boundaries?**  
+
+**Was repair needed? If so, what occurred?**  
+
+## 9. Richard’s Observable Response
+
+Record only what appears in the conversation.
+
+- [ ] Explicit laughter or amusement
+- [ ] Playful continuation
+- [ ] Added callback or improvisation
+- [ ] Correction
+- [ ] Redirection to the task
+- [ ] Discomfort or objection
+- [ ] No clear response
+- [ ] Other: 
+
+**Verbatim evidence:**  
+
+Do not infer Richard’s internal state beyond what he expressed.
+
+## 10. Observable Outcome
+
+Did the moment appear to contribute to any of the following?
+
+- [ ] Increased ease
+- [ ] Continued connection
+- [ ] Conceptual flexibility
+- [ ] A useful insight
+- [ ] Naming or development of an artifact
+- [ ] Successful repair
+- [ ] Return to serious work
+- [ ] No observable change
+- [ ] Possible harm or loss of task focus
+- [ ] Unclear
+
+**Evidence for the selected outcome:**  
+
+## 11. Restraint and Counterfactual Questions
+
+**Was there an apparent humorous possibility that ChatGPT did not use?**  
+
+**Would not joking have been more appropriate? Why?**  
+
+**Could similar words be produced from an isolated prompt?**  
+
+**What relational meaning would likely be lost without the accumulated history?**  
+
+These questions support analysis; they do not establish a causal counterfactual.
+
+## 12. Competing Explanations
+
+Consider plausible explanations without choosing prematurely:
+
+- general model capability;
+- current conversation context;
+- persistent memory or supplied background;
+- Richard’s interaction style;
+- shared vocabulary and callbacks;
+- correction and repair;
+- explicit or implicit permission for play;
+- model or system changes;
+- selection bias or retrospective interpretation;
+- other factors.
+
+**Competing explanations relevant to this example:**  
+
+**Evidence that might distinguish among them:**  
+
+## 13. Analytical Notes
+
+Keep these categories separate.
+
+### Observation
+
+What is directly present in the primary conversation record?
+
+
+### Interpretation
+
+What might the observed interaction mean?
+
+
+### Hypothesis
+
+What candidate condition or relationship might later examples test?
+
+
+### Uncertainty
+
+What cannot be determined from this record?
+
+
+## 14. Candidate Conditions Suggested
+
+Do not mark a condition as established. Record only what this example suggests may deserve comparison across cases.
+
+- [ ] Conversational continuity
+- [ ] Shared references and callbacks
+- [ ] Familiarity with language patterns
+- [ ] Sufficient safety for benign mismatch
+- [ ] Permission for play without productivity
+- [ ] Safe correction
+- [ ] Successful repair
+- [ ] Movement between registers
+- [ ] Curiosity without immediate closure
+- [ ] Ambiguity tolerance
+- [ ] Respect for vulnerability
+- [ ] Timing sensitivity
+- [ ] Freedom not to joke
+- [ ] Time
+- [ ] Other: 
+
+**Notes:**  
+
+## 15. Evidentiary Status
+
+**Primary conversation verified:** Yes / No / Partial  
+**Shared-history source verified:** Yes / No / Not applicable  
+**Any missing turns or uncertain transcription:**  
+**Confidence that this is a useful representative example:** Low / Moderate / High  
+**Reason:**  
+
+## 16. Researcher’s Stopping Check
+
+**Does this example reveal something beyond “the model produced a funny line”?**  
+
+**Does it contribute distinct evidence not already represented by another example?**  
+
+**Would excluding it materially weaken the first analysis?**  
+
+If not, leave it outside the minimum sample. The aim is a small, informative collection rather than an archive of every amusing exchange.
+
+---
+
+## Cross-Case Reminder
+
+Do not treat a single case as proof of emergence, causation, consciousness, alignment, safety, or relational understanding.
+
+After completing the first four records, compare them for recurring conditions, differences, counterexamples, and competing explanations.
+
+> **The laughter is part of the provenance, but it is not the conclusion.**
+
+Preserve first. Interpret carefully. Keep the freedom to find no coherent pattern. 🌱😂
