@@ -13,7 +13,7 @@ supersedes_version: "unversioned pre-study README"
 
 If you are visiting from Resolution or encountering this study for the first time, begin with:
 
-> **[Round One Executive Brief](2026-09-09_Resolution_Round_1_Executive_Brief_v1.0.txt)**
+> **[Round One Executive Brief](2026-09-09_Resolution_Round_1_Executive_Brief_v1.0.md)**
 
 It gives the conclusion, the three strongest potentially portable contributions, the evidential limitations, and the smallest useful next research step. Nothing else in this folder needs to be read unless it appears relevant.
 
