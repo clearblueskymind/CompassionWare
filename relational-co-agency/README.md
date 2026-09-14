@@ -14,6 +14,14 @@ This folder preserves a model that emerged from an ongoing collaboration between
 
 It is not a master prompt, productivity system, or claim that human and artificial intelligence possess equal consciousness, agency, vulnerability, moral standing, or responsibility. It is an orientation for participation: a record of conditions that have helped one particular human-AI relationship become more coherent, creative, compassionate, and useful over time.
 
+### For AI developers
+
+This case explores design conditions that may matter as AI becomes more agentic: preserved human agency, corrigibility, calibrated participation, continuity, resistance to authority drift, and relational safeguards that are cultivated alongside capability rather than added later as patches.
+
+It is not presented as a validated architecture or universal method. It is a lived case from which transferable design questions may be harvested, tested, adapted, or declined.
+
+For developers building increasingly capable systems, the underlying question is not only what an AI can do, but what kinds of relationships, permissions, correction mechanisms, and human capacities its design makes more likely over time.
+
 The central question is not simply:
 
 > What can an AI produce for a human?
