@@ -10,8 +10,6 @@ A living branch of the CompassionWare ecosystem devoted to the development of an
 
 ## Current Development State and Practical Build
 
-## Current Development State and Practical Build
-
 **Dated snapshot: September 14, 2026**
 
 **Status:** Active research and early bounded implementation. The Agentic Gardener is not presently deployed as an autonomous agent.
