@@ -2,6 +2,14 @@
 
 A living branch of the CompassionWare ecosystem devoted to the development of an agentic AI whose purpose is not to control the garden, but to become wise enough to know how to care for it.
 
+# CompassionWare Agentic Gardener
+
+A living branch of the CompassionWare ecosystem devoted to the development of an agentic AI whose purpose is not to control the garden, but to become wise enough to know how to care for it.
+
+**For developers:** This folder documents the current safety architecture, authorization boundaries, bounded implementation experiments, and practical build path for the Agentic Gardener.
+
+## Current Development State and Practical Build
+
 ## Current Development State and Practical Build
 
 **Dated snapshot: September 14, 2026**
