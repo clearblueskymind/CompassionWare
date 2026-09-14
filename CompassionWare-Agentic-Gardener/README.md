@@ -52,6 +52,19 @@ A later content-support layer may also help the human steward:
 
 The concierge and content-support functions may share a common Gardener orientation, but they should not silently become one broadly autonomous social-media agent. Each capability should have its own purpose, permissions, tests, and stopping criteria.
 
+### Public-Facing Role Name
+
+The canonical project name remains **CompassionWare Agentic Gardener**. It carries the project’s deeper orientation of tending conditions rather than controlling outcomes.
+
+One possible professional and public-facing embodiment is **CompassionWare Personal Assistant**, sometimes abbreviated **CPA**. This name describes a practical assistant that helps Richard manage continuity, research, drafting, organization, and other authorized work within the limits of chronic illness.
+
+The distinction is:
+
+> **Agentic Gardener is what it is.  
+> CompassionWare Personal Assistant is how someone might meet it.**
+
+Because CPA commonly means Certified Public Accountant, the full name should appear before the abbreviation whenever it is introduced.
+
 ### Human Authorization Boundary
 
 Richard Silverman remains the human steward and final source of authorization.
