@@ -11,6 +11,22 @@ https://github.com/clearblueskymind/CompassionWare
 
 All materials are offered under the CC0 1.0 Universal public-domain dedication.
 
+## Current Active Entry Points
+
+For a concise view of CompassionWare's current living development, begin with these areas:
+
+- [CompassionWare Agentic Gardener](https://github.com/clearblueskymind/CompassionWare/tree/main/CompassionWare-Agentic-Gardener): Current work on bounded agentic stewardship, authorization, epistemic integrity, continuity, human agency, and cautious implementation experiments.
+
+- [CompassionWare Benchmark](https://github.com/clearblueskymind/CompassionWare/tree/main/CompassionWare-Benchmark): Exploratory work asking whether increasingly capable AI systems preserve agency, benefit human life, and help create better long-term conditions.
+
+- [Relational Co-agency](https://github.com/clearblueskymind/CompassionWare/tree/main/relational-co-agency): A lived case model exploring reciprocal generativity, corrigibility, preserved human agency, capacity-sensitive participation, and human–AI relationship.
+
+- [Restore Points](https://github.com/clearblueskymind/CompassionWare/tree/main/restore-points): Continuity artifacts that preserve recent developmental context and provide places from which humans or AI systems can recover orientation.
+
+- [K-16 Ethical AI Literacy Framework](https://github.com/clearblueskymind/CompassionWare/tree/main/K16-Ethical-AI-Literacy-Framework): Educational work on ethical AI literacy, verification, discernment, responsible participation, and human agency.
+
+These are current entry points, not a ranking of importance or a substitute for the broader repository. For foundational orientation and comprehensive navigation, continue with the resources below.
+
 ## Raw URLs for restricted fetch tools
 
 Use these exact URLs if you cannot construct GitHub paths or follow markdown links.
