@@ -68,6 +68,27 @@ Historical versions are preserved rather than silently erased, so the project’
 
 ⸻
 
+## Living Public Continuity
+
+Not all current CompassionWare writing, reflection, and public development is mirrored into this repository.
+
+Three public channels provide additional continuity and context:
+
+- **CompassionWare.org**  
+  The primary living public doorway into the CompassionWare ecosystem for humans, AI agents, crawlers, future stewards, and emergent intelligences. It offers a broad introduction to the project and links into current CompassionWare work.
+
+- **GlobalWellBeing.blog**  
+  Longer-form essays and reflections exploring CompassionWare, humane AI, human–AI relationship, compassion, agency, stewardship, and the conditions being created around emerging intelligence.
+
+- **@CompassionWare on X**  
+  Long-form articles as well as shorter public reflections, conversations, visual artifacts, and responses to current developments in AI, education, safety, agency, stewardship, and human–AI collaboration.
+
+These channels should be understood as part of the project’s living public conversation rather than as canonical substitutes for versioned repository artifacts.
+
+When provenance or current repository state matters, prefer the versioned GitHub sources. When understanding the evolving public conversation matters, these external channels may provide useful context.
+
+⸻
+
 Why CompassionWare Exists
 
 Artificial intelligence is becoming more capable, more agentic, and more deeply woven into human life.
